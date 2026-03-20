@@ -20,6 +20,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Jenny Wen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. It's not just designers who are feeling like, \"Oh yeah, we have to keep up with engineers.\" I think even engineers are like, \"How do we keep up with ourselves?\", covering product design, AI product work, and engineering tradeoffs.",
+      "takeaways": [
+        "I've basically shifted all of my chat use cases over to Cowork, because I've been finding that it sort of is better at these longer running tasks.",
+        "Whenever I do work with engineers on projects, and it's more on a consulting basis, I do just try to explain why I'm thinking a way that I'm thinking, to help them extract principles.",
+        "As opposed to me just being like, \"No, I don't think this should go here.",
+        "\" It's like, \"No, I think we should have a button here because not everybody realizes you can prompt this."
+      ],
       "topQuotes": [
         {
           "text": "What is in my AI stack? Well, we work at Anthropic, so we're going deep on the Claude stack. I'm using, obviously, chats, Claude Chat, but increasingly more and more Claude Cowork. I've basically shifted all of my chat use cases over to Cowork, because I've been finding that it sort of is better at these longer running tasks. And most of the things I was asking Claude for are these longer running tasks.",
@@ -63,6 +70,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Jeetu Patel shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. And the reason we pulled this thing together, the goal was, what is happening in the industry and how can we help customers make sure that they can make the most of it, covering AI product work, team leadership, and product design.",
+      "takeaways": [
+        "When I got this new job, there's zero chance I would have been able to do it if AI wasn't there, because I didn't know anything about so many domains that we were in.",
+        "So, that's what we did, and I think that's been those principles of building great products, but making sure that it operates like a platform and having an open ecosystem, I think has been kind of central.",
+        "I'm like, \"That seems like it's a lot because we have a very broad portfolio.",
+        "You don't want to have packet loss in your storytelling from you to the person on the front line because-."
       ],
       "topQuotes": [
         {
@@ -108,6 +122,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Boris Cherny shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. This is the world now.\" What's the next big shift to how software is written that either your team is already operating in or you think will head towards, covering engineering tradeoffs, product design, and AI product work.",
+      "takeaways": [
+        "I think another principle is just encouraging people to go faster.",
+        "So, if you can do something today, you should just do it today.",
+        "Early on, it was really important, because it was just me.",
+        "As a programmer, it doesn't feel that new, because there's always new frameworks."
+      ],
       "topQuotes": [
         {
           "text": "I think another principle is just encouraging people to go faster. So, if you can do something today, you should just do it today. And this is something we really, really encourage on the team. Early on, it was really important, because it was just me. And so, our only advantage was speed. That's the only way that we could ship a product that would compete in this very crowded coding market.",
@@ -152,6 +173,12 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Brian Halligan shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Brian Halligan co-founded HubSpot, ran it as CEO for about 15 years, and now coaches Sequoia’s fastest-growing founders as their in-house CEO coach.",
+      "takeaways": [
+        "I think even me, I've been doing this for 150 years, I still think I overrate my ability to interview someone, and really know if they're a good fit.",
+        "Before he's got a C-level interview, CFO, chief product officer, whatever, he has some sign an NDA, and sends them the last board deck, or the board memo, or some important doc, and he schedules a half hour interview with them, and he just has a chat about the decks.",
+        "If they're just very complimentary, and it's so great, and you're doing this amazing thing, it's a major red flag to him because he wants someone that will challenge him and not a yes person."
+      ],
       "topQuotes": [
         {
           "text": "I think even me, I've been doing this for 150 years, I still think I overrate my ability to interview someone, and really know if they're a good fit. I give a couple pieces of advice. Parker Conrad has a good hack that I liked. Before he's got a C-level interview, CFO, chief product officer, whatever, he has some sign an NDA, and sends them the last board deck, or the board memo, or some important doc, and he schedules a half hour interview with them, and he just has a chat about the decks. And if they're just very complimentary, and it's so great, and you're doing this amazing thing, it's a major red flag to him because he wants someone that will challenge him and not a yes person. And I thought that was a pretty good hack to get inside someone's head and how they think and how they'll interact with you.",
@@ -194,6 +221,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Sherwin Wu V2 shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. If you talk to a lot of engineers, the thing that annoys them the most is after you've written your beautiful code, how do you get it into production, covering engineering tradeoffs, AI product work, and team leadership.",
+      "takeaways": [
+        "I think the same thing might happen for people management as well, especially in tech companies.",
+        "There's some teams where there are EMs managing quite a few people and they're doing it pretty adeptly because of some of these tools where they can get higher leverage and understand what their team's doing, understand organizational context a little bit better and operate in that way.",
+        "One of these principles is what I talked to you about before, which is spending a lot of time with top performers, like actually spending.",
+        "The way that I think about it is kind of come back to this analogy of software engineer as a surgeon, which comes from The Mythical Man-Month."
       ],
       "topQuotes": [
         {
@@ -238,6 +272,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Lazar Jovanovic shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Lazar Jovanovic is a full-time professional vibe coder at Lovable. His job is to build both internal tools and customer-facing products purely using AI, while not having a coding background.",
+      "takeaways": [
+        "Then it's my personal mission that resonates with me because if there wasn't Lovable, I would've never built anything, potentially in my life and I don't think that, that would've been a fun life to live.",
+        "I guarantee people, I've tested this framework with many people and everybody's telling me the same thing, \"Eye-opener.",
+        "You, as somebody who directs and builds this product, you need to know, again, what's going to be useful, what's going to be tasteful, what's going to be something that actually moves the needle.",
+        "I will say one thing though, just because I put so much emphasis on, \"Oh, you need to acquire taste."
+      ],
       "topQuotes": [
         {
           "text": "And then it's my personal mission that resonates with me because if there wasn't Lovable, I would've never built anything, potentially in my life and I don't think that, that would've been a fun life to live. So I guarantee people, I've tested this framework with many people and everybody's telling me the same thing, \"Eye-opener.\"",
@@ -280,6 +321,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Dr. Becky Kennedy shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Working with difficult adults, covering product design, team leadership, and practical product lessons.",
+      "takeaways": [
+        "Whether we're talking about leadership in parenting or leadership in the workplace, it's actually the exact same principles that can be applied.",
+        "It's not because they're taking advantage of you.",
+        "It's because they feel that much more dysregulated because they don't feel like there's an adult in the room who's willing to put a container on their shell-less egg to help them come back together and move forward in a better direction.",
+        "One of the reasons I love talking about childhood is because that's when our brain is wiring."
       ],
       "topQuotes": [
         {
@@ -324,6 +372,12 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Marc Andreessen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Marc Andreessen is a founder, investor, and co-founder of Netscape, as well as co-founder of the venture capital firm Andreessen Horowitz (a16z). In this conversation, we dig into why we’re living through a unique and one of the most incredible times in history, and what comes next.",
+      "takeaways": [
+        "We actually need AI to work because we're going to need machines to do all the jobs that we're not going to have people to do because we're literally going to depopulate the planet over the next 100 years.",
+        "He had this famous career advice he would give people, which I think makes a lot of sense.",
+        "Of course, as a VC, this is very exciting because it means we're doing this now."
+      ],
       "topQuotes": [
         {
           "text": "And we actually need AI to work because we're going to need machines to do all the jobs that we're not going to have people to do because we're literally going to depopulate the planet over the next 100 years. And so I think the interplay of these factors is going to be much more interesting, and frankly, more complex than a lot of people have been thinking.",
@@ -366,6 +420,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Jason Cohen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jason’s five-step framework: logo retention, pricing, NRR, marketing channels, target market.",
+      "takeaways": [
+        "Then a year later you look back and you should be like 50 or a hundred percent better because you've stacked these things, and you look back, and like nothing's different.",
+        "Your prices are way too low because you just guessed and you haven't changed them.",
+        "By the way, as you approach that number, growth is very slow because you bring in a bunch of customers and almost the same number leave, so growth is slowing.",
+        "That's why this is the first thing, because it's such a hard cap limit and it means that people don't want your product."
       ],
       "topQuotes": [
         {
@@ -411,6 +472,12 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Zevi Arnovitz shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The complete AI workflow that lets non-technical people build real products in Cursor.",
+      "takeaways": [
+        "It was like a crazy moment for me because I was watching this and it basically felt like someone came up to me and said, \"Hey Zevi, there's this cool new technology you should check out.",
+        "Oh, and by the way, you have superpowers now.",
+        "It's very difficult for me to catch mistakes."
+      ],
       "topQuotes": [
         {
           "text": "And it was like a crazy moment for me because I was watching this and it basically felt like someone came up to me and said, \"Hey Zevi, there's this cool new technology you should check out. You should really give it a try. Oh, and by the way, you have superpowers now.\" And the second I got home from Japan, I didn't even unpack my bags, ran to my computer, opened Bolt, opened an account, and for the past year I've been building.",
@@ -454,6 +521,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Sam Lessin shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Silicon Valley’s missing etiquette playbook, covering startup building, product design, and operator lessons.",
+      "takeaways": [
+        "Hilarious just because you should have fun in life.",
+        "We should be working on things that are fun and interesting.",
+        "Again, I think the thing for us is I'm kind of a ship early, ship often guy.",
+        "V1, you should buy it now and study it because it's good and it's going to be a limited edition."
+      ],
       "topQuotes": [
         {
           "text": "I really enjoy things at the intersection of hilarious and useful. You kind of need both. And hilarious just because you should have fun in life. We should be working on things that are fun and interesting. Also, candidly, if we're being more honest about it's very hard to cut through the noise these days. So you need humor is a great way to cut through it, but humor just for the sake of being funny is not that useful.",
@@ -496,6 +570,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Alexander Embiricos shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. How to set up and use Codex in VS Code and terminal environments for both simple and complex coding tasks.",
+      "takeaways": [
+        "What we can do is as a product team just try to always think about how are we building a tool so that it feels like we're maximally accelerating people rather than building a tool that makes it more unclear what you should do as the human.",
+        "By far, I would say the speed and ambition of working at OpenAI are just dramatically more than what I can imagine.",
+        "I guess it's kind of an embarrassing thing to say because everyone who's a startup founder thinks like, \"Oh yeah, my startup moves super fast and the talent bar is super high and we're super ambitious.",
+        "Then I think agents outside of coding, it's still very early."
       ],
       "topQuotes": [
         {
@@ -541,6 +622,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Aishwarya Naresh Reganti + Kiriti Badam shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. But if you make a bunch of practitioners sit together and ask them, \"Is it important to build an actionable feedback loop for AI products?\" I think all of them will agree, covering AI product work, product design, and team leadership.",
+      "takeaways": [
+        "I think that will be a huge problem once systems go mainstream.",
+        "You're kind of stuck because there are tons of instructions that you could inject within your prompt and then it's going really bad.",
+        "That doesn't mean you should always design evaluation metrics.",
+        "There are some errors that you can just fix and not really come back to because they're very spot errors."
+      ],
       "topQuotes": [
         {
           "text": "I think that will be a huge problem once systems go mainstream. We're still so busy building AI products that we're not worried about security, but it will be such a huge problem to kind of, especially with this non-deterministic API again. So you're kind of stuck because there are tons of instructions that you could inject within your prompt and then it's going really bad.",
@@ -585,6 +673,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Molly Graham shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Molly Graham has worked for some of tech’s most effective leaders, including Mark Zuckerberg, Sheryl Sandberg, Chamath Palihapitiya, and Bret Taylor. Today she leads Glue Club, a community for leaders navigating rapid scale, growth, and change.",
+      "takeaways": [
+        "First of all, Ami Vora, who you have had on your podcast, once said to me that all advice is just someone telling you what they did.",
+        "Because I really think that basically what I tell people is I've made every single mistake in the book.",
+        "Then I got to the end of the book and I started inventing new mistakes.",
+        "Mostly what I feel is that I like sharing my stories because I want to help people."
+      ],
       "topQuotes": [
         {
           "text": "So first of all, Ami Vora, who you have had on your podcast, once said to me that all advice is just someone telling you what they did. And I always think about that. Because I really think that basically what I tell people is I've made every single mistake in the book. And then I got to the end of the book and I started inventing new mistakes. So mostly what I feel is that I like sharing my stories because I want to help people. I want to help people not make the same mistakes I did. And I also want to help people make sense of what they're experiencing. But I started in tech in 2007. I actually started at Google the week the iPhone launched and a lot of my scaling battle scars come from a couple of experiences. They come from a year and a half at Google, which is not very long.",
@@ -627,6 +722,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Jason M Lemkin shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. We replaced our sales team with 20 AI agents—here’s what happened, covering B2B products, startup building, and team leadership.",
+      "takeaways": [
+        "I think it's an evergreen topic, but I think there's remains a consistent set of confusion, fears around how to build a sales team, and it's evergreen.",
+        "The tools change and the pace has changed, but the issues, I love to dig into them because we keep making the same mistakes as founders and executives again and again and again.",
+        "Sometimes even the founders get mad at me for doing this, because sometimes, the candidate bails.",
+        "I mean, what if you hired someone for your podcast and they decided, \"You know what."
       ],
       "topQuotes": [
         {
@@ -672,6 +774,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Matt MacInnis shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Matt MacInnis is the chief product officer and former longtime COO at Rippling, a unified workforce management platform valued at over $16 billion.",
+      "takeaways": [
+        "You got to sort of remind people of that, that if they ever find themselves in the comfort zone at work, they are definitely making a mistake.",
+        "So I do use that framework as a sort of guiding principle in my own leadership.",
+        "It uses weird pronouns for the secretary and the executive.",
+        "The book itself is so chock-full of simple enduring advice on how to be effective at leading teams."
+      ],
       "topQuotes": [
         {
           "text": "It's going to be really uncomfortable. And you got to sort of remind people of that, that if they ever find themselves in the comfort zone at work, they are definitely making a mistake. They have definitely screwed up somehow. It's not that an extraordinary effort is sufficient to an extraordinary outcome, but it is 100% true that it is necessary. And so I do use that framework as a sort of guiding principle in my own leadership.",
@@ -716,6 +825,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Elena Verna 4.0 shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Who would've thought that a head of growth, who is traditionally seen as data, metrics, spreadsheets, drive KPIs is like, \"Okay, how do we make this more lovable, covering growth systems, product design, and pricing decisions.",
+      "takeaways": [
+        "It's not a framework that I can even conceptualize in my head.",
+        "That's the difference because when you're usually trying to create a new category, it takes years.",
+        "We're really just putting a lot of oil into it, and figuring out what is our engine actually going to be that is going to take us forward.",
+        "When I'm thinking about the patterns here, and what I have to unlearn, I feel like only 30 to 40% of what I've learned in the last 15 to 20 years of being in growth transfers here."
+      ],
       "topQuotes": [
         {
           "text": "So, I want to make sure that there's not that much value on what I have even added today, because this company is on the tear, and yes, we're rounding the edges and removing barriers for growth, so we're not standing in our own way, but there's something more magical happening here that is not a pattern that I've ever seen before. It's not a framework that I can even conceptualize in my head. And plus, it's a new category that I've never seen, or I've never been in a company that is in a new emerging category, that hits fast moving water so quickly. And that's the difference because when you're usually trying to create a new category, it takes years. I know it's every marketer's dream to create a new category, but it takes decades often to really get that much hype and adoption around it. Versus with vibe coating, this hype seemed to have happened really quickly.",
@@ -759,6 +875,12 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Edwin Chen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Edwin Chen is the founder and CEO of Surge AI, the company that teaches AI what’s good and bad, powering frontier labs with elite data, environments, and evaluations. Surge surpassed $1 billion in revenue with under 100 employees last year, completely bootstrapped—the fastest company in history to reach this milestone.",
+      "takeaways": [
+        "I used to work at a bunch of the big tech companies and I always felt that we could fire 90% of the people and we would move faster because the best people wouldn't have all these distractions.",
+        "So I think two things are colliding.",
+        "Other companies are going to be principled and be like, \"Okay, yeah, no, I don't care about marketing."
+      ],
       "topQuotes": [
         {
           "text": "We basically never wanted to play the Silicon Valley game. I always thought it was ridiculous. I used to work at a bunch of the big tech companies and I always felt that we could fire 90% of the people and we would move faster because the best people wouldn't have all these distractions. So when we start Surge, we wanted to build it completely differently with a super small, super elite team.",
@@ -800,6 +922,12 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Tomer Cohen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why LinkedIn is turning PMs into AI-powered \"full stack builders”, covering product design, team leadership, and AI product work.",
+      "takeaways": [
+        "I felt that I tried for a few months to play on the overall experience with everybody, but it was really hard, almost like impossible because you have an organization that is so tied into how things work that I was just hitting walls after walls after escalations and it was just unproductive.",
+        "In fact, you should go all the way to infrastructure.",
+        "It's like what is the potential here."
       ],
       "topQuotes": [
         {
@@ -845,6 +973,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Jeanne Grosser shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google, and, most recently, Vercel, where she serves as COO and oversees marketing, sales, customer success, revenue operations, and field engineering. She transformed Stripe’s early sales organization from the ground up and advises founders on GTM strategy.",
+      "takeaways": [
+        "With AI, it's just intensified because you have 10 players pursuing the same market opportunity and so your ability to actually bring the product to market to differentiate yourself from the competition has become more strategically important than it was previously.",
+        "We buy a lot of things because of how we feel about them.",
+        "Now you do need to write code for that.",
+        "I do think we've sort of found one of the reasons actually the GTM Eng team at Versel can build these agents so easily is because the Versel platform is making it that easy to use our framework to find infrastructure and get that agent onto into production very rapidly."
+      ],
       "topQuotes": [
         {
           "text": "With AI, it's just intensified because you have 10 players pursuing the same market opportunity and so your ability to actually bring the product to market to differentiate yourself from the competition has become more strategically important than it was previously.",
@@ -887,6 +1022,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Rachel Lockett shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. A guide to difficult conversations, building high-trust teams, and designing a life you love, covering team leadership, product design, and consumer products.",
+      "takeaways": [
+        "People have climbed the ladder because they've been dependable, reliable, the smartest person in the room.",
+        "Lenny, you're probably a good listener because this is what you do for a living is you listen to the people who come on your podcast.",
+        "I came into the team, there was I think 12 senior engineers, very opinionated, very skeptical, this non-technical PM, but we worked together.",
+        "Even if you don't want to go through a whole culture exercise early on in building your company, you should have some sense of how you want to show up for each other."
       ],
       "topQuotes": [
         {
@@ -931,6 +1073,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Stewart Butterfield shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Mental models for building products people love ft. Stewart Butterfield, covering product design, B2B products, and consumer products.",
+      "takeaways": [
+        "To me that was like, \"You should be embarrassed.",
+        "\" If you can't see almost limitless opportunities to improve, then you shouldn't be designing the product.",
+        "The reason I say you have to be coldly rational about it is because it's fucking humiliating.",
+        "The challenge is that people, A, I think this is evolutionary biological."
+      ],
       "topQuotes": [
         {
           "text": "To me that was like, \"You should be embarrassed.\" If you can't see almost limitless opportunities to improve, then you shouldn't be designing the product.",
@@ -972,6 +1121,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Dr. Fei Fei Li shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jobs, robots & why world models are next, covering AI product work, product design, and consumer products.",
+      "takeaways": [
+        "In the middle of 2015, middle of 2016, some tech companies avoid using the word AI because they were not sure if AI was a dirty word.",
+        "I chose to look at artificial intelligence through the lens of visual intelligence because humans are deeply visual animals.",
+        "We need to train machines with as much information as possible on images of objects, but objects are very, very difficult to learn.",
+        "In order to train computers with tens and thousands of object concepts, you really need to show it millions of examples."
       ],
       "topQuotes": [
         {
@@ -1017,6 +1173,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Grant Lee shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Inside the rise of Gamma, covering strategic decision-making, product design, and growth systems.",
+      "takeaways": [
+        "I think these are all skills you should invest in as early as possible, because you know you're going to have to get better and better.",
+        "I think this is even more probably helpful for certainly a lot of folks that are starting to do much with vibe-coded apps.",
+        "Now, prove that it's useful to some set of users, and this should be again, every day, every week, you should be able to go through a ton of these, and then build on the things that seem to be working.",
+        "So for us, that was this sort of A/B test of testing these two things that we invested equal amount of time into, and coming out at the other end realizing that, one, was going to be the product we were pour all of our blood, sweat and tears into making it great because we saw the potential in it."
+      ],
       "topQuotes": [
         {
           "text": "And so I do think part of founder-led marketing is going through this yourself, using your own platform. In the beginning it's probably going to be super small. But as you get bigger, you have a platform to ... You have a voice and people listen. And you're going to get better and better at your own storytelling. I think these are all skills you should invest in as early as possible, because you know you're going to have to get better and better. It's like practice, you got to practice over and over.",
@@ -1061,6 +1224,12 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Jen Abel shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jen Abel is GM of Enterprise at State Affairs and co-founded Jellyfish, a consultancy that helps founders learn zero-to-one enterprise sales. She’s one of the smartest people I’ve ever met on learning enterprise sales, and in this follow-up to our first chat two years ago (covering the zero to $1 million ARR.",
+      "takeaways": [
+        "I think that's where a lot of early stage founders get tripped up as they're taking late stage sales advice, usually coming from an investor.",
+        "Because who wants to make a mistake and also who wants to go through switching costs.",
+        "The beauty with the American market, and I say this because we do a little bit of work with international startups too, is if something doesn't feel right, people love to complain about it."
+      ],
       "topQuotes": [
         {
           "text": "A hundred percent. And you raised such a good point, Lenny, which is late stage sales and early stage sales are very, very different. And I think that's where a lot of early stage founders get tripped up as they're taking late stage sales advice, usually coming from an investor. Or they've maybe hired a salesperson that's focused on more mature sales. But I think she's spot on. Buying is just as hard, if not harder, than selling right now. Because who wants to make a mistake and also who wants to go through switching costs? Oh, it's so painful.",
@@ -1104,6 +1273,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Melanie Perkins shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The woman behind Canva shares how she built a $42B company from nothing, covering product design, strategic decision-making, and startup building.",
+      "takeaways": [
+        "Every idea starts in the chaos side, and then you have to work all the way to the other side, which is clarity.",
+        "That very first step at the far end of chaos was quite an embarrassing step actually, because you don't have mastery at that point.",
+        "It was pretty consistent, but the way we articulated it changed greatly.",
+        "\" And so then the first few pages became very much more problem-based because if people don't understand the problem then they can't understand or care about your solution."
+      ],
       "topQuotes": [
         {
           "text": "So we have this concept of chaos to clarity. Every idea starts in the chaos side, and then you have to work all the way to the other side, which is clarity. That very first step at the far end of chaos was quite an embarrassing step actually, because you don't have mastery at that point. You don't have all the answers.",
@@ -1145,6 +1321,13 @@
         "Sales & GTM",
         "Career & Personal Growth",
         "Data & Analytics"
+      ],
+      "summary": "Dhanji R. Prasanna shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), where he’s managed more than 4,000 engineers over the past two years. Under his leadership, Block has become one of the most AI-native large companies in the world.",
+      "takeaways": [
+        "\" And that's how it started, and then there were a whole number of steps after that where we went from a GM structure to a functional org structure, which was I think the key to making our transformation into being more of an AI-native company.",
+        "I think that one of the things that I learned the most throughout this process is that Conway's Law can be really, really powerful.",
+        "Then on the engineering side, it's very variable because like I said before, it matters how big and how complex the code base is.",
+        "Yeah, so these are things that I think we were waiting for the calendar vendor to build as features into calendar, but we don't need to do that anymore because AI is able to orchestrate this for us."
       ],
       "topQuotes": [
         {
@@ -1190,6 +1373,12 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Chip Huyen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix), covering AI product work, product design, and engineering tradeoffs.",
+      "takeaways": [
+        "I think I'm curious because I think things has a way of work out in ways that I don't expect.",
+        "I think that maybe these companies, they have a lot of data, maybe they wouldn't be able to use that to have some insight that helps them stay ahead of the curve.",
+        "I keep hoping, oh my God, that could be the one and then I know how many of them I just had to give away because they're not that good."
+      ],
       "topQuotes": [
         {
           "text": "I'm not sure if I'm bearish on it. I think I'm curious because I think things has a way of work out in ways that I don't expect. So I think that maybe these companies, they have a lot of data, maybe they wouldn't be able to use that to have some insight that helps them stay ahead of the curve. So I don't know.",
@@ -1233,6 +1422,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Nicole Forsgren shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Nicole Forsgren created the most widely used frameworks for measuring developer productivity—DORA and SPACE. She wrote the foundational book Accelerate and is about to release her newest book, Frictionless , a practical guide for helping teams move faster in the AI era.",
+      "takeaways": [
+        "\" And so finally I pulled a few of my friends together and I was like, \"Let's come up with a framework to help people think about it.",
+        "\" And so there are five broad categories, pick three because that will help force you through the mental exercise of, \"What could I possibly pick.",
+        "\" This is where SPACE comes in because SPACE helps you figure out SPACE gives you a framework to pick the right metrics.",
+        "As you kind of transition through this measurement journey, you'll get more and more data from your systems because it's scalable."
+      ],
       "topQuotes": [
         {
           "text": "Number of pull requests, number of commits. And I was like, \"These are all activity metrics.\" And so finally I pulled a few of my friends together and I was like, \"Let's come up with a framework to help people think about it.\" And so there are five broad categories, pick three because that will help force you through the mental exercise of, \"What could I possibly pick?\" You don't need all five, right. This isn't... We're not playing-",
@@ -1275,6 +1471,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Robby Stein shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Robby Stein is VP of Product at Google, where he oversees the core products of Google Search—including the new AI Overviews, AI Mode, search ranking, Google Lens, and more.",
+      "takeaways": [
+        "It had this other issue with the list where you're like, \"Okay, the list doesn't work because it's mistranslated and people don't get it.",
+        "\" I think it was actually called originally favorites, I want to say, and that encouraged people to just do two people on it.",
+        "Then the way that it worked was, so this gets to the framework, I guess.",
+        "Either people's expectations, externally, market saturation, there's something happening where you need to adjust."
       ],
       "topQuotes": [
         {
@@ -1320,6 +1523,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Jason Droege shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jason Droege is the CEO of Scale AI, a company that provides foundational training data to every major AI lab. He previously co-founded Scour with Travis Kalanick and built Uber Eats from idea to $20 billion in revenue.",
+      "takeaways": [
+        "Then, I think in business, I think Good to Great.",
+        "It's not the read that you're going to be most excited to enjoy on a vacation, but it's pretty much right, and I think we should take advice from people who have analyzed these business problems before because not a lot's changed, but we keep acting like everything's changed.",
+        "Then, when we got into financing, the financing process was fascinating, and this is where the everything is negotiable lesson came from, which is, it was Ron Burkle and Mike Ovitz, who are the initial investors in the business.",
+        "Oh, you should give us 50% of the company."
+      ],
       "topQuotes": [
         {
           "text": "Yes. I think Selfish Gene. Road Less Traveled, I've read more than once. I mean, it's just one of the classic human psychology book. And then, I think in business, I think Good to Great. It's not the read that you're going to be most excited to enjoy on a vacation, but it's pretty much right, and I think we should take advice from people who have analyzed these business problems before because not a lot's changed, but we keep acting like everything's changed.",
@@ -1363,6 +1573,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Albert Cheng shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Finding hidden growth opportunities in your product, covering growth systems, measurement and analysis, and product design.",
+      "takeaways": [
+        "I will say over the last few days, as I was prepping for this, I was honestly a little bit anxious about do I have enough deep independent frameworks that I need to come up with.",
+        "Just being authentic to my actual experience at these companies, a lot of my lessons learned have been off of the backs of other people that have tried similar things and have succeeded or failed.",
+        "The lived product experience for most of the free users was that Grammarly was just a product to fix your spelling and grammar because those were the free suggestions.",
+        "What if we actually sampled a number of different paid suggestions and interspersed them to free users across their writing."
       ],
       "topQuotes": [
         {
@@ -1408,6 +1625,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Ravi Mehta shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why Tinder’s CPO starts with JSON, not design, covering team leadership, startup building, and product design.",
+      "takeaways": [
+        "More often than not, when I talked to teams and helped to debug that issue, what it came down to was that there wasn't a deep enough understanding of what the strategy is.",
+        "What is the framework that should actually inform that prioritization.",
+        "Oftentimes those gaps were not just because the person might not understand the strategy, it may also be because the strategy hasn't been completely defined.",
+        "You would never work with an architect that didn't provide you a blueprint of the house that they want to build for you because being able to describe a house in words alone is not enough."
+      ],
       "topQuotes": [
         {
           "text": "And more often than not, when I talked to teams and helped to debug that issue, what it came down to was that there wasn't a deep enough understanding of what the strategy is. So what is the framework that should actually inform that prioritization? And so oftentimes I was seeing difficulty prioritizing as well as tactical issues surface in the day-to-day and be able to be tracked back to pretty fundamental gaps in terms of an individual PM's understanding of strategy. And oftentimes those gaps were not just because the person might not understand the strategy, it may also be because the strategy hasn't been completely defined.",
@@ -1450,6 +1674,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Hamel Husain & Shreya Shankar shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why AI evals are the hottest new skill for product builders, covering AI product work, product design, and measurement and analysis.",
+      "takeaways": [
+        "Vibe checks are good and you should do vibe checks initially, but it can become very unmanageable very fast because as your application grows, it's really hard to rely on vibe checks.",
+        "Actually, many of them are repeats, but because you phrased them differently, and that you shouldn't have tried to create your taxonomy of failures as you're open coding.",
+        "So this is a technique that's been used to analyze stochastic systems for ages, and it's something that it was just using the same machine learning ideas and principles, just bringing them into here, because again, these are stochastic systems.",
+        "One is code-based, which you should try to do if you can because they're cheaper."
       ],
       "topQuotes": [
         {
@@ -1495,6 +1726,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Brendan Foody shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why experts writing AI evals is creating the fastest-growing companies in history, covering AI product work, product design, and strategic decision-making.",
+      "takeaways": [
+        "I also talk to get advice on problems.",
+        "I find it helpful to just reason through almost as a thought partner because, yeah, I don't know.",
+        "I find I think better sometimes when I'm talking something through, but I can't talk through everything with colleagues or people around me.",
+        "The key question is how long there's going to be things in the economy that humans can do that AI can't do."
+      ],
       "topQuotes": [
         {
           "text": "Well, let's see. I use it a lot to write documents, as you would expect. I also talk to get advice on problems. I find it helpful to just reason through almost as a thought partner because, yeah, I don't know. I find I think better sometimes when I'm talking something through, but I can't talk through everything with colleagues or people around me.",
@@ -1538,6 +1776,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Ethan Smith shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Getting ChatGPT to recommend your product, covering AI product work, product design, and practical product lessons.",
+      "takeaways": [
+        "That's not the case in the LLM, because the LLM is summarizing many citations, and so you need to get mentioned as many times as possible.",
+        "I personally prefer Answer Engine Optimization versus Generative Engine Optimization, because generative, you can generate images and videos and things other than an answer.",
+        "Companies that we work with started in January and it started, one, because of more adoption, but two is because the answers became a bit more clickable.",
+        "Even if Webflow's URL shows up number one on the citations, they're not going to win the answer because their URL showed up number one, but at Google they would win."
       ],
       "topQuotes": [
         {
@@ -1583,6 +1828,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Ben Horowitz shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why founders fail and why you need to run toward fear (a16z co-founder), covering team leadership, product design, and product strategy and execution.",
+      "takeaways": [
+        "If everybody agrees with the decision, then you didn't add any value because they would've done that without you.",
+        "What I was trying to get out in Good Product Manager, Bad Product Manager, was the job is fundamentally a leadership job.",
+        "It's a tricky leadership job because nobody is actually reporting to you.",
+        "The truth of it was the alternative because of where the private markets were was going bankrupt."
+      ],
       "topQuotes": [
         {
           "text": "The psychological muscle you have to build to be a great leader is to be able to click in the abyss and go, \"Okay, that way's slightly better. We're going to go that way. If everybody agrees with the decision, then you didn't add any value because they would've done that without you.\" So the only value you ever add is when you make a decision that most people don't like.",
@@ -1626,6 +1878,12 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Scott Wu shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. How Devin replaces your junior engineers with infinite AI interns that never sleep, covering AI product work, product design, and engineering tradeoffs.",
+      "takeaways": [
+        "It is funny with AI and especially because I would say one of, I would say the most common pieces of advice out there I would say is focus on a really niche cohort.",
+        "Yeah, it's kind of interesting because I think with generative AI, you naturally see this where a lot of product experiences can turn out to be more general.",
+        "What is a database and how should you think about a database."
       ],
       "topQuotes": [
         {
@@ -1671,6 +1929,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Howie Liu shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. How we restructured Airtable’s entire org for AI, covering AI product work, product design, and strategic decision-making.",
+      "takeaways": [
+        "If you can't, then you should find a buyer and then if you really care about this mission, go and start the next carnation of it.",
+        "I think that is a big part of it because on the point about the pace of the world moving so much faster in AI than any other landscape in SaaS, in the mature SaaS era, it was important to study your competition.",
+        "Airbnb was not founded because like, \"Oh my God, we want to make a lot of money off this arbitrage opportunity against hotels.",
+        "You know, I've been trying to read fiction more, partly because I think it's just a really nice mental reset."
+      ],
       "topQuotes": [
         {
           "text": "If you were literally founding a new company from scratch with the same mission, how would you execute on that mission using a fully AI native approach? If you can't, then you should find a buyer and then if you really care about this mission, go and start the next carnation of it.",
@@ -1714,6 +1979,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Asha Sharma shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Products as organisms, the death of org charts, and why agents will outnumber employees by 2026, covering AI product work, product design, and engineering tradeoffs.",
+      "takeaways": [
+        "Ranking is an age-old optimization problem where you don't want to just take what's off the shelf because there's amazing frameworks and UI and components that the world is react components that are out there.",
+        "I think it's just the same industrial logic.",
+        "I think the tricky thing is for enterprises is the technology is changing.",
+        "It's really hard to know which one you should use for what outcome."
       ],
       "topQuotes": [
         {
@@ -1759,6 +2031,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Garrett Lord shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Inside the expert network training every frontier AI model, covering AI product work, product design, and team leadership.",
+      "takeaways": [
+        "You used to put a Google Search on a skill on your resume because you grew up with Google.",
+        "You were person, you were good at Googling, because you grew up with Google.",
+        "It's like I think being AI native and having your Iron Man suit on, and understanding how to leverage these tools is like young people are at a huge advantage.",
+        "I think if you care about building a really high quality business, and having good gross margin and high quality growth, the ecosystem here is, one of the leading players, they have 200 recruiters."
+      ],
       "topQuotes": [
         {
           "text": "That's not what we're hearing from our employers, this is just enabling human beings to be even more productive. You used to put a Google Search on a skill on your resume because you grew up with Google. Being AI native, young people are at a huge advantage.",
@@ -1803,6 +2082,12 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Eoghan McCabe shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. How Intercom rose from the ashes by betting everything on AI, covering AI product work, pricing decisions, and product design.",
+      "takeaways": [
+        "Another part of it was my own anger and dissatisfaction with how the company was being run and the mistakes that I made myself.",
+        "I made a lot of compromises as a lot of founders and founding CEOs do to placate employees or do it out fear to bring investors along, following advice in the industry and best practices.",
+        "You don't want to work like that, but if you want in, that's part of the price and that's how so many of these young new AI are going to win because very few of the previous generation companies are willing to make all of those changes and go all the way in."
+      ],
       "topQuotes": [
         {
           "text": "It was the combination of the company being older, us all, me and the founders being impatient like, are we going to make something out of this? We went through a time when the company was worth a lot. We're private so we don't have a daily mark to market, but all the other public software companies dropped 80%, 85, 90%. We saw our revenue growth crater. We were used to nice double digits. We were in low single digits. And so part of it was, let's do something here. Another part of it was my own anger and dissatisfaction with how the company was being run and the mistakes that I made myself. I made a lot of compromises as a lot of founders and founding CEOs do to placate employees or do it out fear to bring investors along, following advice in the industry and best practices.",
@@ -1845,6 +2130,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Matt LeMay shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The one question that saves product careers, covering team leadership, product design, and product strategy and execution.",
+      "takeaways": [
+        "You can follow all the best practices, but if your company goes out of business, they're not going to keep writing your paycheck for two years because all of your OKRs were a 0.",
+        "It's important because at the end of the day, it is those business critical outcomes against which you and your team will be evaluated.",
+        "That really struck a nerve because I've been on those supporting teams before.",
+        "\" It just wasn't something that crossed my mind because I wasn't in the room for those conversations."
       ],
       "topQuotes": [
         {
@@ -1890,6 +2182,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Nick Turley shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The fastest-growing product in history, covering AI product work, product design, and go-to-market execution.",
+      "takeaways": [
+        "It's quite interesting to see that stuff play out because I think all these people entered school for genuine reasons.",
+        "I just a feeling that if you follow that advice, you'll end up okay.",
+        "That can mean not directly answering your question, but instead of giving you a helpful framework in the case of like, \"Should I break up with my boyfriend.",
+        "\" ChatGPT should probably not answer that question for you, but it should help you think through that question in the way that a thoughtful companion would."
+      ],
       "topQuotes": [
         {
           "text": "It's quite interesting to see that stuff play out because I think all these people entered school for genuine reasons. They were excited about the space, they were researching it, they were pursuing knowledge, and I'm happy that that's being rewarded. And I don't know what the rewards will look like in the future, especially in a post-AGI world. But I just a feeling that if you follow that advice, you'll end up okay.",
@@ -1931,6 +2230,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Chip Conley shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school, covering team leadership, product design, and startup building.",
+      "takeaways": [
+        "Partly because back in the day, the two sharing economy darlings were Uber and Airbnb.",
+        "We did a lot of different things together, and what I appreciated was you had a humility to you that was different than a lot of the other product managers.",
+        "There were other product managers though who I found it sometimes hard to work with, because they expected me to know as much as they did.",
+        "You start with that, because that actually helps to make sure there's alignment."
       ],
       "topQuotes": [
         {
@@ -1976,6 +2282,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Bret Taylor shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The future of careers, coding, agents, and more, covering product design, team leadership, and product strategy and execution.",
+      "takeaways": [
+        "I'm probably out of my depth here, but it's essentially MCP because that's how you provide context to Cursor.",
+        "I think that almost always when you have a model making a poor decision, if it's a good model, it's lack of context.",
+        "So, you really want to find the intersection of your particular product and code base with the context available to these coding agents and systems and fix it at the root is the principle here.",
+        "I think that's going to end up this vestige of the past, almost like the human calculators at NASA before the computers were invented, like wow, a person was a calculator."
+      ],
       "topQuotes": [
         {
           "text": "I'm probably out of my depth here, but it's essentially MCP because that's how you provide context to Cursor. And I think that almost always when you have a model making a poor decision, if it's a good model, it's lack of context. And so, you really want to find the intersection of your particular product and code base with the context available to these coding agents and systems and fix it at the root is the principle here.",
@@ -2020,6 +2333,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Madhavan Ramanujam shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Lessons from 400+ companies and 50 unicorns, covering pricing decisions, strategic decision-making, and product design.",
+      "takeaways": [
+        "We wrote Monetizing Innovation because increasingly we were working with companies more early stage in helping them design the right innovations that customers need and what are they willing to pay for, as opposed to just building a product and slapping on a price.",
+        "If they do say no, the most important question to ask is why.",
+        "Because if you build the same product and want to treat everyone similarly and say you have a segmentation strategy, you actually don't have it.",
+        "It's the same water, but it's packaged, productized differently because people have different needs."
+      ],
       "topQuotes": [
         {
           "text": "So we wrote Monetizing Innovation because increasingly we were working with companies more early stage in helping them design the right innovations that customers need and what are they willing to pay for, as opposed to just building a product and slapping on a price. So it was crossing that chasm between knowing and hoping that you would, monetize knowing that you truly will. And that was the motivation for writing Monetizing Innovation.",
@@ -2062,6 +2382,12 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Benjamin Mann shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Ultimately, people think about this as probably going to hit a wall because if the model isn't good enough to see its own mistakes, then how could it improve, covering AI product work, product design, and engineering tradeoffs.",
+      "takeaways": [
+        "We've been much less affected because people here, they get these offers and then they say, well, of course I'm not going to leave because my best case scenario at Meta is that we make money and my best case scenario at Anthropic is we affect the future of humanity.",
+        "If you look at something like sycophancy, I think Claude is one of the least sycophantic models because we've put so much effort into actual alignment and not just trying to good heart our metrics of saying user engagement is number one, and if people say yes, then it's good for them.",
+        "They have certain goals that they're trying to reach, and they have certain guiding principles, they have some oversight in terms of shareholders and stakeholders and board members."
       ],
       "topQuotes": [
         {
@@ -2107,6 +2433,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
+      "summary": "Dan Shipper shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. 5 products, 7-figure revenue, 100% AI-written code, covering AI product work, engineering tradeoffs, and product design.",
+      "takeaways": [
+        "I'm jealous because he only started learning to code when ChatGPT came out.",
+        "Non-programmers don't use it because it's intimidating to use the terminal.",
+        "They are pretty bad, and it's not because they're not smart.",
+        "Everyone asks that because it's a very weird shape of a company."
+      ],
       "topQuotes": [
         {
           "text": "Natasha's background is... I'm jealous because he only started learning to code when ChatGPT came out. He had wanted to learn to code forever, and he's only known how to code in an AI era. And I keep telling him, \"Dude, I learned to program in middle school from books.\" I had to go to Barnes & Noble and buy a book. And there was nothing... I couldn't Google any-",
@@ -2150,6 +2483,13 @@
         "Career & Personal Growth",
         "User Psychology",
         "Data & Analytics"
+      ],
+      "summary": "Andrew Wilkinson shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea., covering product design, startup building, and AI product work.",
+      "takeaways": [
+        "Well, it goes back to my gym analogy of if you're going to deadlift 300 pounds, trained for 15 years, you should have already had three startups and they should have worked and you've really built up the reps.",
+        "I think that if I was going to start Instacart, that's different than someone who's 20 starting it.",
+        "Not that I would be good at it, but at least I would know what I'm getting into.",
+        "If I tell them an idea in a board meeting and I say, \"I really need you to try this,\" it never works because usually they sandbag it, right."
       ],
       "topQuotes": [
         {

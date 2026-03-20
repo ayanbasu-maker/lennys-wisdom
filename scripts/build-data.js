@@ -83,6 +83,75 @@ function classifyThemes(text) {
   return themes.length > 0 ? themes : ['General'];
 }
 
+function generateGuestSummary(guestName, description, quotes, themes) {
+  // Extract key concepts from quotes
+  const allText = quotes.map(q => q.text).join(' ').toLowerCase();
+
+  // Build a summary from the description and key themes
+  const themeList = themes.slice(0, 4).join(', ');
+
+  // Extract action words and concepts from quotes for takeaways
+  const takeaways = [];
+
+  for (const q of quotes.slice(0, 5)) {
+    const text = q.text;
+    // Find sentences that contain actionable or insightful patterns
+    const sentences = text.split(/[.!?]+/).filter(s => s.trim().length > 20);
+    for (const sentence of sentences) {
+      const s = sentence.trim();
+      const lower = s.toLowerCase();
+      // Look for insightful sentences
+      if (
+        lower.includes('because') ||
+        lower.includes('the key') ||
+        lower.includes('important') ||
+        lower.includes('should') ||
+        lower.includes('need to') ||
+        lower.includes('i think') ||
+        lower.includes('advice') ||
+        lower.includes('lesson') ||
+        lower.includes('principle') ||
+        lower.includes('framework') ||
+        lower.includes('mistake') ||
+        lower.includes('secret') ||
+        lower.includes('what i') ||
+        lower.includes('the way')
+      ) {
+        // Clean up the sentence
+        let clean = s.replace(/^(and |so |but |well |yeah |like )/i, '').trim();
+        if (clean.length > 30 && clean.length < 300) {
+          // Capitalize first letter
+          clean = clean.charAt(0).toUpperCase() + clean.slice(1);
+          if (!clean.endsWith('.')) clean += '.';
+          takeaways.push(clean);
+        }
+      }
+      if (takeaways.length >= 4) break;
+    }
+    if (takeaways.length >= 4) break;
+  }
+
+  // Deduplicate similar takeaways
+  const uniqueTakeaways = [];
+  for (const t of takeaways) {
+    const isDuplicate = uniqueTakeaways.some(existing => {
+      const words1 = existing.toLowerCase().split(/\s+/);
+      const words2 = t.toLowerCase().split(/\s+/);
+      const overlap = words1.filter(w => words2.includes(w)).length;
+      return overlap > Math.min(words1.length, words2.length) * 0.5;
+    });
+    if (!isDuplicate) uniqueTakeaways.push(t);
+  }
+
+  // Build summary from description + themes
+  const summary = `${guestName} shares insights on ${themeList}. ${description}`;
+
+  return {
+    summary,
+    takeaways: uniqueTakeaways.slice(0, 4)
+  };
+}
+
 function selectBestQuotes(quotes, maxPerGuest = 5) {
   // Score quotes by: length (prefer medium), uniqueness of content, theme coverage
   const scored = quotes.map(q => {
@@ -159,14 +228,20 @@ function main() {
 
     const slug = path.basename(podcast.filename, '.md');
 
+    const guestName = frontmatter.guest || podcast.guest;
+    const guestDescription = frontmatter.description || podcast.description;
+    const { summary, takeaways } = generateGuestSummary(guestName, guestDescription, bestQuotes, contentThemes);
+
     const guest = {
-      name: frontmatter.guest || podcast.guest,
+      name: guestName,
       slug,
       title: frontmatter.title || podcast.title,
-      description: frontmatter.description || podcast.description,
+      description: guestDescription,
       date: frontmatter.date || podcast.date,
       wordCount: podcast.word_count,
       themes: contentThemes,
+      summary,
+      takeaways,
       topQuotes: bestQuotes.map(q => ({
         text: q.text,
         timestamp: q.timestamp

@@ -17,6 +17,8 @@ export interface Guest {
   date: string;
   wordCount: number;
   themes: string[];
+  summary: string;
+  takeaways: string[];
   topQuotes: { text: string; timestamp: string }[];
 }
 

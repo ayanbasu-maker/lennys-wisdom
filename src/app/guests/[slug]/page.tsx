@@ -95,9 +95,35 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
         <p className="text-foreground font-medium">{guest.title}</p>
       </div>
 
+      {/* Summary */}
+      <div className="mb-8">
+        <h2 className="text-xl font-bold text-foreground mb-3">Summary</h2>
+        <p className="text-muted leading-relaxed">{guest.summary}</p>
+      </div>
+
+      {/* Key Takeaways */}
+      {guest.takeaways && guest.takeaways.length > 0 && (
+        <div className="mb-8">
+          <h2 className="text-xl font-bold text-foreground mb-4">Key Takeaways</h2>
+          <div className="space-y-3">
+            {guest.takeaways.map((takeaway: string, i: number) => (
+              <div
+                key={i}
+                className="flex gap-4 items-start bg-surface rounded-xl p-4 border border-surface-light"
+              >
+                <span className="text-accent font-bold text-lg shrink-0 w-6 text-center">
+                  {i + 1}
+                </span>
+                <p className="text-foreground leading-relaxed">{takeaway}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
       {/* Quotes */}
       <h2 className="text-xl font-bold text-foreground mb-4">
-        Key Quotes
+        Notable Quotes
         <span className="text-sm font-normal text-muted ml-2">
           {guestQuotes.length} extracted insights
         </span>
