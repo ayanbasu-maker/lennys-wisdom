@@ -44,9 +44,32 @@ export default function Home() {
       <section className="py-12">
         <h2 className="text-2xl font-bold text-foreground mb-2">Topic Landscape</h2>
         <p className="text-sm text-muted mb-6">
-          Click any topic to see related quotes and guests
+          Click any topic to see key themes, takeaways, and notable quotes
         </p>
         <TopicBubblesSection themes={data.themes} quotes={data.quotes} />
+      </section>
+
+      {/* All 12 Themes */}
+      <section className="py-12">
+        <h2 className="text-2xl font-bold text-foreground mb-2">All 12 Themes</h2>
+        <p className="text-sm text-muted mb-6">
+          Every topic covered across 50 episodes of Lenny&apos;s Podcast
+        </p>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+          {data.themes.map((theme) => (
+            <div
+              key={theme.name}
+              className="bg-surface rounded-xl p-4 border border-surface-light hover:border-accent/30 transition-colors"
+            >
+              <div className="flex items-center justify-between">
+                <h3 className="text-sm font-semibold text-foreground">{theme.name}</h3>
+                <span className="text-xs text-accent font-medium bg-accent/10 px-2 py-0.5 rounded-full">
+                  {theme.count} episodes
+                </span>
+              </div>
+            </div>
+          ))}
+        </div>
       </section>
 
       {/* Wisdom Generator */}
