@@ -46,7 +46,7 @@ export default function Home() {
         <p className="text-sm text-muted mb-6">
           Click any topic to see key themes, takeaways, and notable quotes
         </p>
-        <TopicBubblesSection themes={data.themes} quotes={data.quotes} />
+        <TopicBubblesSection themes={data.themes} quotes={data.quotes} guests={data.guests} />
       </section>
 
       {/* Wisdom Generator */}
