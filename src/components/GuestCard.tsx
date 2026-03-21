@@ -33,16 +33,13 @@ export default function GuestCard({ guest }: { guest: Guest }) {
                 month: "short",
                 year: "numeric",
               })}
-              {" "}&middot;{" "}
-              {Math.round(guest.wordCount / 1000)}k words
             </p>
           </div>
         </div>
 
-        {guest.topQuotes[0] && (
+        {guest.summary && (
           <p className="text-xs text-muted leading-relaxed mb-3 line-clamp-3 flex-1">
-            &ldquo;{guest.topQuotes[0].text.slice(0, 150)}
-            {guest.topQuotes[0].text.length > 150 ? "..." : ""}&rdquo;
+            {guest.summary}
           </p>
         )}
 
