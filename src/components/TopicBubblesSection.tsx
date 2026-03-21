@@ -294,12 +294,9 @@ export default function TopicBubblesSection({
           <div>
             <h4 className="text-sm font-semibold text-accent uppercase tracking-wide mb-3">
               Notable Quotes
-              <span className="text-muted font-normal normal-case ml-2">
-                {filteredQuotes.length} quotes
-              </span>
             </h4>
-            <div className="space-y-3 max-h-[400px] overflow-y-auto pr-2">
-              {filteredQuotes.slice(0, 8).map((q, i) => (
+            <div className="space-y-3">
+              {filteredQuotes.slice(0, 3).map((q, i) => (
                 <Link
                   key={i}
                   href={`/guests/${q.guestSlug}`}

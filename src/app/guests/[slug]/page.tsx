@@ -124,12 +124,9 @@ export default async function GuestPage({ params }: { params: Promise<{ slug: st
       {/* Quotes */}
       <h2 className="text-xl font-bold text-foreground mb-4">
         Notable Quotes
-        <span className="text-sm font-normal text-muted ml-2">
-          {guestQuotes.length} extracted insights
-        </span>
       </h2>
       <div className="space-y-4">
-        {guestQuotes.map((quote, i) => (
+        {guestQuotes.slice(0, 3).map((quote, i) => (
           <div
             key={i}
             className="bg-surface rounded-xl p-5 border border-surface-light"
