@@ -4,6 +4,10 @@ const matter = require('gray-matter');
 
 const DATA_DIR = path.resolve(__dirname, '../../lennys-newsletterpodcastdata');
 const OUTPUT_FILE = path.resolve(__dirname, '../public/data.json');
+const SUMMARIES_FILE = path.resolve(__dirname, 'summaries.json');
+
+// Load hand-crafted summaries
+const handCraftedSummaries = JSON.parse(fs.readFileSync(SUMMARIES_FILE, 'utf-8'));
 
 // Theme keywords for classification
 const THEME_KEYWORDS = {
@@ -29,23 +33,15 @@ function extractQuotes(content, guest) {
   let currentTimestamp = '';
 
   for (const line of lines) {
-    // Match speaker lines like **Brian Halligan** (00:00:00):
     const speakerMatch = line.match(/^\*\*(.+?)\*\*\s*\((\d{2}:\d{2}:\d{2})\):/);
     if (speakerMatch) {
-      // Save previous quote if it's from the guest (not Lenny)
       if (currentSpeaker && !currentSpeaker.toLowerCase().includes('lenny') && currentText.trim()) {
         const text = currentText.trim();
         const wordCount = text.split(/\s+/).length;
         if (wordCount >= 15 && wordCount <= 200) {
-          // Filter out filler
           const lower = text.toLowerCase();
           if (!lower.startsWith('yeah') && !lower.startsWith('thank') && !lower.startsWith('exactly') && !lower.startsWith('right') && !lower.startsWith('sure') && lower.length > 80) {
-            quotes.push({
-              text,
-              speaker: currentSpeaker,
-              timestamp: currentTimestamp,
-              wordCount
-            });
+            quotes.push({ text, speaker: currentSpeaker, timestamp: currentTimestamp, wordCount });
           }
         }
       }
@@ -57,7 +53,6 @@ function extractQuotes(content, guest) {
     }
   }
 
-  // Don't forget the last quote
   if (currentSpeaker && !currentSpeaker.toLowerCase().includes('lenny') && currentText.trim()) {
     const text = currentText.trim();
     const wordCount = text.split(/\s+/).length;
@@ -83,86 +78,122 @@ function classifyThemes(text) {
   return themes.length > 0 ? themes : ['General'];
 }
 
-function generateGuestSummary(guestName, description, quotes, themes) {
-  // Extract key concepts from quotes
-  const allText = quotes.map(q => q.text).join(' ').toLowerCase();
+// Extract Lenny's intro summary (he always summarizes the episode in the first few minutes)
+function extractLennyIntro(content, guestName) {
+  const lines = content.split('\n');
+  let lennyBlocks = [];
+  let currentSpeaker = '';
+  let currentText = '';
 
-  // Build a summary from the description and key themes
-  const themeList = themes.slice(0, 4).join(', ');
+  for (const line of lines) {
+    const speakerMatch = line.match(/^\*\*(.+?)\*\*\s*\((\d{2}:\d{2}:\d{2})\):/);
+    if (speakerMatch) {
+      if (currentSpeaker && currentSpeaker.toLowerCase().includes('lenny') && currentText.trim()) {
+        lennyBlocks.push(currentText.trim());
+      }
+      currentSpeaker = speakerMatch[1];
+      currentText = line.replace(/^\*\*.+?\*\*\s*\(\d{2}:\d{2}:\d{2}\):/, '').trim();
+    } else if (line.trim() && currentSpeaker) {
+      currentText += ' ' + line.trim();
+    }
+  }
 
-  // Extract action words and concepts from quotes for takeaways
+  // Find Lenny's intro block — usually the longest one in the first 10 blocks,
+  // and it typically contains "my guest" or "we chat about" or "in this conversation"
+  const introBlock = lennyBlocks.slice(0, 10).find(block => {
+    const lower = block.toLowerCase();
+    return (lower.includes('my guest') || lower.includes('we chat') || lower.includes('in this conversation') || lower.includes('in our conversation') || lower.includes('we discuss') || lower.includes('we dig into') || lower.includes('we talk about') || lower.includes('we explore')) && block.split(/\s+/).length > 40;
+  });
+
+  if (introBlock) {
+    // Clean it up — remove "Today my guest is..." preamble and extract the substance
+    let clean = introBlock
+      .replace(/Today,?\s+my guest is.*?\.\s*/i, '')
+      .replace(/In this (very special |)conversation,?\s*/i, 'They discuss ')
+      .replace(/You are going to walk away.*$/i, '')
+      .replace(/If you enjoy.*$/i, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+
+    if (clean.length > 500) clean = clean.slice(0, 497) + '...';
+    return clean;
+  }
+
+  return null;
+}
+
+// Extract substantive takeaways from guest quotes
+function extractSmartTakeaways(quotes) {
   const takeaways = [];
 
-  for (const q of quotes.slice(0, 5)) {
-    const text = q.text;
-    // Find sentences that contain actionable or insightful patterns
-    const sentences = text.split(/[.!?]+/).filter(s => s.trim().length > 20);
+  // Score each quote for "takeaway-worthiness"
+  const scored = quotes.map(q => {
+    let score = 0;
+    const lower = q.text.toLowerCase();
+
+    // Strong indicators of insight
+    if (lower.includes('the biggest') || lower.includes('the most important') || lower.includes('the key')) score += 3;
+    if (lower.includes('what i learned') || lower.includes('what i\'ve learned') || lower.includes('lesson')) score += 3;
+    if (lower.includes('mistake') || lower.includes('wrong')) score += 2;
+    if (lower.includes('framework') || lower.includes('principle') || lower.includes('rule')) score += 3;
+    if (lower.includes('advice') || lower.includes('recommend')) score += 2;
+    if (lower.includes('the way i think about') || lower.includes('the way we think about')) score += 3;
+    if (lower.includes('you should') || lower.includes('you need to') || lower.includes('you have to')) score += 2;
+    if (lower.includes('because') && lower.includes('not')) score += 1; // Contrarian insights
+
+    // Prefer medium-length quotes (25-80 words)
+    if (q.wordCount >= 25 && q.wordCount <= 80) score += 2;
+    else if (q.wordCount >= 20 && q.wordCount <= 100) score += 1;
+
+    // Penalize very long rambling quotes
+    if (q.wordCount > 120) score -= 2;
+
+    return { ...q, score };
+  });
+
+  scored.sort((a, b) => b.score - a.score);
+
+  // Take top quotes and extract the most insightful sentence(s)
+  for (const q of scored.slice(0, 10)) {
+    const sentences = q.text.split(/(?<=[.!?])\s+/).filter(s => s.trim().length > 30);
+
     for (const sentence of sentences) {
-      const s = sentence.trim();
-      const lower = s.toLowerCase();
-      // Look for insightful sentences
-      if (
-        lower.includes('because') ||
-        lower.includes('the key') ||
-        lower.includes('important') ||
-        lower.includes('should') ||
-        lower.includes('need to') ||
-        lower.includes('i think') ||
-        lower.includes('advice') ||
-        lower.includes('lesson') ||
-        lower.includes('principle') ||
-        lower.includes('framework') ||
-        lower.includes('mistake') ||
-        lower.includes('secret') ||
-        lower.includes('what i') ||
-        lower.includes('the way')
-      ) {
-        // Clean up the sentence
-        let clean = s.replace(/^(and |so |but |well |yeah |like )/i, '').trim();
-        if (clean.length > 30 && clean.length < 300) {
-          // Capitalize first letter
-          clean = clean.charAt(0).toUpperCase() + clean.slice(1);
-          if (!clean.endsWith('.')) clean += '.';
+      let clean = sentence.trim();
+      // Remove conversational starts
+      clean = clean.replace(/^(And |So |But |Well,? |Yeah,? |Like,? |I mean,? )/i, '').trim();
+
+      if (clean.length > 40 && clean.length < 250) {
+        // Capitalize first letter
+        clean = clean.charAt(0).toUpperCase() + clean.slice(1);
+        if (!clean.endsWith('.') && !clean.endsWith('!') && !clean.endsWith('?')) clean += '.';
+
+        // Dedup check
+        const isDuplicate = takeaways.some(existing => {
+          const words1 = existing.toLowerCase().split(/\s+/);
+          const words2 = clean.toLowerCase().split(/\s+/);
+          const overlap = words1.filter(w => words2.includes(w)).length;
+          return overlap > Math.min(words1.length, words2.length) * 0.5;
+        });
+
+        if (!isDuplicate) {
           takeaways.push(clean);
+          if (takeaways.length >= 5) break;
         }
       }
-      if (takeaways.length >= 4) break;
     }
-    if (takeaways.length >= 4) break;
+    if (takeaways.length >= 5) break;
   }
 
-  // Deduplicate similar takeaways
-  const uniqueTakeaways = [];
-  for (const t of takeaways) {
-    const isDuplicate = uniqueTakeaways.some(existing => {
-      const words1 = existing.toLowerCase().split(/\s+/);
-      const words2 = t.toLowerCase().split(/\s+/);
-      const overlap = words1.filter(w => words2.includes(w)).length;
-      return overlap > Math.min(words1.length, words2.length) * 0.5;
-    });
-    if (!isDuplicate) uniqueTakeaways.push(t);
-  }
-
-  // Build summary from description + themes
-  const summary = `${guestName} shares insights on ${themeList}. ${description}`;
-
-  return {
-    summary,
-    takeaways: uniqueTakeaways.slice(0, 4)
-  };
+  return takeaways;
 }
 
 function selectBestQuotes(quotes, maxPerGuest = 5) {
-  // Score quotes by: length (prefer medium), uniqueness of content, theme coverage
   const scored = quotes.map(q => {
     let score = 0;
-    // Prefer quotes between 25-80 words
     if (q.wordCount >= 25 && q.wordCount <= 80) score += 3;
     else if (q.wordCount >= 20 && q.wordCount <= 100) score += 2;
     else score += 1;
-    // Bonus for questions/statements that feel insightful
     if (q.text.includes('because') || q.text.includes('the key') || q.text.includes('most important') || q.text.includes('lesson') || q.text.includes('mistake') || q.text.includes('secret')) score += 2;
-    // Bonus for actionable language
     if (q.text.includes('you should') || q.text.includes('I learned') || q.text.includes('framework') || q.text.includes('principle') || q.text.includes('advice')) score += 2;
     return { ...q, score };
   });
@@ -175,7 +206,6 @@ function processNewsletter(filePath) {
   const raw = fs.readFileSync(filePath, 'utf-8');
   const { data: frontmatter, content } = matter(raw);
 
-  // Extract key paragraphs (skip images, links lists, headers)
   const paragraphs = content.split('\n\n')
     .map(p => p.trim())
     .filter(p => {
@@ -211,7 +241,9 @@ function main() {
   const allQuotes = [];
   const themeCounts = {};
 
-  // Process podcasts
+  let handCraftedCount = 0;
+  let extractedCount = 0;
+
   for (const podcast of index.podcasts) {
     const filePath = path.join(DATA_DIR, podcast.filename);
     const raw = fs.readFileSync(filePath, 'utf-8');
@@ -221,16 +253,33 @@ function main() {
     const bestQuotes = selectBestQuotes(quotes);
     const contentThemes = classifyThemes(content);
 
-    // Count themes
     for (const theme of contentThemes) {
       themeCounts[theme] = (themeCounts[theme] || 0) + 1;
     }
 
     const slug = path.basename(podcast.filename, '.md');
-
     const guestName = frontmatter.guest || podcast.guest;
     const guestDescription = frontmatter.description || podcast.description;
-    const { summary, takeaways } = generateGuestSummary(guestName, guestDescription, bestQuotes, contentThemes);
+
+    // Use hand-crafted summary if available, otherwise extract from transcript
+    let summary, takeaways;
+
+    if (handCraftedSummaries[slug]) {
+      summary = handCraftedSummaries[slug].summary;
+      takeaways = handCraftedSummaries[slug].takeaways;
+      handCraftedCount++;
+    } else {
+      // Extract Lenny's intro as summary
+      const lennyIntro = extractLennyIntro(content, guestName);
+      if (lennyIntro) {
+        summary = lennyIntro;
+      } else {
+        summary = guestDescription;
+      }
+      // Extract smart takeaways from quotes
+      takeaways = extractSmartTakeaways(quotes);
+      extractedCount++;
+    }
 
     const guest = {
       name: guestName,
@@ -250,7 +299,6 @@ function main() {
 
     guests.push(guest);
 
-    // Add to global quotes pool
     for (const q of bestQuotes) {
       allQuotes.push({
         text: q.text,
@@ -270,12 +318,10 @@ function main() {
     newsletters.push(processNewsletter(filePath));
   }
 
-  // Build theme data for visualization
   const themes = Object.entries(themeCounts)
     .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count);
 
-  // Build search index data (Fuse.js will index client-side)
   const searchItems = allQuotes.map((q, i) => ({
     id: i,
     text: q.text,
@@ -303,6 +349,7 @@ function main() {
   fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(data, null, 2));
   console.log(`Built data.json with ${guests.length} guests, ${allQuotes.length} quotes, ${themes.length} themes, ${newsletters.length} newsletters`);
+  console.log(`Summaries: ${handCraftedCount} hand-crafted, ${extractedCount} auto-extracted`);
   console.log('Themes:', themes.map(t => `${t.name} (${t.count})`).join(', '));
   console.log('Total words analyzed:', data.stats.totalWords.toLocaleString());
 }

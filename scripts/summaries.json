@@ -1,0 +1,172 @@
+{
+  "marc-andreessen": {
+    "summary": "Marc Andreessen argues that we are living through one of the most historically significant moments ever, with AI, demographic collapse, and political upheaval colliding simultaneously. He makes the case that AI is a genuine philosopher's stone — turning silicon into thought — and that its arrival is perfectly timed to compensate for 50 years of stalled productivity growth and a coming global population decline. The conversation covers how AI-forward founders are rethinking what a company even is, why career specialization is giving way to multi-domain individuals, and why AI's capacity to teach is its most underrated power.",
+    "takeaways": [
+      "Demographic collapse and AI are arriving at the same time by necessity: the world will have too few workers to care for aging populations, making AI not a threat to labor but a requirement for civilization's survival.",
+      "The most valuable career move is to become 'non-fungible' by developing deep skill in at least two or three domains. AI makes it easier than ever to acquire adjacent skills by asking it to teach you — not just do work for you.",
+      "The 'one-person billion-dollar company' is becoming plausible. Leading founders are asking whether a company can be reconstituted as a founder overseeing an army of AI agents.",
+      "Don't over-obsess over moats in AI right now — confident predictions about which layer will capture value have historically been wrong in every major tech transition.",
+      "AI is the best tutor ever built. Individuals should spend time asking AI to teach them and quiz them — not just to complete tasks."
+    ]
+  },
+  "jenny-wen": {
+    "summary": "Jenny Wen, head of design for Claude Cowork at Anthropic and former design director at Figma, describes how the design profession is being structurally reorganized by AI-accelerated engineering. The old design process — diverge, converge, make beautiful mocks, hand off — is essentially dead for fast-moving teams. Designers are being forced into two new modes: real-time execution partner and short-horizon vision setter prototyping directional bets 3–6 months out.",
+    "takeaways": [
+      "The design time pie chart has fundamentally flipped: what used to be 60–70% mocking and prototyping is now 30–40%, with freed-up time going to real-time engineering collaboration.",
+      "Design visions should now be 3–6 months out, not 2–5 years. A working prototype that points the team in a direction is more valuable than a beautifully produced vision deck.",
+      "When hiring designers, seek three archetypes: 'block-shaped' strong generalists, deep T-shaped specialists, and 'craft new grads' with no baked-in process baggage.",
+      "Trust is built through speed, not perfection. Shipping a labeled 'research preview' with known rough edges is brand-building if the team visibly responds to feedback.",
+      "Use the 'legibility framework': hunt for prototypes where there is unexplained internal energy — people excited but unable to articulate why — and dive in before it becomes obvious."
+    ]
+  },
+  "jeetu-patel": {
+    "summary": "Jeetu Patel, EVP of Product at Cisco, discusses what he learned from organizing an AI summit featuring Jensen Huang and Sam Altman, and how he's transforming a 90,000-person enterprise into an AI-first company. The episode covers his six-part framework for building great companies (timing > market > team > product > brand > distribution), his contrarian management philosophy of critiquing publicly and praising privately, and a personal story about his mother that became his most important life lesson.",
+    "takeaways": [
+      "Timing is the most important and least controllable variable in building a company. A great team in a bad market will be dragged down; a mediocre team in a great market will be pulled up.",
+      "To distinguish a megatrend from hype, ask whether a normal person can understand its value without a PhD. AI passes that test; Web3 did not.",
+      "Large companies fail at AI not because they don't experiment, but because when an experiment works they keep hedging instead of going all in.",
+      "Critique in public, support in private — the opposite of what management books say. Public debate works only when trust has been established first.",
+      "Plan six months ahead, not for today. Treat model capability releases as external forcing functions and build adaptive planning processes."
+    ]
+  },
+  "bret-taylor": {
+    "summary": "Bret Taylor — inventor of Google Maps and the Like button, former co-CEO of Salesforce, and chairman of OpenAI — traces the arc from his first product failure (Google Local) to his conviction that agents and outcomes-based pricing are the inevitable future of software. He explains why agents are fundamentally different: they accomplish jobs autonomously rather than helping someone do a job, making productivity gains measurable and enabling entirely new business models.",
+    "takeaways": [
+      "Agents are the new apps and outcomes-based pricing is the new SaaS model. Sierra charges per 'resolution,' not per seat, because AI can autonomously complete jobs for the first time.",
+      "To get real productivity gains from AI coding tools, root-cause every bad output and fix the context gap that caused it (usually via MCP). Treating Cursor as autocomplete misses 80% of the gains.",
+      "When building a new product, don't digitize what came before — find the native capability of the new medium. Google Local failed as a digital Yellow Pages; Google Maps succeeded by making the map the canvas.",
+      "The biggest mistake first-time founders make is being single-issue voters based on their own skillset — engineers think product fixes everything, business founders think partnerships do.",
+      "Study CS, but hold the act of coding loosely. What persists is systems thinking — understanding complexity, architecture, and what's hard — not the keystrokes."
+    ]
+  },
+  "melanie-perkins": {
+    "summary": "Melanie Perkins tells the story of building Canva to $42B after 100+ investor rejections, explaining how she treated each rejection as a free consulting session. The conversation covers her core operating philosophy: start from the wildly ambitious future ('Column B'), build a 'ladder to the moon' with tiny concrete rungs, set Crazy Big Goals with visible milestones, and sustain the company through painful multi-year dark tunnels — including a two-year front-end rewrite that halted all product shipping.",
+    "takeaways": [
+      "Treat investor rejection as free product feedback. Every 'no' pointed to a specific gap, and the pitch deck refined through 100+ rejections still accurately captures what Canva is building today.",
+      "Every idea starts amorphous — add clarity in small increments: write it down, rough deck, designs, prototype. The mistake is either staying in chaos or jumping to a polished presentation before the thinking is solid.",
+      "Crazy Big Goals only work when paired with specific measurable sub-goals and real celebrations. Canva smashed plates, released doves, and held a La Tomatina festival for milestones.",
+      "Multi-year dark tunnels are normal at scale. Canva's front-end rewrite took two years instead of six months — survivable only by turning the process into a game with visible progress.",
+      "Integrate AI where it genuinely removes friction between a person's idea and its realization — not because investors like AI. For Canva, AI was in the 2012 pitch deck because the mission demanded it."
+    ]
+  },
+  "aishwarya-naresh-reganti--kiriti-badam": {
+    "summary": "Two AI practitioners (one from Anthropic, one from OpenAI) who are also married discuss the fundamental differences between building AI products versus traditional software, specifically around non-determinism, the agency-control tradeoff, and why most teams fail by chasing hype over problems. They walk through a framework for shipping AI products successfully — starting small, building feedback flywheels, and developing robust evals.",
+    "takeaways": [
+      "AI products have two layers of non-determinism: you don't know how the user will behave, and you don't know how the LLM will respond. Design your system to handle both.",
+      "Every agentic system involves an agency-control tradeoff — the more decision-making you hand to AI, the less control you have. Start with narrow, well-defined tasks before expanding.",
+      "Build your feedback flywheel before scaling: companies winning with AI built the right infrastructure to improve over time (evals, data loops, human oversight).",
+      "'Pain is the new moat' — the institutional knowledge from iterating through what works and doesn't with AI is harder to replicate than any feature.",
+      "80% of successful AI engineers spend their time understanding customer workflows and looking at data, not building the fanciest architecture."
+    ]
+  },
+  "albert-cheng": {
+    "summary": "Growth leader who has worked across Duolingo, Grammarly, and Chess.com discusses how to find hidden monetization and growth opportunities by deeply understanding user behavior. He shares how at Grammarly, interspersing paid suggestions into the free tier nearly doubled upgrade rates, and explains frameworks for knowing when to explore versus exploit and building AI-powered SQL bots to make companies more data-informed.",
+    "takeaways": [
+      "For freemium products, the free experience should be a representative sample of the full product's power. Showing free users a taste of premium suggestions nearly doubled subscription upgrades at Grammarly.",
+      "User retention is the foundation of consumer subscriptions. If D1 retention is below 30-40%, you're fighting an uphill battle — you're forced to convert users on day one before they've built any habit.",
+      "When more experiments return statistically insignificant results, that's a signal you've over-exploited an insight and need to brainstorm new hypotheses.",
+      "Build an AI-powered Slack bot with text-to-SQL for ad hoc data questions. It dramatically increases question volume because people no longer feel embarrassed to ask 'stupid' questions.",
+      "Freemium works best when the free tier serves the mission and growth comes through word of mouth — not paid acquisition, which makes freemium economics brutal."
+    ]
+  },
+  "alexander-embiricos": {
+    "summary": "Product lead for OpenAI's Codex discusses how Codex evolved from a coding agent into something approaching a software engineering teammate, including how OpenAI built the Sora Android app in 18 days using Codex. He shares practical techniques for getting the most out of AI coding: writing a plan.md first, running tasks in parallel, and dogfooding carefully since internal usage patterns don't always match the broader market.",
+    "takeaways": [
+      "For complex tasks, first collaborate with Codex to write a plan.md with verifiable steps — it will work much longer and more reliably when given a structured plan before executing.",
+      "Run AI coding tasks massively in parallel rather than sequentially. Kick off multiple tasks, go do something else, and come back to review results asynchronously.",
+      "Dogfooding has a blind spot: if your team is highly expert, you'll get different signals than the broader market. Build for the general audience.",
+      "Codex is moving from 'prompt to patch' toward proactively identifying work — reviewing bug reports and suggesting fixes without being asked.",
+      "The fastest path to winning in AI coding tools is trust — users need to trust the agent won't break things and will ask when uncertain."
+    ]
+  },
+  "andrew-wilkinson": {
+    "summary": "Co-founder of Tiny, who has built and acquired 75+ businesses, argues that most entrepreneurs choose the wrong ideas by pursuing glamorous, crowded markets instead of boring niches. He walks through Charlie Munger's 'fish where the fish are' principle, explains why he bootstrapped to nearly $300M in revenue without VC, and shares how he built an elaborate AI agent system using Lindy to manage his inbox, calendar, and decisions.",
+    "takeaways": [
+      "Follow Munger's 'fish where the fish are': find niches where almost nobody wants to compete (pest control software, government forms) rather than glamorous markets where everyone plays.",
+      "First-time entrepreneurs should build small, simple businesses to develop operational muscle before swinging at big ideas.",
+      "You don't need VC funding to build a large business. Tiny bootstrapped to nearly $300M in revenue by choosing businesses that don't require burning millions before profitability.",
+      "Andrew's multi-agent email system reduces his inbox by 50% through a chain of agents: one filters noise, one flags urgencies, one summarizes decisions, one drafts replies.",
+      "AI is like having the world's most reliable employee for $200/month who works 24/7. Companies and individuals who embrace this aggressively will have a massive advantage."
+    ]
+  },
+  "asha-sharma": {
+    "summary": "CVP of AI Platform at Microsoft discusses the shift from 'product as artifact' to 'product as organism' — products that continuously learn from interactions. She argues the org chart is becoming the 'work chart' as agents eliminate layers, and makes a strong case that post-training and reinforcement learning will become more strategically important than pre-training for most companies building on foundation models.",
+    "takeaways": [
+      "Think of AI products as 'organisms' rather than artifacts — they get better with every interaction. Companies that build feedback loops for model improvement will compound faster.",
+      "The org chart will collapse into a 'work chart': as agents take over discrete tasks, you need fewer management layers. Plan for this structurally.",
+      "Post-training (fine-tuning, RLHF) will attract as much investment as pre-training. You can achieve better results for your use case by adapting an existing model rather than building from scratch.",
+      "Use a 'model system' (ensemble of models) rather than one model for everything. Route intelligently across models based on task requirements.",
+      "Don't do annual planning for AI products — treat model capability releases as external forcing functions and build adaptive planning processes."
+    ]
+  },
+  "ben-horowitz": {
+    "summary": "a16z co-founder covers why the hardest part of leadership is making confident decisions under genuine uncertainty when all options are bad, drawing on stories from running Loudcloud/Opsware (including taking the company public with only $2M trailing revenue to avoid bankruptcy). He also shares lessons from unlikely cultural role models — Haitian revolutionary Toussaint Louverture and a reformed prison gang leader — on building trust from zero in low-trust environments.",
+    "takeaways": [
+      "The value a leader adds is specifically in decisions most people disagree with — if everyone agrees, the decision would have happened without you.",
+      "Company failures follow the same pattern as plane crashes: a series of individually small bad decisions that compound. Build habits of noticing when you're stringing together small compromises.",
+      "Culture is defined by the worst behavior you tolerate, not the values you post on the wall.",
+      "The PM job is fundamentally a leadership job without authority — you need credibility and persuasion to move people who don't report to you.",
+      "Founders have a unique ability to create the next product that almost no professional CEO can replicate. The option value of founder product instinct is worth more than short-term operational smoothness."
+    ]
+  },
+  "benjamin-mann": {
+    "summary": "Anthropic co-founder and former OpenAI researcher discusses why he left OpenAI over safety concerns, estimating a 50th percentile chance of superintelligence by 2028. He explains Anthropic's Constitutional AI approach, the difference between alignment today versus post-superintelligence, and why spreading safety awareness through networks is the most important thing anyone can do right now.",
+    "takeaways": [
+      "The window to get AI alignment right is now, before superintelligence. Once we reach superintelligence, the models will be too capable to align after the fact.",
+      "Safety-oriented labs retain top researchers against $100M+ offers because mission clarity is the ultimate recruiting moat — affecting the future of humanity, not just making money.",
+      "The most dangerous near-term AI risks aren't robots — they're software attacks on critical infrastructure (power grids, financial systems) that could cause massive physical damage.",
+      "Constitutional AI works by giving the model principles and having it critique and revise its own outputs — baking values into training rather than patching them post-hoc.",
+      "Prepare mentally for the world to get much weirder, much faster. If things feel wild now, this is as normal as it will ever be."
+    ]
+  },
+  "boris-cherny": {
+    "summary": "Creator of Claude Code at Anthropic discusses how 100% of his code is now written by AI (with five agents running simultaneously during the podcast), how productivity per engineer at Anthropic has increased 200% since Claude Code launched, and how he built the product from a demo called 'Claude CLI' in late 2024. He shares principles like intentionally under-staffing projects to force AI adoption and giving engineers unlimited tokens.",
+    "takeaways": [
+      "Intentionally under-fund projects slightly: when an engineer is the only person on a project, they're forced to use AI to ship at pace. This creates intrinsic motivation to fully adopt AI tooling.",
+      "Give engineers unlimited token budgets at the start of a project. The most innovative ideas come from engineers who feel free to throw tokens at a problem.",
+      "Don't get stuck in old mental models of the model. Engineers who've used Claude for a year often debug manually out of habit when Claude could solve it in minutes.",
+      "Claude Code is moving beyond coding toward proactively identifying work by scanning Slack threads, bug reports, and telemetry for patterns.",
+      "Coding is 'virtually solved' for most standard codebases — the new frontier is adjacent tasks: project management, email triage, form-filling, and cross-tool automation."
+    ]
+  },
+  "brendan-foody": {
+    "summary": "CEO of Mercor — which grew from $1M to $400M annual revenue run rate in 16 months — discusses how they identified the opportunity to be the marketplace connecting expert professionals to AI labs that need high-quality human evaluation data. The core insight: model improvement is bottlenecked by humans who can measure model capabilities, and frontier labs will pay whatever it takes for domain experts to write evaluations.",
+    "takeaways": [
+      "'If the model is the product, evals are the PRD' — evals define what success looks like for a model the way a product requirements document defines success for software.",
+      "The market size for evals is bounded by the set of tasks where humans can still do something models can't. That boundary is shrinking, but the hardest tasks will require human evals for years.",
+      "The fastest-growing companies aren't built on novel technology — they're built on identifying structural bottlenecks in industries with unlimited demand.",
+      "Models are only as good as their evals. Before building fancy fine-tuning pipelines, ask whether you have robust evals to measure what you're actually trying to improve.",
+      "The future of work is an 'RL environment machine': every economic activity will eventually become a context for generating training data and reward signals for models."
+    ]
+  },
+  "brian-halligan": {
+    "summary": "HubSpot co-founder and Sequoia CEO coach discusses how starting a company has never been easier while scaling one has never been harder due to the explosion of competition AI enables. He shares his LOCKS framework for evaluating CEOs (Lovable, Obsessed, Credible, Knowledgeable, Student), why enterprise sales is the last job AI will replace, and how go-to-market will change as buyers research in AI chat interfaces instead of Google.",
+    "takeaways": [
+      "Use the LOCKS framework: are they Lovable (can they attract talent), Obsessed with the problem, Credible, Knowledgeable about the domain, and a Student of the craft?",
+      "The most common scaling failure isn't strategy — it's CEOs refusing to give hard feedback. Learn to layer people and deliver honest performance reviews.",
+      "Peer learning beats coaching for early-stage CEOs. The most effective format is 15 CEOs at similar stages talking about their problems.",
+      "Buyers increasingly start in ChatGPT or Gemini, arrive at your site already educated, and expect an all-knowing AI avatar rather than static copy.",
+      "Enterprise sales is the last white-collar job AI will replace because trust between humans still drives purchase decisions."
+    ]
+  },
+  "chip-conley": {
+    "summary": "Founder of the Modern Elder Academy and Brian Chesky's longtime mentor at Airbnb shares what it was like to join at 52 as a 'modern elder' — simultaneously mentoring the CEO and reporting to him. He saved Airbnb from going mobile-only by pointing out older hosts couldn't manage listings on a phone. He also covers the world's first midlife wisdom school, how nine near-death experiences changed his relationship with purpose, and why curiosity matters more than wisdom as you age.",
+    "takeaways": [
+      "The most effective role for an experienced person in a young company isn't dispensing wisdom — it's being a 'confidant' who helps younger colleagues find their own answers.",
+      "Establish credibility through competence in a domain the young team lacks. Chip's credibility at Airbnb came from deep hospitality knowledge the 26-year-olds simply didn't have.",
+      "Before important meetings with a founder, align on intention, definition of success, and desired outcome. This shared reference point prevents conversations from going sideways.",
+      "Tech companies undervalue experienced workers by measuring only execution speed. Pattern recognition, emotional intelligence, and knowing what not to do are often invisible to standard metrics.",
+      "Curiosity is the antidote to becoming irrelevant. The moment you position yourself as the expert who has all the answers, younger colleagues tune out."
+    ]
+  },
+  "chip-huyen": {
+    "summary": "Author of 'AI Engineering' gives a ground-up explanation of how AI systems actually work — pre-training, post-training, fine-tuning, RAG, reinforcement learning — and why most companies that try to build AI products fail because they don't understand the problem they're solving. She argues the industry is in an 'idea crisis' where people are enamored with tools but have lost sight of user problems.",
+    "takeaways": [
+      "Stop keeping up with every new AI release. Companies that improve AI products fastest obsessively read user feedback rather than immediately upgrading to the newest model.",
+      "Most companies don't need to fine-tune. RAG solves the majority of cases where you need the model to know about proprietary data. Only fine-tune when you need to change model behavior, not knowledge.",
+      "Don't over-invest in evals at early stages. If traffic is growing and customers are happy, a vibe check may be sufficient. Invest in formal evals at scale.",
+      "RLHF is what made ChatGPT feel different from raw GPT-3. Understanding this helps you reason about why models behave the way they do.",
+      "The AI industry is in an 'idea crisis,' not a technology crisis. User empathy and problem definition are the scarce resource, not model capability."
+    ]
+  }
+}

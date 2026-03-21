@@ -20,12 +20,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Jenny Wen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. It's not just designers who are feeling like, \"Oh yeah, we have to keep up with engineers.\" I think even engineers are like, \"How do we keep up with ourselves?\", covering product design, AI product work, and engineering tradeoffs.",
+      "summary": "Jenny Wen, head of design for Claude Cowork at Anthropic and former design director at Figma, describes how the design profession is being structurally reorganized by AI-accelerated engineering. The old design process — diverge, converge, make beautiful mocks, hand off — is essentially dead for fast-moving teams. Designers are being forced into two new modes: real-time execution partner and short-horizon vision setter prototyping directional bets 3–6 months out.",
       "takeaways": [
-        "I've basically shifted all of my chat use cases over to Cowork, because I've been finding that it sort of is better at these longer running tasks.",
-        "Whenever I do work with engineers on projects, and it's more on a consulting basis, I do just try to explain why I'm thinking a way that I'm thinking, to help them extract principles.",
-        "As opposed to me just being like, \"No, I don't think this should go here.",
-        "\" It's like, \"No, I think we should have a button here because not everybody realizes you can prompt this."
+        "The design time pie chart has fundamentally flipped: what used to be 60–70% mocking and prototyping is now 30–40%, with freed-up time going to real-time engineering collaboration.",
+        "Design visions should now be 3–6 months out, not 2–5 years. A working prototype that points the team in a direction is more valuable than a beautifully produced vision deck.",
+        "When hiring designers, seek three archetypes: 'block-shaped' strong generalists, deep T-shaped specialists, and 'craft new grads' with no baked-in process baggage.",
+        "Trust is built through speed, not perfection. Shipping a labeled 'research preview' with known rough edges is brand-building if the team visibly responds to feedback.",
+        "Use the 'legibility framework': hunt for prototypes where there is unexplained internal energy — people excited but unable to articulate why — and dive in before it becomes obvious."
       ],
       "topQuotes": [
         {
@@ -71,12 +72,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Jeetu Patel shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. And the reason we pulled this thing together, the goal was, what is happening in the industry and how can we help customers make sure that they can make the most of it, covering AI product work, team leadership, and product design.",
+      "summary": "Jeetu Patel, EVP of Product at Cisco, discusses what he learned from organizing an AI summit featuring Jensen Huang and Sam Altman, and how he's transforming a 90,000-person enterprise into an AI-first company. The episode covers his six-part framework for building great companies (timing > market > team > product > brand > distribution), his contrarian management philosophy of critiquing publicly and praising privately, and a personal story about his mother that became his most important life lesson.",
       "takeaways": [
-        "When I got this new job, there's zero chance I would have been able to do it if AI wasn't there, because I didn't know anything about so many domains that we were in.",
-        "So, that's what we did, and I think that's been those principles of building great products, but making sure that it operates like a platform and having an open ecosystem, I think has been kind of central.",
-        "I'm like, \"That seems like it's a lot because we have a very broad portfolio.",
-        "You don't want to have packet loss in your storytelling from you to the person on the front line because-."
+        "Timing is the most important and least controllable variable in building a company. A great team in a bad market will be dragged down; a mediocre team in a great market will be pulled up.",
+        "To distinguish a megatrend from hype, ask whether a normal person can understand its value without a PhD. AI passes that test; Web3 did not.",
+        "Large companies fail at AI not because they don't experiment, but because when an experiment works they keep hedging instead of going all in.",
+        "Critique in public, support in private — the opposite of what management books say. Public debate works only when trust has been established first.",
+        "Plan six months ahead, not for today. Treat model capability releases as external forcing functions and build adaptive planning processes."
       ],
       "topQuotes": [
         {
@@ -122,12 +124,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Boris Cherny shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. This is the world now.\" What's the next big shift to how software is written that either your team is already operating in or you think will head towards, covering engineering tradeoffs, product design, and AI product work.",
+      "summary": "Creator of Claude Code at Anthropic discusses how 100% of his code is now written by AI (with five agents running simultaneously during the podcast), how productivity per engineer at Anthropic has increased 200% since Claude Code launched, and how he built the product from a demo called 'Claude CLI' in late 2024. He shares principles like intentionally under-staffing projects to force AI adoption and giving engineers unlimited tokens.",
       "takeaways": [
-        "I think another principle is just encouraging people to go faster.",
-        "So, if you can do something today, you should just do it today.",
-        "Early on, it was really important, because it was just me.",
-        "As a programmer, it doesn't feel that new, because there's always new frameworks."
+        "Intentionally under-fund projects slightly: when an engineer is the only person on a project, they're forced to use AI to ship at pace. This creates intrinsic motivation to fully adopt AI tooling.",
+        "Give engineers unlimited token budgets at the start of a project. The most innovative ideas come from engineers who feel free to throw tokens at a problem.",
+        "Don't get stuck in old mental models of the model. Engineers who've used Claude for a year often debug manually out of habit when Claude could solve it in minutes.",
+        "Claude Code is moving beyond coding toward proactively identifying work by scanning Slack threads, bug reports, and telemetry for patterns.",
+        "Coding is 'virtually solved' for most standard codebases — the new frontier is adjacent tasks: project management, email triage, form-filling, and cross-tool automation."
       ],
       "topQuotes": [
         {
@@ -173,11 +176,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Brian Halligan shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Brian Halligan co-founded HubSpot, ran it as CEO for about 15 years, and now coaches Sequoia’s fastest-growing founders as their in-house CEO coach.",
+      "summary": "HubSpot co-founder and Sequoia CEO coach discusses how starting a company has never been easier while scaling one has never been harder due to the explosion of competition AI enables. He shares his LOCKS framework for evaluating CEOs (Lovable, Obsessed, Credible, Knowledgeable, Student), why enterprise sales is the last job AI will replace, and how go-to-market will change as buyers research in AI chat interfaces instead of Google.",
       "takeaways": [
-        "I think even me, I've been doing this for 150 years, I still think I overrate my ability to interview someone, and really know if they're a good fit.",
-        "Before he's got a C-level interview, CFO, chief product officer, whatever, he has some sign an NDA, and sends them the last board deck, or the board memo, or some important doc, and he schedules a half hour interview with them, and he just has a chat about the decks.",
-        "If they're just very complimentary, and it's so great, and you're doing this amazing thing, it's a major red flag to him because he wants someone that will challenge him and not a yes person."
+        "Use the LOCKS framework: are they Lovable (can they attract talent), Obsessed with the problem, Credible, Knowledgeable about the domain, and a Student of the craft?",
+        "The most common scaling failure isn't strategy — it's CEOs refusing to give hard feedback. Learn to layer people and deliver honest performance reviews.",
+        "Peer learning beats coaching for early-stage CEOs. The most effective format is 15 CEOs at similar stages talking about their problems.",
+        "Buyers increasingly start in ChatGPT or Gemini, arrive at your site already educated, and expect an all-knowing AI avatar rather than static copy.",
+        "Enterprise sales is the last white-collar job AI will replace because trust between humans still drives purchase decisions."
       ],
       "topQuotes": [
         {
@@ -222,12 +227,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Sherwin Wu V2 shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. If you talk to a lot of engineers, the thing that annoys them the most is after you've written your beautiful code, how do you get it into production, covering engineering tradeoffs, AI product work, and team leadership.",
+      "summary": "Considering that essentially every AI startup integrates with OpenAI's APIs, Sherwin has an incredibly unique and broad view into what is going on and where things are heading. Let's get into it after a short word from our wonderful sponsors.",
       "takeaways": [
-        "I think the same thing might happen for people management as well, especially in tech companies.",
-        "There's some teams where there are EMs managing quite a few people and they're doing it pretty adeptly because of some of these tools where they can get higher leverage and understand what their team's doing, understand organizational context a little bit better and operate in that way.",
-        "One of these principles is what I talked to you about before, which is spending a lot of time with top performers, like actually spending.",
-        "The way that I think about it is kind of come back to this analogy of software engineer as a surgeon, which comes from The Mythical Man-Month."
+        "You have literally seen this play out where like the agent frameworks I think are a little less useful now.",
+        "One of these principles is what I talked to you about before, which is spending a lot of time with top performers, like actually spending...",
+        "To be very concrete, it's like more than 50% of your time with your top performers, with maybe your top 10% performers, and really, really trying your best to empower them.",
+        "Because in the absence of that, it's actually very difficult to pick up.",
+        "This phrase that I thought was really good, which is the models will eat your scaffolding for breakfast."
       ],
       "topQuotes": [
         {
@@ -272,12 +278,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Lazar Jovanovic shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Lazar Jovanovic is a full-time professional vibe coder at Lovable. His job is to build both internal tools and customer-facing products purely using AI, while not having a coding background.",
+      "summary": "Lazar is a professional vibe coder. He gets paid to vibe code all day and build internal and external products. This conversation is going to blow your mind in so many ways. This is not only a really interesting new career path for people to consider. If you listen to what Lazar shares, it's also a really important glimpse into where things are heading for tech roles.",
       "takeaways": [
-        "Then it's my personal mission that resonates with me because if there wasn't Lovable, I would've never built anything, potentially in my life and I don't think that, that would've been a fun life to live.",
-        "I guarantee people, I've tested this framework with many people and everybody's telling me the same thing, \"Eye-opener.",
-        "You, as somebody who directs and builds this product, you need to know, again, what's going to be useful, what's going to be tasteful, what's going to be something that actually moves the needle.",
-        "I will say one thing though, just because I put so much emphasis on, \"Oh, you need to acquire taste."
+        "We're just coming to this completely unbiased and very positively delusional, which I think you have to have when working with AI tools.",
+        "You have to come with this delusion that absolutely everything is possible until proven wrong.",
+        "That's just the pursuit that I have in my mind that has helped me, among other things that we'll chat today, I think to excel in this role that I have at Lovable.",
+        "The output that AI can do is much faster than human output anyways.",
+        "Very early on, I started leveraging chat mode."
       ],
       "topQuotes": [
         {
@@ -322,12 +329,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Dr. Becky Kennedy shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Working with difficult adults, covering product design, team leadership, and practical product lessons.",
+      "summary": "Becky Kennedy, a clinical psychologist, author, and CEO of one of the most popular parenting books, podcasts, communities, and apps called \"Good Inside.\" Why would I have a parenting expert on this podcast? Because if you think about it, many of the people that we work with in the workplace act a lot more like babies than adults. And I'm half joking, but I'm half not. Think about coworkers that got really mad when they had to share their stuff, that always need to be the center of attention, ...",
       "takeaways": [
         "Whether we're talking about leadership in parenting or leadership in the workplace, it's actually the exact same principles that can be applied.",
-        "It's not because they're taking advantage of you.",
-        "It's because they feel that much more dysregulated because they don't feel like there's an adult in the room who's willing to put a container on their shell-less egg to help them come back together and move forward in a better direction.",
-        "One of the reasons I love talking about childhood is because that's when our brain is wiring."
+        "See a more capable version of them than they can see in the moment.",
+        "Doing those two things at once, it's magic.",
+        "Again, these things are hard in practice, but at least, and I know you're like this too, it's helpful to have a framework to come back to.",
+        "The workplace is another system, a marriage is a system, sibling relationships are a system, extended family over the holidays, that's a system."
       ],
       "topQuotes": [
         {
@@ -372,11 +380,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Marc Andreessen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Marc Andreessen is a founder, investor, and co-founder of Netscape, as well as co-founder of the venture capital firm Andreessen Horowitz (a16z). In this conversation, we dig into why we’re living through a unique and one of the most incredible times in history, and what comes next.",
+      "summary": "Marc Andreessen argues that we are living through one of the most historically significant moments ever, with AI, demographic collapse, and political upheaval colliding simultaneously. He makes the case that AI is a genuine philosopher's stone — turning silicon into thought — and that its arrival is perfectly timed to compensate for 50 years of stalled productivity growth and a coming global population decline. The conversation covers how AI-forward founders are rethinking what a company even is, why career specialization is giving way to multi-domain individuals, and why AI's capacity to teach is its most underrated power.",
       "takeaways": [
-        "We actually need AI to work because we're going to need machines to do all the jobs that we're not going to have people to do because we're literally going to depopulate the planet over the next 100 years.",
-        "He had this famous career advice he would give people, which I think makes a lot of sense.",
-        "Of course, as a VC, this is very exciting because it means we're doing this now."
+        "Demographic collapse and AI are arriving at the same time by necessity: the world will have too few workers to care for aging populations, making AI not a threat to labor but a requirement for civilization's survival.",
+        "The most valuable career move is to become 'non-fungible' by developing deep skill in at least two or three domains. AI makes it easier than ever to acquire adjacent skills by asking it to teach you — not just do work for you.",
+        "The 'one-person billion-dollar company' is becoming plausible. Leading founders are asking whether a company can be reconstituted as a founder overseeing an army of AI agents.",
+        "Don't over-obsess over moats in AI right now — confident predictions about which layer will capture value have historically been wrong in every major tech transition.",
+        "AI is the best tutor ever built. Individuals should spend time asking AI to teach them and quiz them — not just to complete tasks."
       ],
       "topQuotes": [
         {
@@ -421,12 +431,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Jason Cohen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jason’s five-step framework: logo retention, pricing, NRR, marketing channels, target market.",
+      "summary": "Jason is a four-time founder, including two unicorns, one being WP Engine. He's not just an incredible builder and entrepreneur. He's also an incredible writer and share of product wisdom. He's been sharing his advice online for over 20 years now. I've been a huge fan of Jason's from afar for so long and it was such a treat to have him on the podcast. There are a million things we could have talked about and I'm definitely going to have him back. They discuss we spent the entire time talking ...",
       "takeaways": [
-        "Then a year later you look back and you should be like 50 or a hundred percent better because you've stacked these things, and you look back, and like nothing's different.",
-        "Your prices are way too low because you just guessed and you haven't changed them.",
+        "This is probably not unique, but Wispr Flow for dictation.",
+        "I like the keyboard shortcuts because I just use it all the time in all the software, and anything Anker makes.",
+        "They have power stations, and docs, and rechargers.",
         "By the way, as you approach that number, growth is very slow because you bring in a bunch of customers and almost the same number leave, so growth is slowing.",
-        "That's why this is the first thing, because it's such a hard cap limit and it means that people don't want your product."
+        "Ah, look, we've diagnosed by growth slows automatically at all SaaS companies."
       ],
       "topQuotes": [
         {
@@ -472,11 +483,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Zevi Arnovitz shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The complete AI workflow that lets non-technical people build real products in Cursor.",
+      "summary": "Zevi is a PM at Meta. Prior to that, he was a PM at Wix, and this is a truly remarkable conversation that every non-technical product person needs to hear. Zevi is super young and has no technical background, but as a smart, young, ambitious person, has learned how to use Cursor and Claude Code to build significant and real products completely on his own, and he's created his own very clever and effective workflow that everyone listening can copy.",
       "takeaways": [
-        "It was like a crazy moment for me because I was watching this and it basically felt like someone came up to me and said, \"Hey Zevi, there's this cool new technology you should check out.",
-        "Oh, and by the way, you have superpowers now.",
-        "It's very difficult for me to catch mistakes."
+        "You need to either explain why the stuff they found are not real issues and wrong or fix them yourself.",
+        "It's really cool because the way I look at these things is I look at the models, I try to imagine them as people and I can really tell you how each one of these would be as a real human because they have-.",
+        "If you put anything out there or show something in a product review and you say, \"Oh, sorry, that was built by AI.\" That's your mistake.",
+        "This is basically just getting me reps, which is one of the most important things at the beginning of your career.",
+        "I understand the fear that how do you outsource certain stuff and you're not owning 100% of everything, but I think the upside is so much more valuable."
       ],
       "topQuotes": [
         {
@@ -521,12 +534,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Sam Lessin shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Silicon Valley’s missing etiquette playbook, covering startup building, product design, and operator lessons.",
+      "summary": "This is an unconventional episode that may surprise you in how interesting and useful it is to your life. I asked Sam to come on the pod and talk about proper etiquette.",
       "takeaways": [
-        "Hilarious just because you should have fun in life.",
-        "We should be working on things that are fun and interesting.",
-        "Again, I think the thing for us is I'm kind of a ship early, ship often guy.",
-        "V1, you should buy it now and study it because it's good and it's going to be a limited edition."
+        "On the other hand, going up and being like, \"You're the most important person I've ever met.\" Is wrong.",
+        "So there's a way to, again, it's about grace as much as anything else and recognizing that they're people.",
+        "Again, you're playing an iterative game and the best thing you can do is say, as much as it might actually be, this is not my only opportunity to meet Mark.",
+        "Again, the key though is subtlety on these things, I think in all things.",
+        "You want to basically let people feel respected as much as anything else."
       ],
       "topQuotes": [
         {
@@ -571,12 +585,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Alexander Embiricos shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. How to set up and use Codex in VS Code and terminal environments for both simple and complex coding tasks.",
+      "summary": "Product lead for OpenAI's Codex discusses how Codex evolved from a coding agent into something approaching a software engineering teammate, including how OpenAI built the Sora Android app in 18 days using Codex. He shares practical techniques for getting the most out of AI coding: writing a plan.md first, running tasks in parallel, and dogfooding carefully since internal usage patterns don't always match the broader market.",
       "takeaways": [
-        "What we can do is as a product team just try to always think about how are we building a tool so that it feels like we're maximally accelerating people rather than building a tool that makes it more unclear what you should do as the human.",
-        "By far, I would say the speed and ambition of working at OpenAI are just dramatically more than what I can imagine.",
-        "I guess it's kind of an embarrassing thing to say because everyone who's a startup founder thinks like, \"Oh yeah, my startup moves super fast and the talent bar is super high and we're super ambitious.",
-        "Then I think agents outside of coding, it's still very early."
+        "For complex tasks, first collaborate with Codex to write a plan.md with verifiable steps — it will work much longer and more reliably when given a structured plan before executing.",
+        "Run AI coding tasks massively in parallel rather than sequentially. Kick off multiple tasks, go do something else, and come back to review results asynchronously.",
+        "Dogfooding has a blind spot: if your team is highly expert, you'll get different signals than the broader market. Build for the general audience.",
+        "Codex is moving from 'prompt to patch' toward proactively identifying work — reviewing bug reports and suggesting fixes without being asked.",
+        "The fastest path to winning in AI coding tools is trust — users need to trust the agent won't break things and will ask when uncertain."
       ],
       "topQuotes": [
         {
@@ -622,12 +637,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Aishwarya Naresh Reganti + Kiriti Badam shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. But if you make a bunch of practitioners sit together and ask them, \"Is it important to build an actionable feedback loop for AI products?\" I think all of them will agree, covering AI product work, product design, and team leadership.",
+      "summary": "Two AI practitioners (one from Anthropic, one from OpenAI) who are also married discuss the fundamental differences between building AI products versus traditional software, specifically around non-determinism, the agency-control tradeoff, and why most teams fail by chasing hype over problems. They walk through a framework for shipping AI products successfully — starting small, building feedback flywheels, and developing robust evals.",
       "takeaways": [
-        "I think that will be a huge problem once systems go mainstream.",
-        "You're kind of stuck because there are tons of instructions that you could inject within your prompt and then it's going really bad.",
-        "That doesn't mean you should always design evaluation metrics.",
-        "There are some errors that you can just fix and not really come back to because they're very spot errors."
+        "AI products have two layers of non-determinism: you don't know how the user will behave, and you don't know how the LLM will respond. Design your system to handle both.",
+        "Every agentic system involves an agency-control tradeoff — the more decision-making you hand to AI, the less control you have. Start with narrow, well-defined tasks before expanding.",
+        "Build your feedback flywheel before scaling: companies winning with AI built the right infrastructure to improve over time (evals, data loops, human oversight).",
+        "'Pain is the new moat' — the institutional knowledge from iterating through what works and doesn't with AI is harder to replicate than any feature.",
+        "80% of successful AI engineers spend their time understanding customer workflows and looking at data, not building the fanciest architecture."
       ],
       "topQuotes": [
         {
@@ -673,12 +689,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Molly Graham shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Molly Graham has worked for some of tech’s most effective leaders, including Mark Zuckerberg, Sheryl Sandberg, Chamath Palihapitiya, and Bret Taylor. Today she leads Glue Club, a community for leaders navigating rapid scale, growth, and change.",
+      "summary": "Molly was an early employee at Google, also at Facebook, where she worked closely with Zuck on building the Chan Zuckerberg initiative. She also worked with Brett Taylor on scaling Quip, which he sold to Salesforce. She's also worked with hundreds of companies and founders helping them grow into the leaders that they want to become. Today, she leads Glue Club, which is a community for leaders operating in changing, growing environments who want to develop themselves as quickly as their compan...",
       "takeaways": [
-        "First of all, Ami Vora, who you have had on your podcast, once said to me that all advice is just someone telling you what they did.",
-        "Because I really think that basically what I tell people is I've made every single mistake in the book.",
-        "Then I got to the end of the book and I started inventing new mistakes.",
-        "Mostly what I feel is that I like sharing my stories because I want to help people."
+        "My advice and frameworks, like I said, come from having made a lot of mistakes.",
+        "I've also sort of made a personal study over the last 18 years, believe it or not.",
+        "Essentially what does it take to thrive inside growing and changing companies, not just to hang on for dear life.",
+        "What does it take to lead in the face of constant change?",
+        "Really the other piece that I find truly fascinating is what genuinely makes the difference between a business that grows but then plateaus versus these generational businesses."
       ],
       "topQuotes": [
         {
@@ -723,12 +740,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Jason M Lemkin shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. We replaced our sales team with 20 AI agents—here’s what happened, covering B2B products, startup building, and team leadership.",
+      "summary": "Jason created and runs Saastr, the world's largest community for SaaS and B2B founders. He also runs two of the biggest town conferences every year, one in the Bay Area, which attracts over 15,000 people, and one in Europe with over 3,000 SaaS executives, founders, and entrepreneurs. Before Saastr, Jason was the CEO and co-founder of EchoSign, which he grew to over 100 million ARR and then sold to Adobe where he ended up as a vice president of their web services business. If you follow Jason ...",
       "takeaways": [
-        "I think it's an evergreen topic, but I think there's remains a consistent set of confusion, fears around how to build a sales team, and it's evergreen.",
-        "The tools change and the pace has changed, but the issues, I love to dig into them because we keep making the same mistakes as founders and executives again and again and again.",
-        "Sometimes even the founders get mad at me for doing this, because sometimes, the candidate bails.",
-        "I mean, what if you hired someone for your podcast and they decided, \"You know what."
+        "One of the tough parts of the software model is that there's no, there's actually almost anti-efficiencies in sales.",
+        "The public companies are actually less, they have the higher CACs than startups, believe it or not, because they have so much market penetration.",
+        "It's rules of eight, eight SDRs, outbound reps need one manager, eight AEs, eight sales execs need a director above them.",
+        "Another company I'm on the board on, I really like this VP of sales a lot.",
+        "He joined and six months in, sales were down from where, the new bookings were down from where they were six months before."
       ],
       "topQuotes": [
         {
@@ -774,12 +792,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Matt MacInnis shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Matt MacInnis is the chief product officer and former longtime COO at Rippling, a unified workforce management platform valued at over $16 billion.",
+      "summary": "If you don't know much about Rippling, it's a massively successful business last valued at over $16 billion. They have over 5,000 employees, and Matt has been instrumental to that success. He's also got a really rare combination of brutal honesty, a ton of experience building a very complex and very successful business, and being able to clearly articulate what he has learned really well. Matt shared a lot of insights and advice that I've not heard anyone else on this podcast share, and I lef...",
       "takeaways": [
         "You got to sort of remind people of that, that if they ever find themselves in the comfort zone at work, they are definitely making a mistake.",
+        "It's not that an extraordinary effort is sufficient to an extraordinary outcome, but it is 100% true that it is necessary.",
         "So I do use that framework as a sort of guiding principle in my own leadership.",
-        "It uses weird pronouns for the secretary and the executive.",
-        "The book itself is so chock-full of simple enduring advice on how to be effective at leading teams."
+        "What you have to do after you have a reaction to a candidate when you're looking at hiring somebody is you need to decode your intuition so that it can be expressed to other people productively.",
+        "One of the frameworks that I use for this is SPOTAC."
       ],
       "topQuotes": [
         {
@@ -825,12 +844,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Elena Verna 4.0 shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Who would've thought that a head of growth, who is traditionally seen as data, metrics, spreadsheets, drive KPIs is like, \"Okay, how do we make this more lovable, covering growth systems, product design, and pricing decisions.",
+      "summary": "In under one year after launching, with fewer than 100 people, Lovable hit 200 million ARR, which is one of, if not the fastest ramp to 200 million ARR in history, and growth is still accelerating. They've also recently raised a series B at a $6 billion valuation. So, with that, there's a lot to learn about what Lovable has figured out about growth. This is Elena's fourth visit to the podcast, a record, she is my favorite growth mind, and in our conversation, we talk about how the growth play...",
       "takeaways": [
-        "It's not a framework that I can even conceptualize in my head.",
-        "That's the difference because when you're usually trying to create a new category, it takes years.",
-        "We're really just putting a lot of oil into it, and figuring out what is our engine actually going to be that is going to take us forward.",
-        "When I'm thinking about the patterns here, and what I have to unlearn, I feel like only 30 to 40% of what I've learned in the last 15 to 20 years of being in growth transfers here."
+        "Some of these smaller changes just cannot be supported by marketing.",
+        "You have to delegate it to your product and engineering team to do their own marketing, because otherwise, again, you'd have to have an enormous marketing team in order to support it all.",
+        "This is not a paycheck for them, they want to do this for some ulterior reason.",
+        "This is the biggest opportunity of their life, so this is global maximum against any other opportunities that are in front of them at the moment.",
+        "To be ahead of them is not optimization of the problem, it's reinvention of the solution."
       ],
       "topQuotes": [
         {
@@ -875,11 +895,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Edwin Chen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Edwin Chen is the founder and CEO of Surge AI, the company that teaches AI what’s good and bad, powering frontier labs with elite data, environments, and evaluations. Surge surpassed $1 billion in revenue with under 100 employees last year, completely bootstrapped—the fastest company in history to reach this milestone.",
+      "summary": "Edwin is an extraordinary CEO and Surge is an extraordinary company. They're the leading AI data company, powering training at every frontier AI lab. They're also the fastest company to ever hit $1 billion in revenue in just four years after launch with fewer than 100 people and also completely bootstrapped. They've never raised a dollar in VC money, they've also been profitable from day one.",
       "takeaways": [
-        "I used to work at a bunch of the big tech companies and I always felt that we could fire 90% of the people and we would move faster because the best people wouldn't have all these distractions.",
-        "So I think two things are colliding.",
-        "Other companies are going to be principled and be like, \"Okay, yeah, no, I don't care about marketing."
+        "Other companies are going to be principled and be like, \"Okay, yeah, no, I don't care about marketing.",
+        "I just care about how my model performs on these real world tasks at the end of the day, and so I'm going to optimize for that instead.\".",
+        "I would say I've always been very impressed by Anthropic.",
+        "I think Anthropic takes a very principled view about what they do and don't care about and how they want their models to behave in a way that feels a lot more principle to me.",
+        "I think I mentioned this idea that founders should build a company that only they could build."
       ],
       "topQuotes": [
         {
@@ -923,11 +945,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Tomer Cohen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why LinkedIn is turning PMs into AI-powered \"full stack builders”, covering product design, team leadership, and AI product work.",
+      "summary": "Tomer is chief product officer at LinkedIn overseeing all teams responsible for building and creating LinkedIn products and experiences, including product development, design, business development, content creation, and customer operations. During his tenure at LinkedIn, Tomer was head of the mobile team, led the effort to revamp the LinkedIn feed and to many people surprised, made it extremely interesting in a place I check regularly. And he was also at the center of shifting LinkedIn to an ...",
       "takeaways": [
-        "I felt that I tried for a few months to play on the overall experience with everybody, but it was really hard, almost like impossible because you have an organization that is so tied into how things work that I was just hitting walls after walls after escalations and it was just unproductive.",
         "In fact, you should go all the way to infrastructure.",
-        "It's like what is the potential here."
+        "You can have massive lifts in your product outcomes and goals if you probably enhance your infrastructure.",
+        "How many product people talk about the infrastructure they have?",
+        "Influencers, those are things ultimately your goal is to win with your products and build a much more experience to your members and customers.",
+        "Literally just changing the infrastructure on top of what you build."
       ],
       "topQuotes": [
         {
@@ -973,12 +997,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Jeanne Grosser shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google, and, most recently, Vercel, where she serves as COO and oversees marketing, sales, customer success, revenue operations, and field engineering. She transformed Stripe’s early sales organization from the ground up and advises founders on GTM strategy.",
+      "summary": "Jeanne was chief product officer at Stripe where she built their very early sales team from the ground up. She's currently COO at Versel where she oversees marketing, sales, customer success, revenue ops and field engineering. Jeanne has built world-class go-to-market teams at multiple unicorns and has advised dozens of companies on doing the same. In our conversation, we go deep on what a world-class go-to-market team looks like, including what the heck is go-to-market, the rise of the go-to...",
       "takeaways": [
-        "With AI, it's just intensified because you have 10 players pursuing the same market opportunity and so your ability to actually bring the product to market to differentiate yourself from the competition has become more strategically important than it was previously.",
-        "We buy a lot of things because of how we feel about them.",
-        "Now you do need to write code for that.",
-        "I do think we've sort of found one of the reasons actually the GTM Eng team at Versel can build these agents so easily is because the Versel platform is making it that easy to use our framework to find infrastructure and get that agent onto into production very rapidly."
+        "Then almost like an engineering team, we'll now run sprints, which is like those are just bugs.",
+        "They're bugs in your go-to-market process, so you should not have them.",
+        "By the next week we're going to add content to our objection handling to guide.",
+        "That's a little bit of a preview, but that's where we're talking about taking things right now within our go-to-market orgs.",
+        "Those experiences can feel transactional, flat, boring, or they can feel very human, personalized and unique."
       ],
       "topQuotes": [
         {
@@ -1023,12 +1048,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Rachel Lockett shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. A guide to difficult conversations, building high-trust teams, and designing a life you love, covering team leadership, product design, and consumer products.",
+      "summary": "The main thing I struggle with these days is just... She works with CEOs, and founders, and leaders at tech companies on both ways that they are, emotional and positive intelligence, resilience and courage, and what they do, setting vision and strategy, prioritizing, and building trusted and accountable teams. She's someone I've heard a lot about over the years from other podcast guests, and this conversation is powerful. It's jam-packed with advice, and tips, and frameworks that'll make you ...",
       "takeaways": [
-        "People have climbed the ladder because they've been dependable, reliable, the smartest person in the room.",
-        "Lenny, you're probably a good listener because this is what you do for a living is you listen to the people who come on your podcast.",
-        "I came into the team, there was I think 12 senior engineers, very opinionated, very skeptical, this non-technical PM, but we worked together.",
-        "Even if you don't want to go through a whole culture exercise early on in building your company, you should have some sense of how you want to show up for each other."
+        "Now, the other person doesn't have to meet my request.",
+        "I want to make one note I forgot to say, which is feelings are emotions.",
+        "Sometimes people say things like, \"I feel like you're being a jerk.\" That's not a feeling, obviously.",
+        "A feeling is a sensation in your body that results in an emotion.",
+        "Naming a feeling is actually not easy for technical leaders sometimes."
       ],
       "topQuotes": [
         {
@@ -1073,12 +1099,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Stewart Butterfield shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Mental models for building products people love ft. Stewart Butterfield, covering product design, B2B products, and consumer products.",
+      "summary": "Stewart founded Flickr and then Slack, which he sold to Salesforce in one of the biggest acquisitions in tech history at the time. There is so much product and leadership wisdom locked away in his head. I feel like our conversation just scratched the surface. We chat about utility curves, something he calls the owner's delusion, a hilarious pattern he sees at companies he calls hyperrealistic work-like activities, what he's learned about product and craft and taste and Parkinson's law, why yo...",
       "takeaways": [
-        "To me that was like, \"You should be embarrassed.",
-        "\" If you can't see almost limitless opportunities to improve, then you shouldn't be designing the product.",
-        "The reason I say you have to be coldly rational about it is because it's fucking humiliating.",
-        "The challenge is that people, A, I think this is evolutionary biological."
+        "By the way, you're teaching them to use the product wrong.",
+        "Because it's important that everyone understand that every previous poster in this thread will automatically receive a notification unless they've figured it.\".",
+        "There's this book, Positioning, which is an absolute classic.",
+        "I would recommend everyone read it, where the point of it is, from my perspective, it's almost impossible to create a new idea in someone's head.",
+        "It's much easier to take a couple of existing ideas and put them together."
       ],
       "topQuotes": [
         {
@@ -1122,12 +1149,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Dr. Fei Fei Li shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jobs, robots & why world models are next, covering AI product work, product design, and consumer products.",
+      "summary": "Fei-Fei Li, who's known as the godmother of AI. Fei-Fei has been responsible for and at the center of many of the biggest breakthroughs that sparked the AI revolution that we're currently living through. She spearheaded the creation of ImageNet, which was basically her realizing that AI needed a ton of clean-labeled data to get smarter, and that data set became the breakthrough that led to the current approach to building and scaling AI models. She was chief AI scientist at Google Cloud, whic...",
       "takeaways": [
         "In the middle of 2015, middle of 2016, some tech companies avoid using the word AI because they were not sure if AI was a dirty word.",
-        "I chose to look at artificial intelligence through the lens of visual intelligence because humans are deeply visual animals.",
-        "We need to train machines with as much information as possible on images of objects, but objects are very, very difficult to learn.",
-        "In order to train computers with tens and thousands of object concepts, you really need to show it millions of examples."
+        "Also design, humans design from machines to buildings to homes and also scientific discovery.",
+        "I like to use the example of the discovery of the structure of DNA.",
+        "You cannot think in 2D and deduce that structure.",
+        "You have to think in 3D spatial, use the human spatial intelligence."
       ],
       "topQuotes": [
         {
@@ -1173,12 +1201,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Grant Lee shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Inside the rise of Gamma, covering strategic decision-making, product design, and growth systems.",
+      "summary": "This is a really unique and inspiring, and very tactically useful conversation because Grant is building something that is essentially the dream for most founders. A massive AI startup that's profitable, and has been for a long time, that didn't raise a lot of money for a long time. And as a small team, it's just around 30 people, all who can fit in a small restaurant serving over 50 million users globally.",
       "takeaways": [
-        "I think these are all skills you should invest in as early as possible, because you know you're going to have to get better and better.",
-        "I think this is even more probably helpful for certainly a lot of folks that are starting to do much with vibe-coded apps.",
-        "Now, prove that it's useful to some set of users, and this should be again, every day, every week, you should be able to go through a ton of these, and then build on the things that seem to be working.",
-        "So for us, that was this sort of A/B test of testing these two things that we invested equal amount of time into, and coming out at the other end realizing that, one, was going to be the product we were pour all of our blood, sweat and tears into making it great because we saw the potential in it."
+        "I think the most important thing is before we even talk about the technology, so we're skipping to the part where you're trying to apply the most interesting models or technology to solve some problem.",
+        "Start with solving the problem you actually care about.",
+        "Then you should see that in all the leads that are coming through or people coming through through your prospects and your existing customers.",
+        "If you're not seeing a healthy chunk of those leads come through that way, I would go back.",
+        "Because again, that's the massive tailwind you need where every single thing you do on top of that, all the marketing, all the sales, all the advertising, you're just going to have it becomes way, way easier."
       ],
       "topQuotes": [
         {
@@ -1224,11 +1253,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Jen Abel shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jen Abel is GM of Enterprise at State Affairs and co-founded Jellyfish, a consultancy that helps founders learn zero-to-one enterprise sales. She’s one of the smartest people I’ve ever met on learning enterprise sales, and in this follow-up to our first chat two years ago (covering the zero to $1 million ARR.",
+      "summary": "Jen is the co-founder of Jellyfish, where her and her team help early stage founders learn how to sell, do early customer discovery, and set up a repeatable sales motion. Prior to Jellyfish, Jen was an enterprise sales director at the Muse and a general assembly, and she's obsessed with helping founders in the zero to one stage of their journey. In our conversation, we get extremely tactical and in the weeds on how to actually do sales as a founder. We talk through each step of the sales proc...",
       "takeaways": [
+        "You raised such a good point, Lenny, which is late stage sales and early stage sales are very, very different.",
         "I think that's where a lot of early stage founders get tripped up as they're taking late stage sales advice, usually coming from an investor.",
-        "Because who wants to make a mistake and also who wants to go through switching costs.",
-        "The beauty with the American market, and I say this because we do a little bit of work with international startups too, is if something doesn't feel right, people love to complain about it."
+        "Or they've maybe hired a salesperson that's focused on more mature sales.",
+        "Buying is just as hard, if not harder, than selling right now.",
+        "Because who wants to make a mistake and also who wants to go through switching costs?"
       ],
       "topQuotes": [
         {
@@ -1273,12 +1304,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Melanie Perkins shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The woman behind Canva shares how she built a $42B company from nothing, covering product design, strategic decision-making, and startup building.",
+      "summary": "Melanie Perkins tells the story of building Canva to $42B after 100+ investor rejections, explaining how she treated each rejection as a free consulting session. The conversation covers her core operating philosophy: start from the wildly ambitious future ('Column B'), build a 'ladder to the moon' with tiny concrete rungs, set Crazy Big Goals with visible milestones, and sustain the company through painful multi-year dark tunnels — including a two-year front-end rewrite that halted all product shipping.",
       "takeaways": [
-        "Every idea starts in the chaos side, and then you have to work all the way to the other side, which is clarity.",
-        "That very first step at the far end of chaos was quite an embarrassing step actually, because you don't have mastery at that point.",
-        "It was pretty consistent, but the way we articulated it changed greatly.",
-        "\" And so then the first few pages became very much more problem-based because if people don't understand the problem then they can't understand or care about your solution."
+        "Treat investor rejection as free product feedback. Every 'no' pointed to a specific gap, and the pitch deck refined through 100+ rejections still accurately captures what Canva is building today.",
+        "Every idea starts amorphous — add clarity in small increments: write it down, rough deck, designs, prototype. The mistake is either staying in chaos or jumping to a polished presentation before the thinking is solid.",
+        "Crazy Big Goals only work when paired with specific measurable sub-goals and real celebrations. Canva smashed plates, released doves, and held a La Tomatina festival for milestones.",
+        "Multi-year dark tunnels are normal at scale. Canva's front-end rewrite took two years instead of six months — survivable only by turning the process into a game with visible progress.",
+        "Integrate AI where it genuinely removes friction between a person's idea and its realization — not because investors like AI. For Canva, AI was in the 2012 pitch deck because the mission demanded it."
       ],
       "topQuotes": [
         {
@@ -1322,12 +1354,13 @@
         "Career & Personal Growth",
         "Data & Analytics"
       ],
-      "summary": "Dhanji R. Prasanna shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), where he’s managed more than 4,000 engineers over the past two years. Under his leadership, Block has become one of the most AI-native large companies in the world.",
+      "summary": "Dhanji is Chief Technology Officer at Block, where he oversees a team of over 3,500 people. With Dhanji's leadership, Block has become one of the most AI-native large companies in the world and has basically achieved what many eng and product leaders are trying to achieve within their companies.",
       "takeaways": [
-        "\" And that's how it started, and then there were a whole number of steps after that where we went from a GM structure to a functional org structure, which was I think the key to making our transformation into being more of an AI-native company.",
-        "I think that one of the things that I learned the most throughout this process is that Conway's Law can be really, really powerful.",
-        "Then on the engineering side, it's very variable because like I said before, it matters how big and how complex the code base is.",
-        "Yeah, so these are things that I think we were waiting for the calendar vendor to build as features into calendar, but we don't need to do that anymore because AI is able to orchestrate this for us."
+        "We find engineering teams that are very, very AI forward are reporting about eight to 10 hours save per week.",
+        "Whenever I hear a stat like this, I think an important element is this is the worst it will ever be.",
+        "The truth is the value is changing every day, so you need to ride that wave along with it.",
+        "Here's another really interesting example where we are trying to improve our build times and you were using Goose and a lot of other tools to help us with this too, and they've done remarkable things.",
+        "We have this really cool tool that analyzes our test suites and selects the right test to run for changes that were made."
       ],
       "topQuotes": [
         {
@@ -1373,11 +1406,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Chip Huyen shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix), covering AI product work, product design, and engineering tradeoffs.",
+      "summary": "Author of 'AI Engineering' gives a ground-up explanation of how AI systems actually work — pre-training, post-training, fine-tuning, RAG, reinforcement learning — and why most companies that try to build AI products fail because they don't understand the problem they're solving. She argues the industry is in an 'idea crisis' where people are enamored with tools but have lost sight of user problems.",
       "takeaways": [
-        "I think I'm curious because I think things has a way of work out in ways that I don't expect.",
-        "I think that maybe these companies, they have a lot of data, maybe they wouldn't be able to use that to have some insight that helps them stay ahead of the curve.",
-        "I keep hoping, oh my God, that could be the one and then I know how many of them I just had to give away because they're not that good."
+        "Stop keeping up with every new AI release. Companies that improve AI products fastest obsessively read user feedback rather than immediately upgrading to the newest model.",
+        "Most companies don't need to fine-tune. RAG solves the majority of cases where you need the model to know about proprietary data. Only fine-tune when you need to change model behavior, not knowledge.",
+        "Don't over-invest in evals at early stages. If traffic is growing and customers are happy, a vibe check may be sufficient. Invest in formal evals at scale.",
+        "RLHF is what made ChatGPT feel different from raw GPT-3. Understanding this helps you reason about why models behave the way they do.",
+        "The AI industry is in an 'idea crisis,' not a technology crisis. User empathy and problem definition are the scarce resource, not model capability."
       ],
       "topQuotes": [
         {
@@ -1422,12 +1457,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Nicole Forsgren shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Nicole Forsgren created the most widely used frameworks for measuring developer productivity—DORA and SPACE. She wrote the foundational book Accelerate and is about to release her newest book, Frictionless , a practical guide for helping teams move faster in the AI era.",
+      "summary": "Welcome to Lenny's Podcast where I interview world-class product leaders and growth experts to learn from their hardware experiences, building and growing today's most successful products. This is actually my first recording back since going on pat leave for the past couple months, and what an awesome episode to get back into the swing of things. Nicole is the developer productivity expert, having written the award-winning book Accelerate, and she's been the co-author of the State of DevOps R...",
       "takeaways": [
-        "\" And so finally I pulled a few of my friends together and I was like, \"Let's come up with a framework to help people think about it.",
-        "\" And so there are five broad categories, pick three because that will help force you through the mental exercise of, \"What could I possibly pick.",
-        "\" This is where SPACE comes in because SPACE helps you figure out SPACE gives you a framework to pick the right metrics.",
-        "As you kind of transition through this measurement journey, you'll get more and more data from your systems because it's scalable."
+        "You can start with the same four-box framework and you can say, \"What data do we have available?",
+        "What do we think the relationships are?\" But then you have to go back up to words and then say, \"For these data points...\" And we think that they represent something, and we think this is the relationship between them.",
+        "If I turn this into a sentence, what do they represent?\".",
+        "Number of pull requests, number of commits.",
+        "I actually pulled it out first when I was a professor, and I still to this day get LinkedIn messages from my students saying that it's like the most useful thing they've ever used."
       ],
       "topQuotes": [
         {
@@ -1472,12 +1508,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Robby Stein shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Robby Stein is VP of Product at Google, where he oversees the core products of Google Search—including the new AI Overviews, AI Mode, search ranking, Google Lens, and more.",
+      "summary": "He's at the forefront of one of the biggest shifts in Google's history, and has already made a massive dent in Google's trajectory. He's also made a massive dent in the trajectory of Instagram where he was head of product, and led the launch of Instagram Stories and Reels and Close Friends, and through that, grew Instagram to half a billion daily active users. He's also on the founding team of Artifact with Mike Krieger and Kevin Systrom. Started two companies of his own. Very few people have...",
       "takeaways": [
-        "It had this other issue with the list where you're like, \"Okay, the list doesn't work because it's mistranslated and people don't get it.",
-        "\" I think it was actually called originally favorites, I want to say, and that encouraged people to just do two people on it.",
-        "Then the way that it worked was, so this gets to the framework, I guess.",
-        "Either people's expectations, externally, market saturation, there's something happening where you need to adjust."
+        "Then when that happens, these are these moments that usually coincide with something fundamental changing.",
+        "Either people's expectations, externally, market saturation, there's something happening where you need to adjust.",
+        "You then find your next growth driver or set of drivers.",
+        "That's where you need to go more first principled and try these new things more.",
+        "Then when you land a new thing that creates this new little growth engine and then you put people on it and you optimize it because each change is like 10% win, 20% win, 4% win."
       ],
       "topQuotes": [
         {
@@ -1523,12 +1560,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Jason Droege shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Jason Droege is the CEO of Scale AI, a company that provides foundational training data to every major AI lab. He previously co-founded Scour with Travis Kalanick and built Uber Eats from idea to $20 billion in revenue.",
+      "summary": "Jason is the new CEO of Scale AI. This is the first interview that he's done since taking over for Alex Wang after the Meta deal. Alex now leads the super intelligence team at Meta. Prior to Scale, Jason co-founded a company with Travis Kalanick. Before, he started Uber, worked at a couple startups. Most famously, Jason launched and led Uber Eats, which went from an idea that he and his team had to what is now a multi-billion dollar run rate business and one that basically saved Uber during t...",
       "takeaways": [
-        "Then, I think in business, I think Good to Great.",
-        "It's not the read that you're going to be most excited to enjoy on a vacation, but it's pretty much right, and I think we should take advice from people who have analyzed these business problems before because not a lot's changed, but we keep acting like everything's changed.",
-        "Then, when we got into financing, the financing process was fascinating, and this is where the everything is negotiable lesson came from, which is, it was Ron Burkle and Mike Ovitz, who are the initial investors in the business.",
-        "Oh, you should give us 50% of the company."
+        "The first way, which is probably the most important, quite frankly, is that the founder is just a force of nature over a long duration of time.",
+        "Because you're going to have to pivot, you have to have that energy to pivot.",
+        "I am definitely not the smartest person in the room when it comes to figuring these things out.",
+        "So, I keep a very, very wide aperture on ideas for as long as I can until I'm like, okay, everything is coalescing.",
+        "Just as a general philosophical principle, I'll start there."
       ],
       "topQuotes": [
         {
@@ -1574,12 +1612,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Albert Cheng shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Finding hidden growth opportunities in your product, covering growth systems, measurement and analysis, and product design.",
+      "summary": "Growth leader who has worked across Duolingo, Grammarly, and Chess.com discusses how to find hidden monetization and growth opportunities by deeply understanding user behavior. He shares how at Grammarly, interspersing paid suggestions into the free tier nearly doubled upgrade rates, and explains frameworks for knowing when to explore versus exploit and building AI-powered SQL bots to make companies more data-informed.",
       "takeaways": [
-        "I will say over the last few days, as I was prepping for this, I was honestly a little bit anxious about do I have enough deep independent frameworks that I need to come up with.",
-        "Just being authentic to my actual experience at these companies, a lot of my lessons learned have been off of the backs of other people that have tried similar things and have succeeded or failed.",
-        "The lived product experience for most of the free users was that Grammarly was just a product to fix your spelling and grammar because those were the free suggestions.",
-        "What if we actually sampled a number of different paid suggestions and interspersed them to free users across their writing."
+        "For freemium products, the free experience should be a representative sample of the full product's power. Showing free users a taste of premium suggestions nearly doubled subscription upgrades at Grammarly.",
+        "User retention is the foundation of consumer subscriptions. If D1 retention is below 30-40%, you're fighting an uphill battle — you're forced to convert users on day one before they've built any habit.",
+        "When more experiments return statistically insignificant results, that's a signal you've over-exploited an insight and need to brainstorm new hypotheses.",
+        "Build an AI-powered Slack bot with text-to-SQL for ad hoc data questions. It dramatically increases question volume because people no longer feel embarrassed to ask 'stupid' questions.",
+        "Freemium works best when the free tier serves the mission and growth comes through word of mouth — not paid acquisition, which makes freemium economics brutal."
       ],
       "topQuotes": [
         {
@@ -1625,12 +1664,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Ravi Mehta shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why Tinder’s CPO starts with JSON, not design, covering team leadership, startup building, and product design.",
+      "summary": "Why Tinder’s CPO starts with JSON, not design, covering team leadership, startup building, and product design.",
       "takeaways": [
+        "You just don't have those users to test with.",
+        "So I've had to shift my mindset from an experimental-oriented approach to making decisions to much more of a conviction-oriented approach.",
         "More often than not, when I talked to teams and helped to debug that issue, what it came down to was that there wasn't a deep enough understanding of what the strategy is.",
-        "What is the framework that should actually inform that prioritization.",
-        "Oftentimes those gaps were not just because the person might not understand the strategy, it may also be because the strategy hasn't been completely defined.",
-        "You would never work with an architect that didn't provide you a blueprint of the house that they want to build for you because being able to describe a house in words alone is not enough."
+        "What is the framework that should actually inform that prioritization?",
+        "So oftentimes I was seeing difficulty prioritizing as well as tactical issues surface in the day-to-day and be able to be tracked back to pretty fundamental gaps in terms of an individual PM's understanding of strategy."
       ],
       "topQuotes": [
         {
@@ -1675,12 +1715,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Hamel Husain & Shreya Shankar shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why AI evals are the hottest new skill for product builders, covering AI product work, product design, and measurement and analysis.",
+      "summary": "Today, my guests are Hamel Husain and Shreya Shankar. One of the most trending topics on this podcast over the past year has been the rise of evals. Both the chief product officers of Anthropic and OpenAI shared that evals are becoming the most important new skill for product builders. And since then, this has been a recurring theme across many of the top AI builders I've had on. Two years ago, I had never heard the term evals. Now it's coming up constantly. When was the last time that a new ...",
       "takeaways": [
-        "Vibe checks are good and you should do vibe checks initially, but it can become very unmanageable very fast because as your application grows, it's really hard to rely on vibe checks.",
+        "Maybe it's worth talking about what are axial codes or what's the point here?",
+        "You have a mess of open codes, and you don't have 100 distinct problems.",
         "Actually, many of them are repeats, but because you phrased them differently, and that you shouldn't have tried to create your taxonomy of failures as you're open coding.",
-        "So this is a technique that's been used to analyze stochastic systems for ages, and it's something that it was just using the same machine learning ideas and principles, just bringing them into here, because again, these are stochastic systems.",
-        "One is code-based, which you should try to do if you can because they're cheaper."
+        "You just want to get down what's wrong and then organize, \"Okay, what's the most common failure mode?\".",
+        "Let's say we do, and Shreya and I, we recommend doing at least 100 of these."
       ],
       "topQuotes": [
         {
@@ -1726,12 +1767,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Brendan Foody shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why experts writing AI evals is creating the fastest-growing companies in history, covering AI product work, product design, and strategic decision-making.",
+      "summary": "CEO of Mercor — which grew from $1M to $400M annual revenue run rate in 16 months — discusses how they identified the opportunity to be the marketplace connecting expert professionals to AI labs that need high-quality human evaluation data. The core insight: model improvement is bottlenecked by humans who can measure model capabilities, and frontier labs will pay whatever it takes for domain experts to write evaluations.",
       "takeaways": [
-        "I also talk to get advice on problems.",
-        "I find it helpful to just reason through almost as a thought partner because, yeah, I don't know.",
-        "I find I think better sometimes when I'm talking something through, but I can't talk through everything with colleagues or people around me.",
-        "The key question is how long there's going to be things in the economy that humans can do that AI can't do."
+        "'If the model is the product, evals are the PRD' — evals define what success looks like for a model the way a product requirements document defines success for software.",
+        "The market size for evals is bounded by the set of tasks where humans can still do something models can't. That boundary is shrinking, but the hardest tasks will require human evals for years.",
+        "The fastest-growing companies aren't built on novel technology — they're built on identifying structural bottlenecks in industries with unlimited demand.",
+        "Models are only as good as their evals. Before building fancy fine-tuning pipelines, ask whether you have robust evals to measure what you're actually trying to improve.",
+        "The future of work is an 'RL environment machine': every economic activity will eventually become a context for generating training data and reward signals for models."
       ],
       "topQuotes": [
         {
@@ -1777,12 +1819,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Ethan Smith shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Getting ChatGPT to recommend your product, covering AI product work, product design, and practical product lessons.",
+      "summary": "Ethan is the CEO of Graphite and my go-to expert for all things SEO. SEO is going through a major transition right now. Everyone used to go to Google anytime they had a question, or were looking for a product or doing research. These days, a lot of people are moving to ChatGPT and Claude, and Gemini and Perplexity to get answers to their questions, and this will only be accelerating over time.",
       "takeaways": [
         "That's not the case in the LLM, because the LLM is summarizing many citations, and so you need to get mentioned as many times as possible.",
-        "I personally prefer Answer Engine Optimization versus Generative Engine Optimization, because generative, you can generate images and videos and things other than an answer.",
-        "Companies that we work with started in January and it started, one, because of more adoption, but two is because the answers became a bit more clickable.",
-        "Even if Webflow's URL shows up number one on the citations, they're not going to win the answer because their URL showed up number one, but at Google they would win."
+        "That was probably the biggest shift, which is Google introduced a bunch of algorithms, Panda and similar things, to prevent you from doing spam.",
+        "That was probably the biggest change, and then this is probably the second-biggest change.",
+        "Even if Webflow's URL shows up number one on the citations, they're not going to win the answer because their URL showed up number one, but at Google they would win.",
+        "Just like keyword tracking, you can only, there's not a premium version of keyword tracking."
       ],
       "topQuotes": [
         {
@@ -1828,12 +1871,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Ben Horowitz shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Why founders fail and why you need to run toward fear (a16z co-founder), covering team leadership, product design, and product strategy and execution.",
+      "summary": "a16z co-founder covers why the hardest part of leadership is making confident decisions under genuine uncertainty when all options are bad, drawing on stories from running Loudcloud/Opsware (including taking the company public with only $2M trailing revenue to avoid bankruptcy). He also shares lessons from unlikely cultural role models — Haitian revolutionary Toussaint Louverture and a reformed prison gang leader — on building trust from zero in low-trust environments.",
       "takeaways": [
-        "If everybody agrees with the decision, then you didn't add any value because they would've done that without you.",
-        "What I was trying to get out in Good Product Manager, Bad Product Manager, was the job is fundamentally a leadership job.",
-        "It's a tricky leadership job because nobody is actually reporting to you.",
-        "The truth of it was the alternative because of where the private markets were was going bankrupt."
+        "The value a leader adds is specifically in decisions most people disagree with — if everyone agrees, the decision would have happened without you.",
+        "Company failures follow the same pattern as plane crashes: a series of individually small bad decisions that compound. Build habits of noticing when you're stringing together small compromises.",
+        "Culture is defined by the worst behavior you tolerate, not the values you post on the wall.",
+        "The PM job is fundamentally a leadership job without authority — you need credibility and persuasion to move people who don't report to you.",
+        "Founders have a unique ability to create the next product that almost no professional CEO can replicate. The option value of founder product instinct is worth more than short-term operational smoothness."
       ],
       "topQuotes": [
         {
@@ -1879,11 +1923,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Scott Wu shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. How Devin replaces your junior engineers with infinite AI interns that never sleep, covering AI product work, product design, and engineering tradeoffs.",
+      "summary": "Scott is the co-founder and CEO of Cognition, which makes a product called Devin, the world's first autonomous AI software engineer. Unlike other AI tools that I've highlighted on this podcast, Devin is designed to act like an actual remote engineer that you chat with like you would with any other human engineer through Slack or through its dedicated website. When Devin launched about a year ago, it was very much a junior engineer. Over the past year, they've made a lot of progress and Devin ...",
       "takeaways": [
-        "It is funny with AI and especially because I would say one of, I would say the most common pieces of advice out there I would say is focus on a really niche cohort.",
-        "Yeah, it's kind of interesting because I think with generative AI, you naturally see this where a lot of product experiences can turn out to be more general.",
-        "What is a database and how should you think about a database."
+        "I think, at the same time, that's probably in the neighborhood of 10% of the average software engineer's time, right?",
+        "The key thing that I would just emphasize here is a lot of it obviously is really just about thinking about as a software engineer or as engineers ourselves or engineering teams, PMs, and so on.",
+        "What are the things that we would want to build that we would want to hand off?",
+        "We have Devin set up with our own Devin code base, for example, and so I'll go ahead and kick off with Devin for that.",
+        "I'll just say, \"Devin, I'm on with my friend, Lenny.\"."
       ],
       "topQuotes": [
         {
@@ -1929,12 +1975,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Howie Liu shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. How we restructured Airtable’s entire org for AI, covering AI product work, product design, and strategic decision-making.",
+      "summary": "Do you see one of these roles being more in trouble than others? Howie is the co-founder and CEO of Airtable. I'm having a bunch of conversations on this podcast with founders who are reinventing their decade plus old business in this AI era, to help you navigate this existential transition that every company and product is going through right now. Howie and Airtable's journey is an incredible example of this, and there's so much to learn from what Howie shares They discuss .",
       "takeaways": [
-        "If you can't, then you should find a buyer and then if you really care about this mission, go and start the next carnation of it.",
-        "I think that is a big part of it because on the point about the pace of the world moving so much faster in AI than any other landscape in SaaS, in the mature SaaS era, it was important to study your competition.",
-        "Airbnb was not founded because like, \"Oh my God, we want to make a lot of money off this arbitrage opportunity against hotels.",
-        "You know, I've been trying to read fiction more, partly because I think it's just a really nice mental reset."
+        "We're trying to ship very quickly, like I basically want to always ask the question, how would an AI native company, like a cursor or windsurf, et cetera, how would they execute?",
+        "Are we executing as fast as them and taking advantage of all the new stuff as well as them?",
+        "Bringing that level of intensity and urgency to how I spend my time within, that's been the biggest shift for me.",
+        "If you were literally founding a new company from scratch with the same mission, how would you execute on that mission using a fully AI native approach?",
+        "If you can't, then you should find a buyer and then if you really care about this mission, go and start the next carnation of it."
       ],
       "topQuotes": [
         {
@@ -1980,12 +2027,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Asha Sharma shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Products as organisms, the death of org charts, and why agents will outnumber employees by 2026, covering AI product work, product design, and engineering tradeoffs.",
+      "summary": "CVP of AI Platform at Microsoft discusses the shift from 'product as artifact' to 'product as organism' — products that continuously learn from interactions. She argues the org chart is becoming the 'work chart' as agents eliminate layers, and makes a strong case that post-training and reinforcement learning will become more strategically important than pre-training for most companies building on foundation models.",
       "takeaways": [
-        "Ranking is an age-old optimization problem where you don't want to just take what's off the shelf because there's amazing frameworks and UI and components that the world is react components that are out there.",
-        "I think it's just the same industrial logic.",
-        "I think the tricky thing is for enterprises is the technology is changing.",
-        "It's really hard to know which one you should use for what outcome."
+        "Think of AI products as 'organisms' rather than artifacts — they get better with every interaction. Companies that build feedback loops for model improvement will compound faster.",
+        "The org chart will collapse into a 'work chart': as agents take over discrete tasks, you need fewer management layers. Plan for this structurally.",
+        "Post-training (fine-tuning, RLHF) will attract as much investment as pre-training. You can achieve better results for your use case by adapting an existing model rather than building from scratch.",
+        "Use a 'model system' (ensemble of models) rather than one model for everything. Route intelligently across models based on task requirements.",
+        "Don't do annual planning for AI products — treat model capability releases as external forcing functions and build adaptive planning processes."
       ],
       "topQuotes": [
         {
@@ -2031,12 +2079,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Garrett Lord shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Inside the expert network training every frontier AI model, covering AI product work, product design, and team leadership.",
+      "summary": "Garrett is the co-founder and CEO of Handshake, which is one of the most interesting and incredible AI success stories that you probably haven't heard of. Handshake has been around for over 10 years, they're essentially LinkedIn for college students, it's a place for students to connect with companies to find a job. They are the platform of choice for every single Fortune 500 company. Over 1,500 colleges, over 20 million students and alumni, and over 1 million companies use them to hire gradu...",
       "takeaways": [
+        "That's not what we're hearing from our employers, this is just enabling human beings to be even more productive.",
         "You used to put a Google Search on a skill on your resume because you grew up with Google.",
-        "You were person, you were good at Googling, because you grew up with Google.",
-        "It's like I think being AI native and having your Iron Man suit on, and understanding how to leverage these tools is like young people are at a huge advantage.",
-        "I think if you care about building a really high quality business, and having good gross margin and high quality growth, the ecosystem here is, one of the leading players, they have 200 recruiters."
+        "Being AI native, young people are at a huge advantage.",
+        "So, we had this motto like leave nothing to chance.",
+        "How do you make sure that three months are not six months?"
       ],
       "topQuotes": [
         {
@@ -2082,11 +2131,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Eoghan McCabe shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. How Intercom rose from the ashes by betting everything on AI, covering AI product work, pricing decisions, and product design.",
+      "summary": "This is the first in a series of conversations that I'm having with founders who have successfully transformed their established SaaS or marketplace businesses into an AI first company that is growing like crazy and overtaking their decade plus old business. So, many companies and product teams and founders are trying to navigate this very tricky time where every industry is being disrupted by AI, and my goal here is to help you essentially disrupt yourself before somebody else does. The stor...",
       "takeaways": [
-        "Another part of it was my own anger and dissatisfaction with how the company was being run and the mistakes that I made myself.",
-        "I made a lot of compromises as a lot of founders and founding CEOs do to placate employees or do it out fear to bring investors along, following advice in the industry and best practices.",
-        "You don't want to work like that, but if you want in, that's part of the price and that's how so many of these young new AI are going to win because very few of the previous generation companies are willing to make all of those changes and go all the way in."
+        "I think Stripe did a lot of first principle stuff and founder types.",
+        "The first thing I'll say is that CX is deceptively large given it's hidden behind just two words, two letters.",
+        "Customer experience really is service success, sales and marketing, in my opinion.",
+        "It's the biggest part by headcount of any business.",
+        "Any consumer business and any B2B business the biggest organizations are sales, service, success."
       ],
       "topQuotes": [
         {
@@ -2131,12 +2182,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Matt LeMay shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The one question that saves product careers, covering team leadership, product design, and product strategy and execution.",
+      "summary": "We talk about the low impact death spiral that many product teams fall into. What steps an individual product team can take to align their work to business critical outcomes, regardless of how their organization approaches product development. Tips for how to push back on stupid ideas that execs ask you to build, and so much more.",
       "takeaways": [
-        "You can follow all the best practices, but if your company goes out of business, they're not going to keep writing your paycheck for two years because all of your OKRs were a 0.",
-        "It's important because at the end of the day, it is those business critical outcomes against which you and your team will be evaluated.",
-        "That really struck a nerve because I've been on those supporting teams before.",
-        "\" It just wasn't something that crossed my mind because I wasn't in the room for those conversations."
+        "We sat down and we did this really interesting kind of subtractive exercise, where everybody got a post-it note to write down what they think the most important goal of the team is.",
+        "Then they would pair up and they would have to make it smaller each time, make it more concise.",
+        "If there were two things, get it down to one thing.",
+        "I did when I was working with MailChimp, we actually did a workshop with all the product managers at the company where we had people roleplay trying to sell in a single option versus multiple options with a recommendation.",
+        "It was amazing how when you present a single option, people's instinct is just to, well, I don't know, you start poking holes in it."
       ],
       "topQuotes": [
         {
@@ -2182,12 +2234,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Nick Turley shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The fastest-growing product in history, covering AI product work, product design, and go-to-market execution.",
+      "summary": "Nick is Head of ChatGPT at OpenAI. He joined the company three years ago, when it was still primarily a research lab. He helped come up with the idea of ChatGPT and took it from 0 to over 700 million weekly active users, billions in revenue, and arguably the most successful and impactful consumer software product in human history. Nick is incredible. He's been very much under the radar. This is the first major podcast interview that he has ever done, and you are in for a treat. We talk about ...",
       "takeaways": [
-        "It's quite interesting to see that stuff play out because I think all these people entered school for genuine reasons.",
-        "I just a feeling that if you follow that advice, you'll end up okay.",
-        "That can mean not directly answering your question, but instead of giving you a helpful framework in the case of like, \"Should I break up with my boyfriend.",
-        "\" ChatGPT should probably not answer that question for you, but it should help you think through that question in the way that a thoughtful companion would."
+        "Again, you kind of have to be first principles about it.",
+        "I do think using velocity, especially early on, as a tool...",
+        "Actually this has been said about consumer social for example.",
+        "My entire OpenAI journey has been this journey of rediscovering eternal product wisdom and principles in like slightly new contexts.",
+        "I was like, \"Wow, this might be the lingua franca of how to communicate what the product should be doing to people who do AI research.\" And that really clicked for me."
       ],
       "topQuotes": [
         {
@@ -2231,12 +2284,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Chip Conley shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school, covering team leadership, product design, and startup building.",
+      "summary": "Founder of the Modern Elder Academy and Brian Chesky's longtime mentor at Airbnb shares what it was like to join at 52 as a 'modern elder' — simultaneously mentoring the CEO and reporting to him. He saved Airbnb from going mobile-only by pointing out older hosts couldn't manage listings on a phone. He also covers the world's first midlife wisdom school, how nine near-death experiences changed his relationship with purpose, and why curiosity matters more than wisdom as you age.",
       "takeaways": [
-        "Partly because back in the day, the two sharing economy darlings were Uber and Airbnb.",
-        "We did a lot of different things together, and what I appreciated was you had a humility to you that was different than a lot of the other product managers.",
-        "There were other product managers though who I found it sometimes hard to work with, because they expected me to know as much as they did.",
-        "You start with that, because that actually helps to make sure there's alignment."
+        "The most effective role for an experienced person in a young company isn't dispensing wisdom — it's being a 'confidant' who helps younger colleagues find their own answers.",
+        "Establish credibility through competence in a domain the young team lacks. Chip's credibility at Airbnb came from deep hospitality knowledge the 26-year-olds simply didn't have.",
+        "Before important meetings with a founder, align on intention, definition of success, and desired outcome. This shared reference point prevents conversations from going sideways.",
+        "Tech companies undervalue experienced workers by measuring only execution speed. Pattern recognition, emotional intelligence, and knowing what not to do are often invisible to standard metrics.",
+        "Curiosity is the antidote to becoming irrelevant. The moment you position yourself as the expert who has all the answers, younger colleagues tune out."
       ],
       "topQuotes": [
         {
@@ -2282,12 +2336,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Bret Taylor shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. The future of careers, coding, agents, and more, covering product design, team leadership, and product strategy and execution.",
+      "summary": "Bret Taylor — inventor of Google Maps and the Like button, former co-CEO of Salesforce, and chairman of OpenAI — traces the arc from his first product failure (Google Local) to his conviction that agents and outcomes-based pricing are the inevitable future of software. He explains why agents are fundamentally different: they accomplish jobs autonomously rather than helping someone do a job, making productivity gains measurable and enabling entirely new business models.",
       "takeaways": [
-        "I'm probably out of my depth here, but it's essentially MCP because that's how you provide context to Cursor.",
-        "I think that almost always when you have a model making a poor decision, if it's a good model, it's lack of context.",
-        "So, you really want to find the intersection of your particular product and code base with the context available to these coding agents and systems and fix it at the root is the principle here.",
-        "I think that's going to end up this vestige of the past, almost like the human calculators at NASA before the computers were invented, like wow, a person was a calculator."
+        "Agents are the new apps and outcomes-based pricing is the new SaaS model. Sierra charges per 'resolution,' not per seat, because AI can autonomously complete jobs for the first time.",
+        "To get real productivity gains from AI coding tools, root-cause every bad output and fix the context gap that caused it (usually via MCP). Treating Cursor as autocomplete misses 80% of the gains.",
+        "When building a new product, don't digitize what came before — find the native capability of the new medium. Google Local failed as a digital Yellow Pages; Google Maps succeeded by making the map the canvas.",
+        "The biggest mistake first-time founders make is being single-issue voters based on their own skillset — engineers think product fixes everything, business founders think partnerships do.",
+        "Study CS, but hold the act of coding loosely. What persists is systems thinking — understanding complexity, architecture, and what's hard — not the keystrokes."
       ],
       "topQuotes": [
         {
@@ -2333,12 +2388,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Madhavan Ramanujam shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Lessons from 400+ companies and 50 unicorns, covering pricing decisions, strategic decision-making, and product design.",
+      "summary": "Welcome to Lenny's Podcast. I'm Lenny and my goal here is to help you get better at the craft of building and growing products. Madhavan is the author of Monetizing Innovation, the most widely read book on pricing strategy. He's also Senior Partner at Simon-Kucher & Partners, which is the premier consulting agency for companies looking to get help with their pricing. And unsurprisingly, when I asked people on Twitter, who the smartest person on pricing is, Madhavan was by far the most mention...",
       "takeaways": [
-        "We wrote Monetizing Innovation because increasingly we were working with companies more early stage in helping them design the right innovations that customers need and what are they willing to pay for, as opposed to just building a product and slapping on a price.",
-        "If they do say no, the most important question to ask is why.",
-        "Because if you build the same product and want to treat everyone similarly and say you have a segmentation strategy, you actually don't have it.",
-        "It's the same water, but it's packaged, productized differently because people have different needs."
+        "If you just base things on persona, you often get it wrong.",
+        "Segmentation needs to be based on what customers need, what they value, and what are they willing to pay for, and how do you productize package to different segments.",
+        "The key lesson that I want your listeners to take away is, you need to be able to productize to segments.",
+        "If you're trying to build a product and try to position it to different segments, you already lost the battle, because segmentation comes down to needs and understanding needs and building products based on those needs and willingness to pay.",
+        "Show that you can treat your customers differently."
       ],
       "topQuotes": [
         {
@@ -2383,11 +2439,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Benjamin Mann shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. Ultimately, people think about this as probably going to hit a wall because if the model isn't good enough to see its own mistakes, then how could it improve, covering AI product work, product design, and engineering tradeoffs.",
+      "summary": "Anthropic co-founder and former OpenAI researcher discusses why he left OpenAI over safety concerns, estimating a 50th percentile chance of superintelligence by 2028. He explains Anthropic's Constitutional AI approach, the difference between alignment today versus post-superintelligence, and why spreading safety awareness through networks is the most important thing anyone can do right now.",
       "takeaways": [
-        "We've been much less affected because people here, they get these offers and then they say, well, of course I'm not going to leave because my best case scenario at Meta is that we make money and my best case scenario at Anthropic is we affect the future of humanity.",
-        "If you look at something like sycophancy, I think Claude is one of the least sycophantic models because we've put so much effort into actual alignment and not just trying to good heart our metrics of saying user engagement is number one, and if people say yes, then it's good for them.",
-        "They have certain goals that they're trying to reach, and they have certain guiding principles, they have some oversight in terms of shareholders and stakeholders and board members."
+        "The window to get AI alignment right is now, before superintelligence. Once we reach superintelligence, the models will be too capable to align after the fact.",
+        "Safety-oriented labs retain top researchers against $100M+ offers because mission clarity is the ultimate recruiting moat — affecting the future of humanity, not just making money.",
+        "The most dangerous near-term AI risks aren't robots — they're software attacks on critical infrastructure (power grids, financial systems) that could cause massive physical damage.",
+        "Constitutional AI works by giving the model principles and having it critique and revise its own outputs — baking values into training rather than patching them post-hoc.",
+        "Prepare mentally for the world to get much weirder, much faster. If things feel wild now, this is as normal as it will ever be."
       ],
       "topQuotes": [
         {
@@ -2433,12 +2491,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Dan Shipper shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. 5 products, 7-figure revenue, 100% AI-written code, covering AI product work, engineering tradeoffs, and product design.",
+      "summary": "Dan is the co-founder and CEO of Every, which is a company that is at the very bleeding edge of what is possible with AI. Their team of just 15 employees has built and shipped four different products. They publish a daily newsletter, and they have a consulting arm that helps companies adopt the latest AI best practices. On their product team, their engineers don't handwrite a single line of code and instead use an arsenal of agents who help them craft requirements and build their products.",
       "takeaways": [
-        "I'm jealous because he only started learning to code when ChatGPT came out.",
-        "Non-programmers don't use it because it's intimidating to use the terminal.",
-        "They are pretty bad, and it's not because they're not smart.",
-        "Everyone asks that because it's a very weird shape of a company."
+        "There's always a trick with that, where it's like you have to make sure it gets used.",
+        "It's basically you're developing little applications internally, but if you're good at making applications people use, it's great.",
+        "Highly recommend having an AI operations lead.",
+        "With Copilot, you can tab complete and that was the beginning.",
+        "With ChatGPT, you ask it a question and it returns a response and that's maybe slightly better than a tab complete."
       ],
       "topQuotes": [
         {
@@ -2484,12 +2543,13 @@
         "User Psychology",
         "Data & Analytics"
       ],
-      "summary": "Andrew Wilkinson shares insights on AI & Machine Learning, Growth & Metrics, Leadership & Management, Product Strategy. I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea., covering product design, startup building, and AI product work.",
+      "summary": "Co-founder of Tiny, who has built and acquired 75+ businesses, argues that most entrepreneurs choose the wrong ideas by pursuing glamorous, crowded markets instead of boring niches. He walks through Charlie Munger's 'fish where the fish are' principle, explains why he bootstrapped to nearly $300M in revenue without VC, and shares how he built an elaborate AI agent system using Lindy to manage his inbox, calendar, and decisions.",
       "takeaways": [
-        "Well, it goes back to my gym analogy of if you're going to deadlift 300 pounds, trained for 15 years, you should have already had three startups and they should have worked and you've really built up the reps.",
-        "I think that if I was going to start Instacart, that's different than someone who's 20 starting it.",
-        "Not that I would be good at it, but at least I would know what I'm getting into.",
-        "If I tell them an idea in a board meeting and I say, \"I really need you to try this,\" it never works because usually they sandbag it, right."
+        "Follow Munger's 'fish where the fish are': find niches where almost nobody wants to compete (pest control software, government forms) rather than glamorous markets where everyone plays.",
+        "First-time entrepreneurs should build small, simple businesses to develop operational muscle before swinging at big ideas.",
+        "You don't need VC funding to build a large business. Tiny bootstrapped to nearly $300M in revenue by choosing businesses that don't require burning millions before profitability.",
+        "Andrew's multi-agent email system reduces his inbox by 50% through a chain of agents: one filters noise, one flags urgencies, one summarizes decisions, one drafts replies.",
+        "AI is like having the world's most reliable employee for $200/month who works 24/7. Companies and individuals who embrace this aggressively will have a massive advantage."
       ],
       "topQuotes": [
         {

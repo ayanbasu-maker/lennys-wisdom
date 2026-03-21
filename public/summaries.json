@@ -1,0 +1,502 @@
+{
+  "aishwarya-naresh-reganti--kiriti-badam": {
+    "summary": "Aishwarya argues that every time you hand over decision-making capabilities to agentic systems, you're kind of relinquishing some amount of control on your end. Aishwarya goes on to explain that when you start small, it forces you to think about what is the problem that I'm going to solve.",
+    "takeaways": [
+      "When you do that, you want to make sure that your agent has gained your trust or it is reliable enough that you can allow it to make decisions.",
+      "You want to build a culture of empowerment, of augmenting AI into your own workflows so that you can 10X at what you're doing instead of saying that probably you'll be replaced if you don't adopt AI and stuff like that.",
+      "When you're just doing your routing, you have better quality routing data, you also know what kind of prompts you need to be building to improve the routing system.",
+      "If you want to listen to pragmatists who've been in the weeds, working on AI products and what they're seeing, you can follow my work.",
+      "The course is a lot about unlearning mindsets and following a problem-first approach instead of a tool-first or a hype-first approach."
+    ]
+  },
+  "albert-cheng": {
+    "summary": "Albert argues that growth as the job is to connect users to the value of your product. Albert goes on to explain that if you don't retain your users, then a lot of the onus is on getting them to pay on day one.",
+    "takeaways": [
+      "When you lose a game, user retention is 10% worse than when you win a game.",
+      "What he observes is that 80% of people that review their games actually do so after a win.",
+      "It grew game reviews by 25%, subscriptions by 20%, user retention by a lot as well.",
+      "In my experience, the typical win rate, and I hate to use that term for experiments, is often something like 30 to 50%.",
+      "Grammarly is a freemium business model, which means that over 90% of our users are on the free service and the rest of it pay for subscriptions essentially, right?"
+    ]
+  },
+  "alexander-embiricos": {
+    "summary": "Alexander argues that it's a bit like this really smart intern that refuses to read Slack, doesn't check Datadog unless you ask it to. Alexander also points out that one of the most mind-blowing examples of acceleration, the Sora Android app, like a fully new app, we built it in 18 days and then 10 days later, so 28 days total, we went to the public. Alexander also stresses that if of what I was doing in my startup, it moved way slower and there's always this balance with startups of how much do you commit to an idea that you have versus find out that it's not working and then pivot.",
+    "takeaways": [
+      "What we can do is as a product team just try to always think about how are we building a tool so that it feels like we're maximally accelerating people rather than building a tool that makes it more unclear what you should do as the human?",
+      "The key unlock is actually first you need to land with users in a way that's much more intuitive and trivial to get value from.",
+      "If you want to train a model to be good at all the different ways it could work, maybe you have a strong opinion that it should work using semantic search.",
+      "People love if there's something that you need to do quickly, people will just @ mention Codex, \"Why do you think this bug is happening?\" It doesn't have to be an engineer.",
+      "If you don't have an opinion on that and have to think about it first, depending on how long you have to think about it, I guess that would be the filter."
+    ]
+  },
+  "andrew-wilkinson": {
+    "summary": "Andrew argues that you don't want to walk into the gym on day one and try and deadlift 300 pounds. Andrew also explains that Charlie Munger, Warren Buffett's longtime business partner, has this amazing quote. Andrew also stresses that this is never going to work.\" And we still don't necessarily know if Instacart is a great business.",
+    "takeaways": [
+      "The biggest mistakes I've made have been going into business models where other people have repeatedly failed and thinking, I can do this better.",
+      "The only change that we generally make is if the founder wants to leave the business, then we'll bring in a CEO to run the company, and that's probably the most important decision that we make.",
+      "It's really interesting because if you take the normal population of about 5% of people have ADHD, but about 30% of entrepreneurs have ADHD.",
+      "The process to do it is incredibly time-consuming and miserable and you have to fill out all these forms.",
+      "It's like having the world's most reliable employee who costs $200 a month and works 24/7."
+    ]
+  },
+  "asha-sharma": {
+    "summary": "Asha argues that we're approaching this world in which the marginal cost of the good output is approaching zero. Asha also explains that because these models are so effective at this point, you want to start to tune them to certain types of outcomes.",
+    "takeaways": [
+      "If you think about the 20 million people that maybe sit in that space across America and they get 20% more skilled, it's pretty exponential for GDP, and so it's pretty fun.",
+      "When you are sending 200 messages a day to the four people you care about most, you want to make sure no one else can read the messages and so the end-to-end encryption really mattered.",
+      "The prototypical example is if you want to solve traffic, you don't actually put up speed bumps or speed limits, you actually have to solve walkability and mobility and why people actually use cars.",
+      "One of my favorite things about the company culturally is they have this inverted pyramid where instead of having executives at the top, the associates are at the top and the stores themselves are headquarters and then the traditional HQ is support.",
+      "I 100% believe that's where the world is going, and then my experience should look and feel different than yours."
+    ]
+  },
+  "ben-horowitz": {
+    "summary": "Ben argues that the worst thing that you do as a leader is you hesitate on the next decision. Ben also points out that the psychological muscle you have to build to be a great leader is to be able to click in the abyss and go, \"Okay, that way's slightly better. Ben also stresses that what happens to as CEO, it's like, \"Okay, if we rearchitect, this product, the architecture is not actually get us to where we need to go.",
+    "takeaways": [
+      "If you go back to 1996, at Netscape, we had 90% browser share and we had 50 million users.",
+      "The biggest mistake that you make, the worst thing that you do as a leader, there's things in your control and there's things out of your control and hesitation, that's generally the most destructive.",
+      "The psychological muscle you have to build to be a great leader is to be able to click in the abyss and go, \"Okay, that way's slightly better.",
+      "If you don't do it, that's probably going to be much worse and that's why you have to run towards the pain in darkness.",
+      "There's also a thing always, although I wouldn't say Jan has this mentality, but professors in general it's a pretty big win if you start a company and you make $50 million."
+    ]
+  },
+  "benjamin-mann": {
+    "summary": "Benjamin argues that 50th percentile chance of hitting some kind of superintelligence is now like 2028. Benjamin also points out that the case for safety has gotten a lot more concrete, so superintelligence is a lot about how do we keep God in a box and not let the God out?",
+    "takeaways": [
+      "If you just think about the amount of impact that individuals can have on a company's trajectory, in our case, we are selling hotcakes and if we get a 1 or 10 or 5% efficiency bonus on our inference stack, that is worth an incredible amount of money.",
+      "If you imagine more than a 10% increase, it's very hard to even think about what that would mean from a individual story standpoint.",
+      "The way I think about it, I think my best granularity of forecasts for could we have an X risk or extremely bad outcome from AI is somewhere between 0 and 10%.",
+      "The things that aren't quite working that are working 20% of the time, will start working 100% of the time.",
+      "If you extrapolate the exponential on how much companies are spending, it's like 2X a year roughly in terms of CapEx, and today we're maybe in the globally $300 billion range, the entire industry spending on this, and so numbers like 100 million are a drop in the bucket."
+    ]
+  },
+  "boris-cherny": {
+    "summary": "Boris argues that 100% of my code is written by Claude Code. Boris also explains that productivity per engineer has increased 200%. Boris emphasizes that the model was given this tool, and it figured out how to use it to answer this question that I had that I wasn't even sure if it could answer, \"What music am I listening to?\".",
+    "takeaways": [
+      "If you look at the exponential, the percent of code that was written by Claude at that point, if you just trace the line, it's pretty obvious we're going to cross 100% by the end of the year, even if it just does not match intuition at all.",
+      "Nowadays, it's still very much a principle we have on the team, and if you want to go faster, a really good way to do that is to just have Claude do more stuff.",
+      "If you look at the way programs are written today using software that's running on a virtual machine or something, this has been the way that we've been writing programs since probably the 1960s.",
+      "I think in the short-term it'll persist, but one thing that we're starting to see is there's maybe a 50% overlap in those roles where a lot of people are actually just doing the same thing, and some people have specialties.",
+      "I think the observation was if you look at profile views, so, people looking at each other's profiles on Facebook, 60% of profile views were people that are not friends with each other that are opposite gender."
+    ]
+  },
+  "brendan-foody": {
+    "summary": "Brendan argues that the wealthiest companies in the world are willing to spend whatever it takes to improve model capabilities. Brendan also explains that they actually need extraordinary professionals that can measure model capabilities. Brendan also stresses that what everyone is generally moving towards is reinforcement learning from AI feedback instead of human feedback where you have instead the human defined some sort of success criteria, some way to measure that.",
+    "takeaways": [
+      "If you have 100-person company, oftentimes the top 10% of the company will drive majority of the impact.",
+      "Think about the people that you can hire, the undergrads for $30 now versus the Goldman bankers, the McKinsey analysts, the Fang software engineers.",
+      "I would pay my mom $20 to drive me in her minivan down to Safeway, buy 10 dozen donuts, go to my middle school, sell them all out.",
+      "There's also this really interesting dynamic where in a set of 100 people that we hire, oftentimes the top 10% of people will drive majority of the model improvement.",
+      "What that means is that when we're able to build proprietary advantages in identifying who are those top 10% of people, both in so far as how do we have them on our platform but also identify and match them effectively, it creates so much value for customers that it's difficult to compete against."
+    ]
+  },
+  "bret-taylor": {
+    "summary": "Bret argues that the whole market is going to go towards agents. Bret also explains that was the product manager for, it was called Google Local had a pretty tough product review with Marissa and Larry, and to not do that well with a link from the Google homepage is embarrassing. Bret also stresses that if you think the thing that you've been doing your whole career is the way to fix your problem, it's at least 30% likely that you've chosen that because of comfort and familiarity not truth.",
+    "takeaways": [
+      "If you want to go from a 65% automated resolution rate to 75%, we have a billion tools to let AI help you do that, identify opportunities for improvement, figure out why people are frustrated, what new capabilities can we add to our agent to improve the resolution rate?",
+      "If you think the thing that you've been doing your whole career is the way to fix your problem, it's at least 30% likely that you've chosen that because of comfort and familiarity not truth.",
+      "One of the things that is a principle for me is to have a really flexible view of my own identity.",
+      "It's why it's so hard to sell productivity software, which I learned the hard way, it's just hard to know what's the value of making everyone 10% more productive?",
+      "If that thing's right 90% of the time, just for argument's sake, you can wire those things together and have something that's right 99% of the time."
+    ]
+  },
+  "brian-halligan": {
+    "summary": "Brian argues that your parents aren't going to rescue you, your VC is not going to rescue you, that kind of hits you when you hit your first crisis. Brian also points out that the number of companies formed is going to much fewer over the next 10 years relative to the last 10 years, it's just going to be hard to stand out and really accelerate.",
+    "takeaways": [
+      "When you get the scale up phase, it's 90% inspiration, 10% perspiration.",
+      "If I had to guess, Lenny, with 18 months after you hire a C-level exec, at least 50% of the time they're gone.",
+      "The C is something I wouldn't have thought of, but this is a Sequoia thing, like chip on the shoulder.",
+      "People think these rich guys come in and buy these teams, but the way the is set up and the way the economics are set up, it's not a profitable endeavor.",
+      "The number of companies formed is going to much fewer over the next 10 years relative to the last 10 years, it's just going to be hard to stand out and really accelerate."
+    ]
+  },
+  "chip-conley": {
+    "summary": "Chip argues that was mentoring Brian, but he was also my boss. Chip also explains that his point of view is like, \"Hey, we're having a meeting in the office tonight at 10 o'clock.",
+    "takeaways": [
+      "A good example, my iPhone, so there's 97% of the utility of my iPhone that I probably don't use and don't know how to use.",
+      "The most important thing is to be able to articulate what you have accomplished in a new way that a recruiter says, \"Wow.\" I really tell people I would love to see a resume.",
+      "The kind of questions I would ask as someone who's being interviewed would be, what are three to five adjectives that define this culture?",
+      "If you can survive your midlife crisis, all you have to look forward to is disease, decrepitude, and death.",
+      "If you look at Fly Ranch, FlyRanch.org, I think it might even be, or it's on the Burning Man site, Fly Ranch is the opposite of Burning Man."
+    ]
+  },
+  "chip-huyen": {
+    "summary": "Chip argues that a question that get asked a lot and a lot is, \"How do we keep up to date with the latest AI news?\" Why do you need to keep up to date with the latest AI news? Chip also explains that now, we have all this really cool tools to do everything from scratch and have new design. Chip also stresses that If I say my favorite color is, then you would say, \"Okay, that should be another color.\" The word blue would be much more likely to appear than the word like , right?",
+    "takeaways": [
+      "People are just moving pieces around and thinking about use cases, whether you need to spin out new use cases and who would lead a new effort.",
+      "Why do you need to keep up to date with the latest AI news?\" I know it sound very counter-intuitive, but there's just so much news out there.",
+      "If you talk to the users who understand what they want or they don't want, look into the feedback, then you can actually improve the application way, way, way more.",
+      "If you ask VP level or someone who manage a lot of teams, they would say, \"Want AI assistant.\" Because as managers, you are still growing, so for you having one HR head count is big.",
+      "The pre-tuning is basically encoding statistical informations of language to have you predict what is most likely."
+    ]
+  },
+  "dan-shipper": {
+    "summary": "Dan argues that she's just constantly building prompts and building workflows that I and everyone else on the team are just automating as much as possible. Dan also explains that I hate the headlines that are like, \"Entry-level jobs are taken away by AI.\" Whenever I see a kid with ChatGPT, I'm like, \"Holy shit, they're going to go so much faster than any other person that I've worked with.\" We have this guy, he made a year's worth of progress in two months because every time I sat down with him and told him, \"Okay, here's how you tell a story, here's how you think about a headline,\" he recorded all of it, put it into a prompt, and he never made the same mistake twice.",
+    "takeaways": [
+      "One of the interesting things about AI is it's such a general purpose technology, and I think people who work inside companies, 10% of them are like, I'm super curious about this. 10% are like, I will never touch this.",
+      "Create this sort of awareness and momentum, because going back to the point I made earlier, about 10% of people are early adopters, those are the people inside of a company that you need to find and highlight because they're going to just go spend all this time figuring out what works, and then all you have to do is translate what they learn into the rest of the organization.",
+      "If you want a like Tolstoy primer, I would read The Death of Ivan Ilyich.",
+      "The other thing that it does is it allows people who are in those jobs to serve more people cheaply.",
+      "The Turing test was one, but we'd pretty much blown past the Turing test in a lot of ways."
+    ]
+  },
+  "dhanji-r-prasanna": {
+    "summary": "Dhanji argues that the truth is the value is changing every day, so you need to ride that wave along with it. Dhanji also explains that you'll be talking to a colleague on Slack or an email, and they'll be discussing some feature that they think is useful to implement. Dhanji also stresses that a lot of engineers think that code quality is important to building a successful product.",
+    "takeaways": [
+      "Go and figure out the best way to do them.\" And it's successful I would say on 60% of those things, if the features are well enough described and it struggles on the remaining 40 where you have to kind of intervene and massage it.",
+      "The truth is the value is changing every day, so you need to ride that wave along with it.",
+      "We feel across the whole company, we're probably trending towards 20 to 25% of manual hours saved.",
+      "We cut down basically 50% of test runs this way, which is pretty great, and we're not warming the planet as much with all these unnecessary CPU cycles being wasted on tests.",
+      "The first thing I did was to try and institute a number of programs that focused on that."
+    ]
+  },
+  "dr-becky-kennedy": {
+    "summary": "Dr. Becky explains that when you look at bad behavior, the actual problem is someone doesn't have the skill they need to manage something happening internally. Dr. Becky goes on to explain that when we're thinking about a resilient work culture, we want people who can say, \"This is hard and I can do hard things.\". Dr. Becky also stresses that If I'm talking about someone at work, let's say again, who's always late, here's like a quote \"good inside,\" infused conversation.",
+    "takeaways": [
+      "If you actually see that as a sign that you're successfully setting a boundary, instead of as a sign you did something wrong, your relationship with a tantrum changes.",
+      "One of the things I've found interesting is so many people who have that forever learner growth mindset, whatever you want to call it at work, we forget to access it with our kids.",
+      "I would start by saying, \"First of all, I want to say we're on the same team.\" If that's the only thing people take from this, that is the most amazing way to have a more productive conversation with anyone.",
+      "When you look at bad behavior, the actual problem is someone doesn't have the skill they need to manage something happening internally.",
+      "The idea of being good inside inherently requires us to separate behavior and identity."
+    ]
+  },
+  "dr-fei-fei-li": {
+    "summary": "Dr. Fei argues that in the middle of 2015, middle of 2016, some tech companies avoid using the word AI because they were not sure if AI was a dirty word. 2017-ish was the beginning of companies calling themselves AI companies. Dr. Fei also explains that it's not like AI will have no impact on jobs or people. Dr. Fei also stresses that if you look at one of the most important piece in DNA's discovery history is the x-ray diffraction photo that was captured by Rosalind Franklin, and it was a flat 2D photo of a structure that it looks like a cross with diffractions.",
+    "takeaways": [
+      "If you look at one of the most important piece in DNA's discovery history is the x-ray diffraction photo that was captured by Rosalind Franklin, and it was a flat 2D photo of a structure that it looks like a cross with diffractions.",
+      "The field really began in the '50s when computer scientists came together and look at how we can use computer programs and algorithms to build these programs that can do things that have been only capable by human cognition.",
+      "The founding fathers the Dartmouth workshop in the 1956, we have Professor John McCarthy who later came to Stanford who coined the term artificial intelligence.",
+      "If you look at the history of self-driving car, my colleague Sebastian Thrun took Stanford's car to win the first DARPA challenge in 2006 or 2005.",
+      "It dawned on me how important this is to humanity to the point that I actually wrote a piece in New York Times, that year 2018, to talk about the need for a guiding framework to develop and to apply AI."
+    ]
+  },
+  "edwin-chen": {
+    "summary": "Edwin argues that I used to work at a bunch of the big tech companies and I always felt that we could fire 90% of the people and we would move faster because the best people wouldn't have all these distractions. Edwin also points out that people don't understand what quality even means in this space.",
+    "takeaways": [
+      "It's going to take another few years to move to 90%, and another fewer to 99%, and so on, and so on.",
+      "It's kind of like the difference between having a kid and asking them, \"Okay, what test do you want to pass?",
+      "The other part of it though is it's like by optimizing for the benchmark instead of optimizing for the real world, you will just naturally climb on the benchmark and, yeah, it's basically another form of gaming it.",
+      "I used to work at a bunch of the big tech companies and I always felt that we could fire 90% of the people and we would move faster because the best people wouldn't have all these distractions.",
+      "I think people don't realize that there's a big difference between moving from 80% performance to 90% performance to 99% performance to 99.9% performance, and so on, and so on."
+    ]
+  },
+  "elena-verna-40": {
+    "summary": "Elena argues that at this point, we're 100 people large, the pace here is insane. Elena also explains that just feel like I usually spend maybe 5% innovating on growth in previous roles, right now, I'm spending 95% innovating on growth, and only 5% on optimization.",
+    "takeaways": [
+      "I would say that in any other role that I've come into before, I felt confident in about 80% of the patterns that I can bring to that role, meaning that I can identify inputs, understand which framework applies.",
+      "10 years ago, if you asked me if a $200 million company was at risk in losing product-market fit in the next three months if it's experiencing 10% month-over-month growth, I would've said, \"You're crazy.\" And now that's the reality that we live in.",
+      "If you can get positive or above 100% net dollar retention, which is super important metric for investors...",
+      "When I'm thinking about the patterns here, and what I have to unlearn, I feel like only 30 to 40% of what I've learned in the last 15 to 20 years of being in growth transfers here.",
+      "The only way to create a word of mouth loop is just to blow their socks off when they actually experience your product."
+    ]
+  },
+  "eoghan-mccabe": {
+    "summary": "Eoghan explains that if you're not in it, you're about to get kicked out of all of it. Eoghan also explains that fin is our AI agent who will pass 100 million ARR with Fin in less than three quarters. Eoghan also stresses that if you're like customer service and you're selling seats and you're doing outbound messaging and you need to charge for messages and you're doing like SD or Messenger on a website and you need to charge for leads, already that's just metrics in every direction.",
+    "takeaways": [
+      "The conversations that Des and I would have, we still love being on whiteboards.",
+      "When I came back and I said, \"Yes, we're going to lose a lot of revenue here.\" I can't remember how much we wrote down, but we actually have already given away something like $50 million in ARR.",
+      "We're private so we don't have a daily mark to market, but all the other public software companies dropped 80%, 85, 90%.",
+      "It is the metric by which these agents are assessed, and we wanted our revenue to be 100% aligned with the value that they attained because we had all this scar tissue from pricing prior that felt unfair to customers.",
+      "We ran an anonymous employee survey, I think 15 or 16 months after I started aggressively working through the org and rebuilding the org and rebuilding the culture, and we had a 98 to 99% approval of management, leadership and new strategy."
+    ]
+  },
+  "ethan-smith": {
+    "summary": "Ethan explains that in order to win something like what's the best website builder? Ethan also explains that but that's not the case in the LLM, because the LLM is summarizing many citations, and so you need to get mentioned as many times as possible.",
+    "takeaways": [
+      "The false positive rate was around 8%, so basically the AI detector is very accurate.",
+      "I think that the only thing you need to do is cross-linking and subdirectory rather than subdomain, which probably most of them do.",
+      "If you have frameworks to inform how people will use your things, then you can be a more effective growth person.",
+      "If you just read Thinking, Fast and Slow, Persuasion, Emotional Intelligence, you can basically take those frameworks and apply it to growth in all kinds of different ways.",
+      "The LLM is summarizing many citations and so you need to get mentioned as many times as possible."
+    ]
+  },
+  "garrett-lord": {
+    "summary": "Garrett argues that we have this massive strategic advantage, which is like no customer acquisition costs. Garrett also explains that we have this massive strategic advantage, which is like no customer acquisition costs. Garrett also stresses that what they really need is experts, experts across every area that the models are focused on.",
+    "takeaways": [
+      "One of the cool things about being a larger company is our core business is $200 million ARR, so it's like we had resources to be able to accelerate the learning curve here.",
+      "If you want to be a part of one of the fastest growing businesses in Silicon Valley, you can join it.",
+      "So, if you treat people really well, you train them really well, well, A, we have no customer acquisition costs because we partner with 1,600 universities, power 92% of the top 500 schools in the country.",
+      "All these Fortune 500 companies use it and 70% of it pay for it, so I had to learn about upmarket sales to Goldman Sachs, and General Motors, and Google and the biggest companies in the world, which is totally different than selling universities.",
+      "If you want to message me on there, it's the easiest way to reach me."
+    ]
+  },
+  "grant-lee": {
+    "summary": "Grant argues that the investor pauses a little bit, and then just says, \"That has to be the worst pitch, worst idea I have ever heard. Grant also explains that would jump on a call with each one of them so that they understood what Gamma represented, how to use the product. Grant also stresses that if someone just came by and dropped the food on your plate on the table, and just left and never came with a bill, I'm like, okay, maybe I'm not going to recommend this to somebody else.",
+    "takeaways": [
+      "Your goal is you get that first 10 and you want to be able to then replicate the next 10 and then replicate the next 10, but that 10 needs to be all super cohesive.",
+      "If you have any, and I think this applies to both prosumer, B2C, as well as even B2B products, if you have a B2B product, even if you're not telling all of your friends, you should be telling colleagues where that product is relevant.",
+      "If you're not seeing a healthy chunk of those leads come through that way, I would go back.",
+      "If you rely on paid acquisition to be the main growth engine, you should be prepared for things like CAC, like customer acquisition costs, to keep going up.",
+      "Every single new user would experience this sort of magic in the first 30 seconds."
+    ]
+  },
+  "hamel-husain--shreya-shankar": {
+    "summary": "Hamel explains that when you're building an AI application, you just learn a lot. Hamel also points out that the top one is, \"We live in the age of AI. Hamel emphasizes that the concept of a trace has been around for a really long time, but it's especially really important when it comes to AI applications.",
+    "takeaways": [
+      "The first thing you want to do is take these notes, and you can categorize them with an LLM, and so there's a lot of different ways to do that.",
+      "Does that make sense? 90% agreement look good on paper, but it might be misleading.",
+      "The second one that I see a lot is, \"Hey, just not looking at the data.\" In my consulting, people come to me with problems all the time, and the first thing I'll say is, \"Let's go look at your traces.\" You can see their eyes pop open and be like, \"What do you mean?\" I'm like, \"Yeah, let's look at it right now.\" They're surprised that I am going to go look at individual traces, and it always 100% of the time learn a lot and figure out what the problem is.",
+      "This is a technique that's been used to analyze stochastic systems for ages, and it's something that it was just using the same machine learning ideas and principles, just bringing them into here, because again, these are stochastic systems.",
+      "When you're doing this open coding, a lot of teams get bogged down in having a committee do this."
+    ]
+  },
+  "howie-liu": {
+    "summary": "Howie explains that if you can't, then you should find a buyer and then if you really care about this mission, go and start the next carnation of it. Howie goes on to explain that if you want to cancel all your meetings for like a day or for an entire week and just go play around with every AI product you think could be relevant to Airtable, go do it.",
+    "takeaways": [
+      "If you can't, then you should find a buyer and then if you really care about this mission, go and start the next carnation of it.",
+      "If you want to cancel all your meetings for like a day or for an entire week and just go play around with every AI product you think could be relevant to Airtable, go do it.",
+      "If you can't really introspect and say, \"Look, I think I'm better off doing this with the pieces that I have for my existing business and product,\" then I think you should sell.",
+      "I would actually go further and say I think you need to get decently good at all three.",
+      "I think I would add a slightly different or additive take though, which is I think for a completely novel product experience or form factor, you should actually not start with evals and you should start with vibes, right?"
+    ]
+  },
+  "jason-cohen": {
+    "summary": "Jason argues that think about the gauntlet they went through to get to the product. Jason also explains that your prices are way too low because you just guessed and you haven't changed them. Jason emphasizes that the point is that cancellation is this hard limit pulling you down with all these other really bad either implications or side effects, which is why it's so important.",
+    "takeaways": [
+      "There's this thing in investments where, let's say I started out at $100 and the stock goes down 5%, so now it's at 95, or no, it goes down 20%, now it's at 80.",
+      "One would be, all right, 2% left, but of the remaining 98%, some of those upgraded or otherwise paid us more, maybe it's usage based, whatever it is.",
+      "This is why NRR isn't quite right, because NRR is saying that a loss of 20% from cancellations is offset by 20% from upgrades.",
+      "If you were looking for more metrics in another framework, sorry, it's existential, but it is.",
+      "The last thing I would say about this detection is if you don't know what to do or all else being equal, then focus-."
+    ]
+  },
+  "jason-droege": {
+    "summary": "Jason argues that these things take 6 to 12 months to get them truly robust enough where an important process can be automated. Jason also points out that the general trend right now is going from models knowing things to models doing things. Jason emphasizes that the business has grown every month since the deal happened, which I've read, the reporting is not consistently reported.",
+    "takeaways": [
+      "The transaction was Meta invested a little bit over $14 billion to get 49% of the company, non-voting stock, didn't take a new board seat.",
+      "If you have a human process that is 10 or 20% accurate or 10 or 20% liked, AI is awesome.",
+      "If you get to 50, 60, 70, 80% accurate, you're in the money, you're in the green, everybody's happy.",
+      "If you have a human process, a workflow that is 98% accurate, and you expect an AI system to get you the remaining 2%, not totally there yet.",
+      "If you were to take a restaurant location and triple demand based on the same labor but you're just scaling ingredients, you've got a 70, 80% incremental gross margin product."
+    ]
+  },
+  "jason-m-lemkin": {
+    "summary": "Jason argues that here's the mistake that 99% of founders and sales reps make. Jason also explains that long time fan, first time dialer or something?",
+    "takeaways": [
+      "If you're running, I am just making up CRM, but if you're running a new CRM startup, you can run circles around 98% of the sales reps at Salesforce or HubSpot.",
+      "If you do it too early, if you're not spending 20% of your time in sales and 20% of your time in recruiting, you're failing as a founder.",
+      "Every quarter, give your head of sales a certain budget, whether it's story points or 10% of the pie chart, however you do it, give them a budget.",
+      "If you hire a VP of sales before then, it's approaching 100% chance of failure.",
+      "I can't tell you, I would say 95% of the hiring I see out there, people don't do reference checks anymore, Lenny."
+    ]
+  },
+  "jeanne-grosser": {
+    "summary": "Jeanne argues that With AI, it's just intensified because you have 10 players pursuing the same market opportunity and so your ability to actually bring the product to market to differentiate yourself from the competition has become more strategically important than it was previously. Jeanne also explains that 80% of customers buy to avoid pain or reduce risk as opposed to increased upside, which is a good thing for startup founders to understand.",
+    "takeaways": [
+      "The goal was basically, hey, can we create a mad Libs where I will come up with sort of a predefined email template, but 80% of it will be fill in the blank based on the different attributes of that customer.",
+      "If you were going to grow at 200% year-on-year, you were more valuable to Stripe than if you were going to grow at 8% year-on-year.",
+      "The company at that time had an operating principle which was efficiency is leverage.",
+      "80% of customers buy to avoid pain or reduce risk as opposed to increased upside, which is a good thing for startup founders to understand.",
+      "The litmus test I have always given my sales team is if you are an account executive in my org and I put you in front of 10 engineers at our company, it should take them 10 minutes to figure out you aren't a product manager."
+    ]
+  },
+  "jeetu-patel": {
+    "summary": "Jeetu explains that if you have 60% of your population where you don't have enough people who take care of them, that could cause a lot of human suffering. Jeetu also explains that you have to know the difference between a megatrend and a hype cycle. Jeetu emphasizes that every company has their own set of constraints, and we have our own set of constraints, and we have to make sure that given those constraints, we have to actually innovate really well.",
+    "takeaways": [
+      "If you have 60% of your population where you don't have enough people who take care of them, that could cause a lot of human suffering.",
+      "It's like in everything that you do in work, you have to just understand the formula that there's going to be 30% of the stuff that you do at work that you're just going to hate.",
+      "The only way that you can establish trust is by making sure that you spend the time to establish the trust.",
+      "The reason for that is you have to be extremely selective of where you expend your calories.",
+      "The first thing I feel is, you have to have very clear thinking because the clarity of thought is what brings clarity of communication."
+    ]
+  },
+  "jen-abel": {
+    "summary": "Jen argues that a lot of early stage founders get tripped up as they're taking late stage sales advice. Jen also explains that so if you can focus the messaging in a way that speaks to something that is a bit of shock value or is counterintuitive, you'll get them to continue reading. Jen emphasizes that the second most important piece is really getting to that level of differentiation or counterintuitive nature.",
+    "takeaways": [
+      "If you have a really high win rate, let's say 30 or 40%, you actually don't need as high of a conversion rate on the outbound, because you know if you get someone in the funnel, the throughput is very healthy.",
+      "If you're dealing with a highly regulated industry, just know it's going to take a bit longer, sometimes 20 to 30% longer.",
+      "It's counterintuitive to what most people think, but it can be really, really fun when we show you the way.",
+      "I would say if you're doing a win rate around 15 to 30% and you need to carry, oh I don't know, a million dollar quota.",
+      "I would 40 to 50% have to sell some form of service before they can sell a technology."
+    ]
+  },
+  "jenny-wen": {
+    "summary": "Jenny argues that this design process that designers have been taught, we sort of treat it as gospel. Jenny also points out that a few years ago, 60 to 70% of it was mocking and prototyping, but now I feel the mocking up part of it is 30 to 40%.",
+    "takeaways": [
+      "A few years ago, 60 to 70% of it was mocking and prototyping, but now I feel the mocking up part of it is 30 to 40%.",
+      "The other person that's really exciting to me, is in that T-shaped framework, a deep specialist, someone who is T-shaped, but the tip of the T probably goes down farther than most other people.",
+      "The way I think about balancing this out is you have to create this baseline of psychological safety, and people feel comfortable both with each other and with you, but you also have to make sure that they know that you have really high standards.",
+      "The second one that I recommend to a lot of people is a book called Insomniac City, which is written by Bill Hayes, who was the partner of the scientist, Oliver Sacks, around the time that Oliver Sacks died.",
+      "I think as a designer a few years ago, I would say maybe 60 to 70% of it was mocking and prototyping stuff up, and then spending some of the last 20 or so doing the sort of jamming with engineers, consulting with them, and the last 10% maybe doing coordination meetings, et cetera."
+    ]
+  },
+  "lazar-jovanovic": {
+    "summary": "Lazar argues that you can hire yourself as a professional vibe coder first. Lazar also points out that people be like, \"Oh, my God, you wrote that code? Lazar also stresses that a lot of people have a lot of great ideas, but they don't know how to build them or they just don't have the bandwidth to.",
+    "takeaways": [
+      "The best way to learn is by building, but treating these tools almost as technical co-founders and educators, and learning while doing, and religiously reading the agent output.",
+      "When engines got built and cars were put on the roads, I think that 90% of horse population got eradicated in the US within 20 years.",
+      "In the next request, instead of focusing on reading, it spends another 30% of tokens trying to come up with an apology.",
+      "If you want to follow me, I hope to reengage my YouTube channel a little bit more.",
+      "To this day, I can say I spent 80% of my time in planning and chatting and only 20% in executing the plan actually."
+    ]
+  },
+  "madhavan-ramanujam": {
+    "summary": "Madhavan explains that when we talk about pricing, many people quickly gravitate to dollar figures. Madhavan also explains that we are the world's largest pricing strategy consulting firm. Madhavan emphasizes that the funny thing that I've actually always seen, always, across these hundreds of companies that I've worked, 20% of what you build drives 80% of the willingness to pay, is a classic burrito.",
+    "takeaways": [
+      "The rule of thumb that I usually say is, if 10 to 20% of your customers want something and they really want it badly, that's usually an add-on.",
+      "The funny thing that I've actually always seen, always, across these hundreds of companies that I've worked, 20% of what you build drives 80% of the willingness to pay, is a classic burrito.",
+      "If you do this at scale, what you'll start seeing is that there are some cliffs in these demand curves, where suddenly, when you cross from let's say 99 to 101, 20 or 30% might say, \"It is expensive,\" or, \"Hey, it's prohibitively expensive.\".",
+      "If you're a B2B SaaS company and you're focusing on let's say 20 to 30 accounts leading 80 to 90% of your business, try to talk to as many of those as possible.",
+      "If you ask them, what should the pricing model be, 3% transaction fee on a hundred dollar item, or one and a half percent transaction and dollar 50 cents, or 3 dollars, or are you indifferent?"
+    ]
+  },
+  "marc-andreessen": {
+    "summary": "Marc explains that if we didn't have AI, we'd be in a panic right now about what's going to happen to the economy. Marc also explains that now, we have a technology that transfers the most common thing in the world, which is sand, converted into the most rare thing in the world which is thought. Marc emphasizes that every coder now believes they can also be a product manager and a designer because they have AI.",
+    "takeaways": [
+      "The super-empowered individual on the other end of this that wants to do great things with the new technology, yes, you 100% want to understand this thing all the way down the stack because you want to be able to understand what it's giving you.",
+      "The collapsing prices mean that the thing today that costs you $100, now costs you $10, and now costs you $1.",
+      "If you and I are colleagues and I would ask you to do something, you'd come back with something completely different, I do need to understand what was happening in your head in order to be able to give you feedback.",
+      "The way to optimize the outcome is to have as many of those as possible be as good as possible, run as hard as possible.",
+      "The way I think about this, we have a 10-year-old, we actually homeschool and so we think a lot about this."
+    ]
+  },
+  "matt-lemay": {
+    "summary": "Matt argues that the problem is the message that Daniel Ek from Spotify sent out with their layoffs in 2024, we still have too many teams doing work around the work. Matt goes on to explain that if you were the CEO of this company, would you fully fund your own team?",
+    "takeaways": [
+      "If you are 51% sure that a different approach is going to get us 1% closer, I expect you to advocate for that approach.",
+      "The problem is the message that Daniel Ek from Spotify sent out with their layoffs in 2024, we still have too many teams doing work around the work.",
+      "The problem is if you have 10 teams adding rhinestones to a car, eventually the hood of the car is going to be so heavy that you can't lift it to get to the engine anymore, and that's exactly what happens in most product organizations.",
+      "The first step, and I think the most important and where a lot of my work plays out is in setting team goals, close to company goals.",
+      "One was build a fantastic, wonderful, magical, beautiful platform to increase our team's profits by 20%."
+    ]
+  },
+  "matt-macinnis": {
+    "summary": "Matt explains that if you overstaff, you get politics, you get people working on things that are further down the priority list than necessary. Matt goes on to explain that if you want to be in the 99th percentile in terms of outcomes, it's going to be really difficult. Matt emphasizes that the lesson is that everything must be done in its time and order, and you can move really, really quickly.",
+    "takeaways": [
+      "If you leave anything on the field, if you sort of leave a crack for your competitor, 100% chance they're going to go fill that crack.",
+      "If you want to be in the 99th percentile in terms of outcomes, it's going to be really difficult.",
+      "It's not that an extraordinary effort is sufficient to an extraordinary outcome, but it is 100% true that it is necessary.",
+      "The wisdom, the wisdom element is to know not to under-under-staff and sort of knowing the difference between those two things.",
+      "If you have a code base, every line of code that you add to that code base increases the entropy of that system and demands ever more energy from human beings to go and intend to it to make sure it doesn't break, and if you want to achieve greatness, if you want an extraordinary outcome, and in particular, if you want to be in the top 10%, top 5% on the X axis so that the Y axis is through the roof, then you have to relentlessly inject energy at every single step of the game."
+    ]
+  },
+  "melanie-perkins": {
+    "summary": "Melanie argues that it was the future and I thought the investors were wrong, frankly. Melanie also points out that the thing that I love about a crazy big goal is that you feel completely inadequate before it. Melanie emphasizes that every time the company doubles in size, pretty much all your systems break, all the things that were working don't work.",
+    "takeaways": [
+      "Every single person, every single company should take that where you give 1% of time, money, equity and profitability.",
+      "One of the most important things that we did was we didn't really worry about competitors at all.",
+      "Every idea starts in the chaos side, and then you have to work all the way to the other side, which is clarity.",
+      "The way that you can plan is you can dream of what is the perfect vision of the future, what future do you want to exist in, what would you like the world to look like?",
+      "If you are in a company, starting a company, try and do the 1% pledge."
+    ]
+  },
+  "molly-graham": {
+    "summary": "Molly argues that facebook felt like 19-year-old hacker's dorm room. 80% of the culture of a company is literally defined by the personality of the founder. Molly also explains that you have to grow as fast as your company is growing if you really want to take advantage, both learning to give away what you've gotten good at and move on to the next shiny pile of Legos.",
+    "takeaways": [
+      "The best people in the world in hiring will tell you they have about a 50% average in terms of being right.",
+      "The most humbling lesson I learned is 80% of the culture of a company is literally defined by the personality of the founder.",
+      "If you cannot do that work, you haven't done the most important work to actually make sure that these goals get accomplished.",
+      "The interesting thing about this model is that most people, when something's going wrong on a team, a lot of times we always go to the bottom.",
+      "That equation, again, I would say 80% of problems that I see, performance issues."
+    ]
+  },
+  "nick-turley": {
+    "summary": "Nick argues that it was supposed to be a hackathon code base. Nick also explains that it was supposed to be a hackathon code base. Nick also stresses that what happened if I became Lenny's intern, or something?\" And I wouldn't be particularly effective despite having both of those attributes that I just mentioned, and it's because this idea of building a relationship with this technology is also incredibly important.",
+    "takeaways": [
+      "If you applied to some sort of PM framework to that, I think you would do something horrible wrong.",
+      "The models are changing and the best way to improve them, whether or not you're a lab or actually just someone who's doing context engineering or fine-tuning a model maybe, you need failure cases, real failure cases, to make these things better.",
+      "The model is the product and therefore you need to iterate on it like a product.",
+      "The research we'd been testing for a long time, it was kind of an evolution of what we'd called instruction following, which was the idea that instead of just completing the sentence, these models could actually follow you instructions.",
+      "The interdisciplinariness of really making sure that you put research and engineering and design and product together rather than treating them as silos."
+    ]
+  },
+  "nicole-forsgren": {
+    "summary": "Nicole argues that this is a bigger challenge than most people recognize or realize. 80% of the folks that I work with, this is their biggest problem. Nicole goes on to explain that if you're on different pages, you're heading in completely different directions.\".",
+    "takeaways": [
+      "I would say this is a bigger challenge than most people recognize or realize. 80% of the folks that I work with, this is their biggest problem.",
+      "The SPACE paper is nice because it outlines this framework and it gives examples of metrics in every single category.",
+      "The only way to do this is to have this software pipeline that is fast and is safe and is stable, and is reliable.",
+      "When you have something you want to measure, it says, \"Within your context, within the metrics you have available to you, here's how to pick.\".",
+      "Time to restore is less than an hour, and your change fail rate is between zero and 15%."
+    ]
+  },
+  "rachel-lockett": {
+    "summary": "Rachel argues that people have climbed the ladder because they've been dependable, reliable, the smartest person in the room. Rachel also explains that we're supposed to give all of ourselves, all of our time, all of our energy to this endeavor, and it's purely logical. Rachel also stresses that if there's an urgent issue, the person coming to you doesn't have the skill they need, that's a time to advise and help.",
+    "takeaways": [
+      "I really try to push people to think aspirationally, that if you're 80% of the time in your gifts, how much energy you have to give to the world.",
+      "The best way to help is actually doing something that most leaders don't do well.",
+      "What are the other kinds of things you could do to help you prioritize and create that sacred 25% of extra time for yourself?",
+      "If you want to just be scrappy and have an open connected conversation about, you could even say, what are the gifts I bring and the weaknesses I have, and how will I cover those?",
+      "You're creating more space, maybe 15% more space in your one-on-ones, in your meetings for open-ended questions."
+    ]
+  },
+  "ravi-mehta": {
+    "summary": "Ravi argues that the framework I like to use with product leaders that I'm coaching is to think about a matrix. Ravi also explains that it's been great to see how it's evolved over the years. Ravi emphasizes that the second thing is really thinking differently about how to make decisions.",
+    "takeaways": [
+      "The analogy I like to use, it's a little bit like taking a road trip and starting out by saying, \"Hey, we need to drive 250 miles.\" It's like, no, if you're going to take a road trip, you first decide where you want to drive to.",
+      "The framework I like to use with product leaders that I'm coaching is to think about a matrix.",
+      "The private strategy stack is a system that helps people understand what framework they're using in order to make decisions and what's going to drive value for the business.",
+      "The framework consists of 12 competencies in four different areas.",
+      "The problem is, and this is true in a casual one-on-one, as much as it's true in an annual performance review, it's oftentimes the feedback that people provide is very surface level."
+    ]
+  },
+  "robby-stein": {
+    "summary": "Robby argues that google's mission around have any information be universally accessible, this very enduring, very motivating thing, and it feels like with the AI moment, we can actually achieve that more than ever before. Robby also points out that the core Google search isn't really changing, in their view. Robby also stresses that one is just relentlessness, just complete effort, but is always exerted in a direction of positive productivity.",
+    "takeaways": [
+      "If your product, let's say, let's say our core metrics down 5% this week, it's like, well, what's going on?",
+      "People would have all these hacks like, \"Hey, act like you're a coach and you do these things,\" and you have to really push it, or to use a tool more on the technical side.",
+      "People don't even know that it's a close friend story, they just see the little head because you have to click on it to see the thing.",
+      "Google Lens, one of the fastest growing products out there, it's growing 70% year-over-year increase in visual searches, which is already at a massive scale.",
+      "I think the only thing I would give advice to would be think about what people are using AI for."
+    ]
+  },
+  "sam-lessin": {
+    "summary": "Sam argues that just feel like no one's being honest in teaching founders this. Sam also explains that you want to be able to show up in a way where people are like, \"Okay, this is someone I can work with and trust.\" Etiquette is a skill for how to show up in a room with a low heart rate. Sam emphasizes that the funny part about doing this is people come back with a bunch of other things we should cover.",
+    "takeaways": [
+      "The second thing, which is important is if you're, especially if you're out to dinner with someone who's very, very well known, you have to tip like crazy because the problem is, this is one thing, this is not in the book, this is a 201 course.",
+      "If you're out in a situation, I think you kind of want to tip in my mind to the level of no one you're effectively paying for would bat an eye that you're being stingy is the way I would think about it. 20% feels like the minimum. 30% sometimes, more seems a little bit silly, but it is a squirrely topic.",
+      "If you go out with a VC and you put a card down, 99% of the time they'll be like, \"I got this.",
+      "If you're the less senior person, if you are the less busy person, you should let the other person tell you when they're free and then make it work on your end, is what I would say.",
+      "If you see an email sent to many, many, many people, almost by definition, it's not that important is almost the way I would put And so you have to be really careful with managing that."
+    ]
+  },
+  "scott-wu": {
+    "summary": "Scott argues that our whole team is only like 15 engineers a year. Scott also points out that one of the things which is already I'd say different in AI, is just how explosive the technology can be.",
+    "takeaways": [
+      "The other thing of course is that we've spent a lot of time in figuring out how to build and to really kind of build for an interface where you can get Devin's value on tasks where Devin is able to do the 80 or 90%.",
+      "Sometimes you want to be able to jump in for the 10 or 20% that really needs your help.",
+      "90% of the time is you've got this Kubernetes error, then you've got to debug, and you have to see what went wrong and the system crash, or you left some port open and this is messing up, or there's a bug report that you have to take care of, or you've got to migrate your code, or you got it upgraded to a new version or things like that.",
+      "One of the reasons I would say for that is in the real world, you're just capped by real world constraints.",
+      "The key thing that I would just emphasize here is a lot of it obviously is really just about thinking about as a software engineer or as engineers ourselves or engineering teams, PMs, and so on."
+    ]
+  },
+  "sherwin-wu-v2": {
+    "summary": "Sherwin argues that it literally feels like we're wizards casting all these spells and these spells are kind of like going out and doing things for you. Sherwin also points out that the second or third order effects of the one person billion dollar startup.",
+    "takeaways": [
+      "The way I think about it is 10% of the world, and growing, by the way, it's shooting up, come to ChatGPT and use it every day, or sorry, every week.",
+      "I wouldn't make the statement that 100% of code running in production today is written by AI.",
+      "The way I've been thinking about is like, yeah, there might be one one person billion dollar startup, but there might be like 100 $100 million startups.",
+      "There's a team that's actually doing an experiment right now within OpenAI where they are maintaining a 100% Codex-written code base.",
+      "It's a little hard for us to exactly measure how much of the code is written because the vast majority of it, I'd say close to 100% is usually generated by AI first."
+    ]
+  },
+  "stewart-butterfield": {
+    "summary": "Stewart argues that it's just terrible and we should be humiliated that we offer this to the public.\". Stewart also explains that to me that was like, \"You should be embarrassed.\" If you can't see almost limitless opportunities to improve, then you shouldn't be designing the product. Stewart emphasizes that the reason I felt like this was so important is because we would talk about a feature, and usually features are thought of as a binary.",
+    "takeaways": [
+      "It's crazy, but the issue is my intent isn't always 100%, and the specificity of my intent isn't always 100%.",
+      "The problem with that was the difference that you could possibly achieve between having this feature and not having this feature is like this much whatever units you want.",
+      "The problem with almost every organization at the very beginning, you have an enormous amount of work that you know what to do, and you know that it's going to be valuable.",
+      "The reason I say you have to be coldly rational about it is because it's fucking humiliating.",
+      "If you want to sell Harley-Davidson's, there are people who are going to geek out on the engines and stuff like that and the quality of the leather and stuff like that."
+    ]
+  },
+  "tomer-cohen": {
+    "summary": "Tomer explains that if you start from the premise that LinkedIn ultimately is a platform for economic opportunity that sits on top of a very strong social graph. Tomer also explains that to really set the new purpose for it, which was this is not a springboard for other products. Tomer also stresses that when you need to move forward and it's not about being right or wrong, it's really about not being confused and making sure everybody's pulling in the same direction.",
+    "takeaways": [
+      "When you need to move forward and it's not about being right or wrong, it's really about not being confused and making sure everybody's pulling in the same direction.",
+      "If you talk to folks who work with me, they'll tell you, I push a lot for what is actually your opinion, what is your potentially controversial opinion and the best principles have teeth.",
+      "If you want to keep the site keep growing and the experience keep growing, carving out and almost like sending very specific unique metrics but then could easily be extended out once you show it was in retrospect the right way to do it.",
+      "The analogy I would give to people is imagine a river rafting boat and you have everybody on the sides holding the pedals and adding accuracy, adding speed, but there's the guide on the back and they're holding those two pedals.",
+      "Every PM had to go through training just like we did mobile in 2014, we moved the whole organization to be mobile first, so everybody had to go through this process."
+    ]
+  },
+  "zevi-arnovitz": {
+    "summary": "Zevi argues that have zero technical background, did music in high school .. when Sonnet 3.5 came out. Zevi goes on to explain that if you're non-technical like me, code is terrifying, but AI just makes it so much possible. Zevi also stresses that if the coding agent is just like, \"All right, I got it.\" And just starts writing code, this always results in terrible things, some really gnarly bugs that I had.",
+    "takeaways": [
+      "Every time I had an issue with one of these areas, I would come to one of them and consult them, and this does two things.",
+      "Quizzes are 100% multiple choice, question structure, single sentence passage to blanks and priority.",
+      "I think for some reason, these people usually have a high correlation with the kind of person who doesn't like to show their presentation when it's only 10% done or doesn't want to ask for help a lot.",
+      "I understand the fear that how do you outsource certain stuff and you're not owning 100% of everything, but I think the upside is so much more valuable.",
+      "It's both for the CTO to deeply understand the problem that we're trying to solve and also understand the current state of the code base, what files need to be affected, and how is the best way to implement this technically."
+    ]
+  }
+}
