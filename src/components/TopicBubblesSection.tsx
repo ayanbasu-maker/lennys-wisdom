@@ -233,13 +233,13 @@ export default function TopicBubblesSection({
           {themeGuests.length > 0 && (
             <div className="mb-6">
               <h4 className="text-sm font-semibold text-accent uppercase tracking-wide mb-3">
-                Guest Experts
+                Top Experts
                 <span className="text-muted font-normal normal-case ml-2">
-                  {themeGuests.length} guests covered this topic
+                  top 5 of {themeGuests.length} guests
                 </span>
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                {themeGuests.slice(0, 8).map((guest) => (
+                {themeGuests.slice(0, 5).map((guest) => (
                   <Link
                     key={guest.slug}
                     href={`/guests/${guest.slug}`}
@@ -276,7 +276,7 @@ export default function TopicBubblesSection({
                   </Link>
                 ))}
               </div>
-              {themeGuests.length > 8 && (
+              {themeGuests.length > 5 && (
                 <Link
                   href="/guests"
                   className="inline-block mt-3 text-sm text-accent hover:underline"
