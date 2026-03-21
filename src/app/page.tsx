@@ -58,6 +58,68 @@ export default function Home() {
         <WisdomGenerator quotes={data.quotes} />
       </section>
 
+      {/* Newsletter Highlights */}
+      <section className="py-12">
+        <div className="mb-6">
+          <h2 className="text-2xl font-bold text-foreground mb-1">Newsletter Highlights</h2>
+          <p className="text-sm text-muted">
+            {data.newsletters.length} deep-dive essays on product, AI, and career growth
+          </p>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {data.newsletters.map((nl) => {
+            const bestExcerpt = nl.excerpts.find(
+              (e) => e.wordCount > 30 && !e.text.includes("Lenny") && !e.text.includes("follow") && !e.text.includes("Spotify")
+            );
+            return (
+              <div
+                key={nl.slug}
+                className="bg-surface rounded-xl p-5 border border-surface-light hover:border-accent/30 transition-colors"
+              >
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="px-2 py-0.5 text-[10px] font-medium rounded-full bg-accent/10 text-accent border border-accent/20">
+                    Newsletter
+                  </span>
+                  <span className="text-xs text-muted">
+                    {new Date(nl.date).toLocaleDateString("en-US", {
+                      month: "short",
+                      day: "numeric",
+                      year: "numeric",
+                    })}
+                  </span>
+                </div>
+                <h3 className="text-foreground font-semibold mb-1 leading-snug">
+                  {nl.title}
+                </h3>
+                {nl.subtitle && (
+                  <p className="text-sm text-accent/80 mb-3">{nl.subtitle}</p>
+                )}
+                {bestExcerpt && (
+                  <p className="text-xs text-muted leading-relaxed line-clamp-3">
+                    {bestExcerpt.text}
+                  </p>
+                )}
+                <div className="flex flex-wrap gap-1.5 mt-3">
+                  {nl.themes.slice(0, 3).map((theme) => (
+                    <span
+                      key={theme}
+                      className="px-2 py-0.5 text-[10px] rounded-full bg-surface-light text-muted"
+                    >
+                      {theme}
+                    </span>
+                  ))}
+                  {nl.themes.length > 3 && (
+                    <span className="text-[10px] text-muted">
+                      +{nl.themes.length - 3} more
+                    </span>
+                  )}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </section>
+
       {/* Featured Guests */}
       <section className="py-12">
         <div className="flex items-center justify-between mb-6">
