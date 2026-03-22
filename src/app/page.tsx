@@ -40,15 +40,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Topic Bubbles */}
-      <section className="py-12">
-        <h2 className="text-2xl font-bold text-foreground mb-2">Topic Landscape</h2>
-        <p className="text-sm text-muted mb-6">
-          Click any topic to see key themes, takeaways, and notable quotes
-        </p>
-        <TopicBubblesSection themes={data.themes} quotes={data.quotes} guests={data.guests} />
-      </section>
-
       {/* Wisdom Generator */}
       <section className="py-12">
         <h2 className="text-2xl font-bold text-foreground mb-2">Random Wisdom</h2>
@@ -56,6 +47,15 @@ export default function Home() {
           Get a random insight from 50 episodes — share the ones that resonate
         </p>
         <WisdomGenerator quotes={data.quotes} />
+      </section>
+
+      {/* Topic Bubbles */}
+      <section className="py-12">
+        <h2 className="text-2xl font-bold text-foreground mb-2">Topic Landscape</h2>
+        <p className="text-sm text-muted mb-6">
+          Click any topic to see key themes, takeaways, and notable quotes
+        </p>
+        <TopicBubblesSection themes={data.themes} quotes={data.quotes} guests={data.guests} />
       </section>
 
     </div>
